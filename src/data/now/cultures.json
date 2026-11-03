@@ -1,0 +1,1008 @@
+[
+  {
+    "id": "comedy",
+    "label": "脱口秀 · 即兴 · 开放麦",
+    "short": "喜剧",
+    "summary": "一个人拿着话筒讲自己写的段子是脱口秀；没有剧本、现场接梗的是即兴喜剧；开放麦是新人和老演员试新段子的场次，票便宜，成败都在现场。",
+    "firstTime": {
+      "expect": [
+        "演出常在商场地下或小剧场，几十到一两百个座位",
+        "开放麦里有的段子会冷场，这本来就是它的一部分",
+        "有中文、英文、沪语等不同语种的场次"
+      ],
+      "etiquette": [
+        "别录像，段子是演员的作品",
+        "坐前排可能被演员互动"
+      ],
+      "start": "先看一场演员成熟的「拼盘」商演，再去开放麦看新段子是怎么打磨的。"
+    },
+    "kid9": "多数段子是成人话题，9 岁更适合即兴喜剧或家庭场。",
+    "kid16": "16 岁很适合，能看懂写作和节奏。",
+    "adjacent": [
+      {
+        "id": "theatre",
+        "why": "即兴喜剧和小剧场共用很多演员与场地"
+      },
+      {
+        "id": "games",
+        "why": "都是现场的、靠互动的社交娱乐"
+      }
+    ],
+    "topics": [
+      "culture/stage",
+      "everyday/public-space"
+    ],
+    "questIds": [],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "INS Comedy 在复兴公园里，有脱口秀、新式相声、小品、魔术喜剧和即兴；笑乐汇新空间在外滩 NEO，演传统相声。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Unconventional venues for live performances in Shanghai",
+            "url": "https://english.shanghai.gov.cn/en-Theaters/20240621/b628aa8d723443ce8d7e4c56ad1a79ba.html",
+            "date": "2024-06-21"
+          }
+        ]
+      },
+      {
+        "text": "2025 年上海五大商业综合体里的 65 个新演艺空间演了 6000 多场，观众近 50 万。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Shanghai's performing arts market tops nation in 2025",
+            "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260212/af11d8de7fd24819bff50c940e428855.html",
+            "date": "2026-02-12"
+          }
+        ]
+      },
+      {
+        "text": "大麦数据显示，2024 年上海脱口秀演出突破 1.5 万场；喜剧联合国、山羊 GOAT、贰叁叁等俱乐部都在上海，喜剧联合国有沪语脱口秀。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "界面新闻：沪语脱口秀与上海脱口秀产业（徐鲁青）",
+            "url": "https://m.jiemian.com/article/12306031.html",
+            "date": "2025-02"
+          }
+        ]
+      },
+      {
+        "text": "市政府的 2026 年度活动指南把「第 12 届上海国际喜剧节」列在 11 月，只公布了月份。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：2026 Shanghai major events promotion guide",
+            "url": "https://english.shanghai.gov.cn/en-EditorsPick-travelinshanghai/20260424/8cefc9d30b144345b2dadf8b40f4bb04.html",
+            "date": "2026-04-24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "music",
+    "label": "独立音乐 · Livehouse · 爵士 · 电子",
+    "short": "音乐",
+    "summary": "Livehouse 是站着看乐队的小型演出场；独立音乐指不靠大唱片公司、自己写自己发的音乐；上海的爵士俱乐部从老牌到地下室都有，很多场子晚上会变成即兴 Jam。",
+    "firstTime": {
+      "expect": [
+        "Livehouse 多半是站票，演出比票面时间晚开始很正常",
+        "爵士酒吧通常有最低消费或酒水",
+        "即兴 Jam 时乐手会轮流上台"
+      ],
+      "etiquette": [
+        "跟着乐队的节奏，不要在安静的段落大声聊天",
+        "Livehouse 前排会挤，带孩子站后面"
+      ],
+      "start": "先去一个能坐着听的爵士场（白天或早场更好），再去 Livehouse 看一场本地乐队。"
+    },
+    "kid9": "多数场地是夜间和酒吧，9 岁可以去音乐厅或白天的唱片店。",
+    "kid16": "16 岁可以陪同去早场的 Livehouse 或爵士俱乐部。",
+    "adjacent": [
+      {
+        "id": "night",
+        "why": "聆听酒吧和爵士吧是同一群人在逛"
+      },
+      {
+        "id": "theatre",
+        "why": "音乐剧把音乐带进剧场"
+      },
+      {
+        "id": "vintage",
+        "why": "黑胶、复古和古着常在一起"
+      }
+    ],
+    "topics": [
+      "culture/stage",
+      "rhythm/night"
+    ],
+    "questIds": [
+      "hf-symphony",
+      "sz-m50"
+    ],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "SmartShanghai 2026 年 3 月的爵士指南列出 JZ Club、Heyday、Chair Club 等十处，Chair Club 每周一有即兴 Jam。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "SmartShanghai：The Shanghai Jazz Guide",
+            "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+            "date": "2026-03-07"
+          }
+        ]
+      },
+      {
+        "text": "和平饭店老年爵士乐队据称持有「最年长的演出中爵士乐队」吉尼斯纪录。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "SmartShanghai：The Shanghai Jazz Guide",
+            "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+            "date": "2026-03-07"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "theatre",
+    "label": "沉浸式戏剧 · 实验戏剧 · 音乐剧",
+    "short": "剧场",
+    "summary": "沉浸式戏剧让观众在空间里走动、自己选择看哪条线；实验戏剧在小剧场里试新形式；音乐剧是上海近几年最大的演出门类。",
+    "firstTime": {
+      "expect": [
+        "沉浸式剧目可能要全程站立、走楼梯",
+        "音乐剧常有中文字幕",
+        "小剧场开演后通常不能进场"
+      ],
+      "etiquette": [
+        "沉浸式戏剧通常不能拍照、不能说话",
+        "按剧目的年龄提示决定带不带孩子"
+      ],
+      "start": "先看一部家喻户晓的音乐剧，再挑一部小剧场或沉浸式作品。"
+    },
+    "kid9": "选标明合家欢的剧目；悬疑沉浸式要先看说明。",
+    "kid16": "16 岁很适合，可以讨论剧场空间怎么改变观看。",
+    "adjacent": [
+      {
+        "id": "music",
+        "why": "音乐剧和现场音乐共享观众"
+      },
+      {
+        "id": "comedy",
+        "why": "即兴和喜剧小剧场"
+      },
+      {
+        "id": "games",
+        "why": "沉浸式剧场和剧本杀都是「走进故事」"
+      }
+    ],
+    "topics": [
+      "culture/stage",
+      "fabric/renewal"
+    ],
+    "questIds": [],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "上海是全国最大的音乐剧市场，2025 年占全国音乐剧场次的 56%；18 部原版国际音乐剧演了 300 多场。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Shanghai's performing arts market tops nation in 2025",
+            "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260212/af11d8de7fd24819bff50c940e428855.html",
+            "date": "2026-02-12"
+          }
+        ]
+      },
+      {
+        "text": "《不眠之夜》上海版 2016 年开演，2026 年 8 月 30 日演完最后一场，共 2670 场。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "Sixth Tone：One last night with Shanghai's 'Sleep No More' superfans（Jiang Xinyi）",
+            "url": "https://www.sixthtone.com/news/1019008",
+            "date": "2026-09-10"
+          }
+        ]
+      },
+      {
+        "text": "上汽·上海文化广场 2026 年第 15 个演季，德语音乐剧《爱因斯坦》12 月 12–20 日中国首演。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "China Daily：Global musicals to light up landmark theater's 15th season（张昆）",
+            "url": "https://mobile.chinadaily.com.cn/html5/2026-04/10/content_017_69d7f09ded50be540e72e2c7.htm",
+            "date": "2026-04-10"
+          }
+        ]
+      },
+      {
+        "text": "亚洲大厦有 19 个「星空间」小剧场，2020 年以来累计演出超过 1 万场；附近的第一百货改造出 19 个沉浸式小剧场。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "新华网：亚洲大厦「星空间」",
+            "url": "https://www.news.cn/fortune/20250526/5f938e7f12ca45bcadb7081885f88c59/c.html",
+            "date": "2025-05-26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fashion",
+    "label": "时装周 · 独立设计师 · 先锋穿搭",
+    "short": "时尚",
+    "summary": "上海时装周每年春秋两季，大品牌在新天地走秀，年轻独立设计师通过展厅和平台露面；平时的时尚活力在买手店和街头。",
+    "firstTime": {
+      "expect": [
+        "时装周期间有大量公开活动和快闪",
+        "独立设计师品牌多在买手店和展厅"
+      ],
+      "etiquette": [
+        "秀场多数需要邀请，公开活动看官方发布"
+      ],
+      "start": "时装周不在你的行程里，可以先去由纺织厂改造的时尚中心，再逛买手店。"
+    },
+    "kid9": "9 岁可以在时尚中心看老厂房。",
+    "kid16": "16 岁可以研究独立设计师品牌。",
+    "adjacent": [
+      {
+        "id": "vintage",
+        "why": "古着是先锋穿搭的重要来源"
+      },
+      {
+        "id": "art",
+        "why": "设计师常和艺术家合作"
+      }
+    ],
+    "topics": [
+      "economy/manufacturing",
+      "economy/global",
+      "fabric/renewal"
+    ],
+    "questIds": [
+      "yp-sawtooth"
+    ],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "2026 秋冬上海时装周 3 月 25 日开幕，新天地是主秀场，Feng Chen Wang、Susan Fang 等独立设计师品牌参与。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Shanghai Fashion Week set to electrify the city",
+            "url": "https://english.shanghai.gov.cn/en-MajorConsumerEvents/20260318/5f1115651c354f4dafbf20cd347fc3d7.html",
+            "date": "2026-03-18"
+          }
+        ]
+      },
+      {
+        "text": "上海国际时尚中心由国棉十七厂改造，有「最完整、规模最大的锯齿形厂房」。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+            "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+            "date": "2025-04-09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vintage",
+    "label": "古着 · 二手循环 · 复古",
+    "short": "古着",
+    "summary": "古着一般指 20 年以上、有时代特征的旧衣；二手循环更看重延长物品寿命。上海的古着从精选小店到可以砍价的市场都有。",
+    "firstTime": {
+      "expect": [
+        "精选店价格可能不低，市场便宜但要自己淘",
+        "很多店主能讲出每件衣服的来历"
+      ],
+      "etiquette": [
+        "试穿前问一句",
+        "市场里可以砍价，精选店一般不砍"
+      ],
+      "start": "先去永康路一带逛精选店，再去灵石路市场淘便宜货，对比两种价格逻辑。"
+    },
+    "kid9": "9 岁可以挑一件复古 T 恤，当作「时间旅行」。",
+    "kid16": "16 岁可以讨论可持续消费和 Y2K 审美回潮。",
+    "adjacent": [
+      {
+        "id": "fashion",
+        "why": "古着是先锋穿搭的来源"
+      },
+      {
+        "id": "publishing",
+        "why": "二手书和旧书店是同一种循环"
+      },
+      {
+        "id": "music",
+        "why": "黑胶唱片和复古文化"
+      }
+    ],
+    "topics": [
+      "food/retail",
+      "everyday/street-economy",
+      "fabric/renewal"
+    ],
+    "questIds": [
+      "hf-shop-turnover"
+    ],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "上海的古着热由 Z 世代的怀旧推动，美式运动服和 Y2K 风格受欢迎；多数古着来自 1980 年代到 2000 年代初。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Shanghai a 'paradise' for global vintage shoppers",
+            "url": "https://english.shanghai.gov.cn/en-EditorsPick-ShopinShanghai/20250527/2499c34533a446c29e5bc62bd4d21d52.html",
+            "date": "2025-05-27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coffee",
+    "label": "精品咖啡 · 烘焙 · 创意饮食",
+    "short": "咖啡",
+    "summary": "精品咖啡讲究豆子产地和烘焙、冲煮方式；上海的咖啡馆数量全球第一，咖啡馆也常被当作「第三空间」：家和公司之外的地方。",
+    "firstTime": {
+      "expect": [
+        "很多咖啡馆有手冲和特调",
+        "小店座位少，周末要排队"
+      ],
+      "etiquette": [
+        "小店里久坐时点一杯",
+        "手冲可以问店员推荐豆子"
+      ],
+      "start": "选一家你住处附近的独立小店，点一杯手冲，问问豆子从哪来。"
+    },
+    "kid9": "9 岁可以点热巧克力，看咖啡师拉花。",
+    "kid16": "16 岁可以观察咖啡馆怎样变成学习和社交的地方。",
+    "adjacent": [
+      {
+        "id": "craft",
+        "why": "市集里常有咖啡摊"
+      },
+      {
+        "id": "publishing",
+        "why": "书店咖啡馆"
+      },
+      {
+        "id": "night",
+        "why": "调饮文化和咖啡共享技艺"
+      }
+    ],
+    "topics": [
+      "food/retail",
+      "everyday/public-space"
+    ],
+    "questIds": [
+      "hf-shop-turnover",
+      "hf-wuzhong"
+    ],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "据《2026 中国城市咖啡发展报告》，上海 2025 年有 10336 家咖啡馆，2024 年为 9115 家。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Shanghai tops over 10,000 coffee shops in 2025",
+            "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260430/0a34421f91114550bd8e9e9182b38c6d.html",
+            "date": "2026-04-30"
+          }
+        ]
+      },
+      {
+        "text": "2026 上海国际咖啡文化节 4 月 30 日至 5 月 4 日在北外滩，近 300 个品牌摊位。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Caffeine and creativity meet along the North Bund",
+            "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260509/cf159cd569e746b3b275bb463f47158f.html",
+            "date": "2026-05-09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "publishing",
+    "label": "独立出版 · Zine · 艺术书展",
+    "short": "独立出版",
+    "summary": "独立出版是不经过大出版社、自己编辑印刷发行的书和刊物；Zine 是小批量、常常手工制作的小册子；艺术书展是这些出版物集中亮相的地方。",
+    "firstTime": {
+      "expect": [
+        "书展上很多摊主就是作者本人",
+        "二手书店有绝版书和旧档案"
+      ],
+      "etiquette": [
+        "翻看前问一句，有些是限量手工本"
+      ],
+      "start": "先去一家二手或独立书店，再关注书展消息。"
+    },
+    "kid9": "9 岁可以自己做一本折页小册子。",
+    "kid16": "16 岁可以和作者聊怎么自己出版。",
+    "adjacent": [
+      {
+        "id": "art",
+        "why": "艺术书和当代艺术是一个圈子"
+      },
+      {
+        "id": "vintage",
+        "why": "二手书循环"
+      },
+      {
+        "id": "craft",
+        "why": "Zine 本身就是手作"
+      }
+    ],
+    "topics": [
+      "culture/publishing"
+    ],
+    "questIds": [],
+    "placeIds": [
+      "duoyun-books-shanghai-tower",
+      "hengshan-heji",
+      "shanghai-library-east"
+    ],
+    "facts": [
+      {
+        "text": "犀牛书店以文史哲为主，侧重二手书和珍本，有绝版书、档案资料和线装书。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Nine festive stops along Suzhou Creek",
+            "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20260214/3784b04ac19d4f46aaee26a5026bb81f.html",
+            "date": "2026-02-14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "art",
+    "label": "当代艺术 · 实验影像 · 艺术家社群",
+    "short": "艺术",
+    "summary": "当代艺术关注今天的问题，形式不限；上海很多美术馆开在旧厂房、电厂和码头里，空间本身就是看点。",
+    "firstTime": {
+      "expect": [
+        "展览说明有时比作品还难懂，看不懂很正常",
+        "很多馆要预约"
+      ],
+      "etiquette": [
+        "别碰作品",
+        "有的展禁止拍照"
+      ],
+      "start": "先去一家工业遗产改造的美术馆，看空间也看展；再去艺术园区看小画廊。"
+    },
+    "kid9": "9 岁选互动性强的展。",
+    "kid16": "16 岁可以试着写一段展评。",
+    "adjacent": [
+      {
+        "id": "film",
+        "why": "实验影像和独立放映"
+      },
+      {
+        "id": "publishing",
+        "why": "艺术书"
+      },
+      {
+        "id": "ai-digital",
+        "why": "数字艺术"
+      }
+    ],
+    "topics": [
+      "culture/visual-art",
+      "architecture/adaptive-reuse"
+    ],
+    "questIds": [
+      "sz-m50",
+      "yp-chimney"
+    ],
+    "placeIds": [
+      "power-station-of-art",
+      "west-bund-museum",
+      "long-museum-west-bund",
+      "tank-shanghai",
+      "tianan-1000-trees"
+    ],
+    "facts": [
+      {
+        "text": "Fotografiska 影像艺术中心每周三晚有爵士演出，持展票可听。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "SmartShanghai：The Shanghai Jazz Guide",
+            "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+            "date": "2026-03-07"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "acg",
+    "label": "二次元 · Cosplay · 谷子 · 潮玩",
+    "short": "二次元",
+    "summary": "二次元指动画、漫画、游戏的世界；Cosplay 是扮成角色；「谷子」来自英文 goods，指徽章、立牌这类周边；潮玩是收藏型玩具。上海有专门的二次元商场。",
+    "firstTime": {
+      "expect": [
+        "商场里有很多快闪店和角色主题活动",
+        "周末人非常多"
+      ],
+      "etiquette": [
+        "拍 Coser 前先问",
+        "谷子交换有自己的规矩，看懂再参与"
+      ],
+      "start": "先去一家二次元商场逛一圈，看哪些 IP 你认得。"
+    },
+    "kid9": "9 岁会很兴奋，提前定好预算。",
+    "kid16": "16 岁可以观察「谷子经济」怎样改变商场。",
+    "adjacent": [
+      {
+        "id": "games",
+        "why": "桌游和角色扮演"
+      },
+      {
+        "id": "art",
+        "why": "动画展和插画"
+      },
+      {
+        "id": "craft",
+        "why": "手作周边"
+      }
+    ],
+    "topics": [
+      "food/retail",
+      "fabric/renewal",
+      "economy/tech"
+    ],
+    "questIds": [],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "百联ZX创趣场 2023 年 1 月由南京东路的华联商厦改造开业，是上海首个二次元垂类商场，开业两年销售额超 7 亿元。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "第一财经：百联ZX与谷子经济（刘晓洁）",
+            "url": "https://www.yicai.com/news/102562147.html",
+            "date": "2025-04-09"
+          }
+        ]
+      },
+      {
+        "text": "2024 年五一假期，百联ZX 创下 27 万人次的客流高峰。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "澎湃新闻·湃客：谷子经济",
+            "url": "https://www.thepaper.cn/newsDetail_forward_29726915",
+            "date": "2024-12-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cycling-running",
+    "label": "城市骑行 · 跑团 · 户外社交",
+    "short": "跑骑",
+    "summary": "跑团和骑行群是城市里最容易加入的社群：固定时间、固定路线，一起跑或一起骑，结束后常一起吃早饭。",
+    "firstTime": {
+      "expect": [
+        "滨江步道有分开的跑步道和骑行道",
+        "12 月清晨很冷"
+      ],
+      "etiquette": [
+        "走跑步道时靠边，别逆向"
+      ],
+      "start": "沿滨江骑一段共享单车，或者早起看一次马拉松。"
+    },
+    "kid9": "9 岁可以在滨江骑车。",
+    "kid16": "16 岁可以试一次 5 公里。",
+    "adjacent": [
+      {
+        "id": "action-sports",
+        "why": "滨江也是滑板和攀岩的地方"
+      },
+      {
+        "id": "coffee",
+        "why": "跑完的早咖啡"
+      }
+    ],
+    "topics": [
+      "everyday/public-space",
+      "rhythm/morning",
+      "society/governance"
+    ],
+    "questIds": [
+      "yp-renrenwu",
+      "sz-open-walls"
+    ],
+    "placeIds": [
+      "xuhui-riverside",
+      "yangpu-riverside",
+      "suzhou-creek-walk"
+    ],
+    "facts": [
+      {
+        "text": "2026 上海马拉松 12 月 6 日从外滩金牛起跑，名额从 2.3 万扩到 3 万；12 月 5 日有 1.5 万人的迷你马拉松。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Get ready: 2026 Shanghai Marathon registration starts April 29",
+            "url": "https://english.shanghai.gov.cn/en-SportsEvents/20260427/8152288074a44b44a7efbfd4b0b67797.html",
+            "date": "2026-04-27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "action-sports",
+    "label": "攀岩 · 匹克球 · 滑板 · 街舞",
+    "short": "城市运动",
+    "summary": "滑板、攀岩、霹雳舞、小轮车都已是奥运项目，上海的滨江有免费的滑板公园；这些运动的社群通常很欢迎新手围观。",
+    "firstTime": {
+      "expect": [
+        "滑板公园里新手和高手混在一起",
+        "看别人练很正常"
+      ],
+      "etiquette": [
+        "别站在滑行线路上",
+        "拍照别挡道"
+      ],
+      "start": "去一家有新手课的攀岩馆上一节体验课，或者去滨江滑板公园看一个下午。"
+    },
+    "kid9": "9 岁可以试平地滑板（戴护具）。",
+    "kid16": "16 岁可以试攀岩体验课。",
+    "adjacent": [
+      {
+        "id": "cycling-running",
+        "why": "同在滨江，一样是户外和社群运动"
+      }
+    ],
+    "topics": [
+      "everyday/public-space",
+      "fabric/renewal"
+    ],
+    "questIds": [],
+    "placeIds": [
+      "xuhui-riverside"
+    ],
+    "facts": [
+      {
+        "text": "2024 年 5 月上海举办奥运会资格系列赛，项目有小轮车自由式、霹雳舞、滑板和攀岩。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Shanghai has a bright future in action sports",
+            "url": "https://english.shanghai.gov.cn/en-SportsEvents/20240301/7c4f895d91ca4a158753421d07f72cb6.html",
+            "date": "2024-03-01"
+          }
+        ]
+      },
+      {
+        "text": "1 号船坞滑板公园是 2024 年资格赛滑板场地。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Open Day offers sports adventure at Huangpu Riverside",
+            "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20240627/767f196095df48c68f7a4d9449ea54ec.html",
+            "date": "2024-06-27"
+          }
+        ]
+      },
+      {
+        "text": "到 2025 年下半年，上海有 100 多家商业攀岩馆；2026 年 9 月世界攀岩挑战赛在徐家汇体育公园举办。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：China tops medal table at World Climbing Challenger Shanghai",
+            "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260909/a4279939154f4b45ac7a723435741879.html",
+            "date": "2026-09-09"
+          }
+        ]
+      }
+    ],
+    "gap": "匹克球只找到 2025 年 3 月在精武体育馆的一场巡回赛报道，还没有可靠来源的公共球场，暂不收录。"
+  },
+  {
+    "id": "games",
+    "label": "桌游 · 剧本杀 · 角色扮演",
+    "short": "桌游",
+    "summary": "剧本杀是几个人各拿一个角色剧本、一起推理的游戏；桌游店可以按时间计费玩各种桌游；沉浸式剧场把这种体验做成了演出。",
+    "firstTime": {
+      "expect": [
+        "一局剧本杀要几个小时",
+        "需要凑齐人数，店家可以帮拼车"
+      ],
+      "etiquette": [
+        "别剧透",
+        "按剧本的年龄分级选"
+      ],
+      "start": "全家先选一个合家欢或欢乐向的本，或者去桌游店玩两小时。"
+    },
+    "kid9": "选儿童友好的本或简单桌游。",
+    "kid16": "16 岁可以玩推理本。",
+    "adjacent": [
+      {
+        "id": "theatre",
+        "why": "沉浸式剧场"
+      },
+      {
+        "id": "acg",
+        "why": "角色扮演"
+      },
+      {
+        "id": "comedy",
+        "why": "即兴互动"
+      }
+    ],
+    "topics": [
+      "everyday/public-space",
+      "culture/stage"
+    ],
+    "questIds": [],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "世茂广场·星空间约 4000 平方米，分成多个小剧场，以悬疑推理剧为主，2023 年 9 月启用。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Unconventional venues for live performances in Shanghai",
+            "url": "https://english.shanghai.gov.cn/en-Theaters/20240621/b628aa8d723443ce8d7e4c56ad1a79ba.html",
+            "date": "2024-06-21"
+          }
+        ]
+      }
+    ],
+    "gap": "还没找到 2025 年以后有可靠来源的桌游店和剧本杀店；可以先去亚洲大厦和第一百货的沉浸式小剧场。"
+  },
+  {
+    "id": "craft",
+    "label": "创意市集 · 手作 · DIY",
+    "short": "手作",
+    "summary": "手作是自己动手做东西；创意市集是手作人和小品牌摆摊的地方。上海从非遗竹刻到做肥皂都有可以动手的地方。",
+    "firstTime": {
+      "expect": [
+        "市集多在周末",
+        "手作体验要预约"
+      ],
+      "etiquette": [
+        "问摊主能不能拍"
+      ],
+      "start": "先去一处可以动手的工作坊，做一件带回家的东西。"
+    },
+    "kid9": "9 岁最适合，做肥皂、做手账都行。",
+    "kid16": "16 岁可以看非遗手艺和设计怎样结合。",
+    "adjacent": [
+      {
+        "id": "publishing",
+        "why": "Zine 是手作"
+      },
+      {
+        "id": "coffee",
+        "why": "市集咖啡"
+      },
+      {
+        "id": "art",
+        "why": "艺术园区"
+      }
+    ],
+    "topics": [
+      "countryside/crafts",
+      "fabric/renewal"
+    ],
+    "questIds": [
+      "jd-bamboo",
+      "sz-m50"
+    ],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "杨浦滨江的原制皂厂生产辅助区，现在可以买肥皂、动手做肥皂。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+            "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+            "date": "2025-04-09"
+          }
+        ]
+      },
+      {
+        "text": "莫干山路特色街区有非遗、手作和创意市集。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Dragon boat meets citywalk along Suzhou Creek",
+            "url": "https://english.shanghai.gov.cn/en-CityTour/20250523/9dec9f5d3afc49ef92fd23064aa42275.html",
+            "date": "2025-05-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "film",
+    "label": "影迷文化 · 独立放映 · 电影沙龙",
+    "short": "电影",
+    "summary": "影迷文化不只是看新片：电影节、修复老片、映后交流和小型放映会，都是影迷聚在一起的方式。上海是中国电影的发源地之一。",
+    "firstTime": {
+      "expect": [
+        "电影节期间一票难求",
+        "很多放映有映后交流"
+      ],
+      "etiquette": [
+        "映后提问简短",
+        "别在放映中看手机"
+      ],
+      "start": "去上海影城看一场，再沿新华路走一走电影取景地。"
+    },
+    "kid9": "9 岁选动画或合家欢场次。",
+    "kid16": "16 岁可以去有映后交流的场次。",
+    "adjacent": [
+      {
+        "id": "art",
+        "why": "实验影像"
+      },
+      {
+        "id": "theatre",
+        "why": "演员和导演常两边跨"
+      },
+      {
+        "id": "publishing",
+        "why": "电影书和杂志"
+      }
+    ],
+    "topics": [
+      "culture/film",
+      "layers/archives"
+    ],
+    "questIds": [],
+    "placeIds": [
+      "shanghai-film-museum"
+    ],
+    "facts": [
+      {
+        "text": "上海影城是全市第一家五星级影院、上海国际电影节主场，1993 年首届电影节在这里举办。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：Beyond the screen: A cinematic trail through Changning",
+            "url": "https://english.shanghai.gov.cn/en-CityTour/20260617/f591d5176a6c4ca19127833695db9ece.html",
+            "date": "2026-06-17"
+          }
+        ]
+      },
+      {
+        "text": "2026 年第 28 届上海国际电影节 6 月 12–21 日，有 52 家放映影院。",
+        "sources": [
+          {
+            "kind": "gov",
+            "name": "上海市政府英文网：28th SIFF announces 52 screening venues",
+            "url": "https://english.shanghai.gov.cn/en-28thSIFF&31stShanghaiTVFestival/20260526/a078953d92894d40a6f562aba36b5add.html",
+            "date": "2026-05-26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "night",
+    "label": "夜间社交 · 聆听酒吧 · 调饮",
+    "short": "夜间",
+    "summary": "聆听酒吧源自日本的「喫茶」：用好音响放整张唱片，大家安静听；调饮指用心设计的鸡尾酒和无酒精饮品。夜间社交是城市节律的另一面。",
+    "firstTime": {
+      "expect": [
+        "聆听店里大声说话会被侧目",
+        "酒吧通常有最低消费"
+      ],
+      "etiquette": [
+        "点一张唱片前问问规矩"
+      ],
+      "start": "白天先去一家唱片店兼聆听空间，晚上再决定去不去酒吧。"
+    },
+    "kid9": "不适合 9 岁，白天的唱片店可以。",
+    "kid16": "16 岁只适合白天的唱片店或有家长陪的早场演出。",
+    "adjacent": [
+      {
+        "id": "music",
+        "why": "爵士和黑胶"
+      },
+      {
+        "id": "vintage",
+        "why": "复古"
+      },
+      {
+        "id": "coffee",
+        "why": "调饮技艺"
+      }
+    ],
+    "topics": [
+      "rhythm/night",
+      "everyday/street-economy"
+    ],
+    "questIds": [
+      "lj-commute"
+    ],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "声音图书馆（浦东 EKA 天物）结合唱片店、音响展厅和田野录音档案馆，有 11 个试听台。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "SmartShanghai：Shanghai has a Sound Library",
+            "url": "https://www.smartshanghai.com/wire/shopping/indie-vinyl-field-recordings-and-hi-fi-gear-shanghai-has-a-sound-library",
+            "date": "2026-07-02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ai-digital",
+    "label": "AI 创作 · 数字艺术 · 科技社群",
+    "short": "AI",
+    "summary": "AI 创作是用生成式模型做图、写作和作曲；数字艺术用代码和屏幕做作品；科技社群是开发者和爱好者聚在一起交流的地方。上海徐汇西岸有大模型产业社区。",
+    "firstTime": {
+      "expect": [
+        "产业园区多数不对公众开放",
+        "体验店和展览可以去"
+      ],
+      "etiquette": [
+        "进园区前确认是否开放"
+      ],
+      "start": "去模速空间的人工智能产品体验店试试智能眼镜和下棋机器人。"
+    },
+    "kid9": "9 岁和下棋机器人对弈。",
+    "kid16": "16 岁可以了解大模型产业怎么聚集在一起。",
+    "adjacent": [
+      {
+        "id": "art",
+        "why": "数字艺术"
+      },
+      {
+        "id": "acg",
+        "why": "游戏和动画"
+      }
+    ],
+    "topics": [
+      "economy/tech",
+      "culture/science"
+    ],
+    "questIds": [
+      "zj-ssrf",
+      "zj-park"
+    ],
+    "placeIds": [],
+    "facts": [
+      {
+        "text": "模速空间 2023 年 9 月在徐汇西岸揭牌，入驻 100 多家企业，有上海首家人工智能产品体验店。",
+        "sources": [
+          {
+            "kind": "news",
+            "name": "新华网：模速空间",
+            "url": "https://www.news.cn/local/20250429/cccd7b29f3b7487480cc16af49530787/c.html",
+            "date": "2025-04-29"
+          }
+        ]
+      }
+    ]
+  }
+]

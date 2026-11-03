@@ -1,0 +1,563 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-28T03:51:16+00:00",
+  "title": "Design System: 沪游月票",
+  "extensions": {
+    "colorMeta": {
+      "pass-green": {
+        "role": "primary",
+        "displayName": "Pass Green (月票孔雀绿)",
+        "canonical": "#0e5e5a",
+        "tonalRamp": [
+          "#00100f",
+          "#002f2c",
+          "#004e4a",
+          "#256e6a",
+          "#4a908b",
+          "#6eb4ae",
+          "#92d9d3",
+          "#cff8f5"
+        ]
+      },
+      "pass-green-deep": {
+        "role": "primary",
+        "displayName": "Deep Pass Green",
+        "canonical": "#0a4643",
+        "tonalRamp": [
+          "#000f0e",
+          "#002d2b",
+          "#124c49",
+          "#366c68",
+          "#588e8a",
+          "#7bb1ad",
+          "#9ed6d1",
+          "#d5f6f3"
+        ]
+      },
+      "pass-green-line": {
+        "role": "primary",
+        "displayName": "Cover Hairline",
+        "canonical": "rgba(230, 242, 236, 0.28)"
+      },
+      "month": {
+        "role": "secondary",
+        "displayName": "Month Yellow (月份黄)",
+        "canonical": "#f3d34a",
+        "tonalRamp": [
+          "#170700",
+          "#3c1d00",
+          "#5b3d00",
+          "#7c5d00",
+          "#9f7f00",
+          "#c2a300",
+          "#e8c83c",
+          "#ffefa7"
+        ]
+      },
+      "cinnabar": {
+        "role": "tertiary",
+        "displayName": "Cinnabar (印泥红)",
+        "canonical": "#c8361f",
+        "tonalRamp": [
+          "#2b0000",
+          "#640000",
+          "#8b0000",
+          "#b31d02",
+          "#db4932",
+          "#ff6f56",
+          "#ff9579",
+          "#ffd3c0"
+        ]
+      },
+      "t-art": {
+        "role": "tertiary",
+        "displayName": "Theme: 艺术",
+        "canonical": "#2f5da8",
+        "tonalRamp": [
+          "#00062b",
+          "#001c62",
+          "#103e86",
+          "#315faa",
+          "#5181d0",
+          "#73a5f6",
+          "#96caff",
+          "#d0f0ff"
+        ]
+      },
+      "t-heritage": {
+        "role": "tertiary",
+        "displayName": "Theme: 历史建筑",
+        "canonical": "#a0522d",
+        "tonalRamp": [
+          "#200000",
+          "#4e0100",
+          "#712700",
+          "#954823",
+          "#ba6a45",
+          "#e18d67",
+          "#ffb18a",
+          "#ffe1c9"
+        ]
+      },
+      "t-walk": {
+        "role": "tertiary",
+        "displayName": "Theme: 城市漫步",
+        "canonical": "#6b5ba6",
+        "tonalRamp": [
+          "#0d0325",
+          "#291257",
+          "#453279",
+          "#63539d",
+          "#8474c2",
+          "#a697e8",
+          "#cabbff",
+          "#eee7ff"
+        ]
+      },
+      "t-nature": {
+        "role": "tertiary",
+        "displayName": "Theme: 自然",
+        "canonical": "#3e7f45",
+        "tonalRamp": [
+          "#001100",
+          "#003100",
+          "#065118",
+          "#307138",
+          "#539459",
+          "#76b87a",
+          "#99dd9e",
+          "#d3fbd4"
+        ]
+      },
+      "t-books": {
+        "role": "tertiary",
+        "displayName": "Theme: 书店",
+        "canonical": "#8f6a12",
+        "tonalRamp": [
+          "#180700",
+          "#3d1c00",
+          "#5d3a00",
+          "#7e5a00",
+          "#a17c2b",
+          "#c69f51",
+          "#ebc375",
+          "#ffebbe"
+        ]
+      },
+      "t-science": {
+        "role": "tertiary",
+        "displayName": "Theme: 科学动手",
+        "canonical": "#1b7a8c",
+        "tonalRamp": [
+          "#001018",
+          "#002e3e",
+          "#004d5e",
+          "#006d7f",
+          "#3790a2",
+          "#5eb3c6",
+          "#83d8ec",
+          "#c8f8ff"
+        ]
+      },
+      "t-food": {
+        "role": "tertiary",
+        "displayName": "Theme: 市集美食",
+        "canonical": "#c0562c",
+        "tonalRamp": [
+          "#250000",
+          "#580000",
+          "#7d1400",
+          "#a33b09",
+          "#c95e35",
+          "#f18258",
+          "#ffa67c",
+          "#ffdbc1"
+        ]
+      },
+      "on-green": {
+        "role": "neutral",
+        "displayName": "Cover Text",
+        "canonical": "#e6f2ec",
+        "tonalRamp": [
+          "#080c0a",
+          "#1e2723",
+          "#3b4540",
+          "#5a645f",
+          "#7b8580",
+          "#9da8a3",
+          "#c1ccc7",
+          "#e9f0ed"
+        ]
+      },
+      "on-green-2": {
+        "role": "neutral",
+        "displayName": "Cover Text Muted",
+        "canonical": "#b9d6cc",
+        "tonalRamp": [
+          "#030e0a",
+          "#122a23",
+          "#2f4840",
+          "#4e685f",
+          "#6e8980",
+          "#90aca3",
+          "#b4d1c7",
+          "#e2f3ed"
+        ]
+      },
+      "stock": {
+        "role": "neutral",
+        "displayName": "Pass Stock",
+        "canonical": "#e6f2ec",
+        "tonalRamp": [
+          "#080c0a",
+          "#1e2723",
+          "#3b4540",
+          "#5a645f",
+          "#7b8580",
+          "#9da8a3",
+          "#c1ccc7",
+          "#e9f0ed"
+        ]
+      },
+      "stock-2": {
+        "role": "neutral",
+        "displayName": "Stock Shade",
+        "canonical": "#d6e8e0",
+        "tonalRamp": [
+          "#060d0a",
+          "#1b2923",
+          "#374640",
+          "#56655f",
+          "#768780",
+          "#99aaa2",
+          "#bccec6",
+          "#e7f1ed"
+        ]
+      },
+      "slip": {
+        "role": "neutral",
+        "displayName": "Slip White",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#14302c",
+        "tonalRamp": [
+          "#020e0c",
+          "#0e2b27",
+          "#2c4844",
+          "#4b6863",
+          "#6b8a84",
+          "#8eada7",
+          "#b1d1cb",
+          "#e0f3f0"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Ink 2",
+        "canonical": "#3c5e58",
+        "tonalRamp": [
+          "#010e0c",
+          "#082b27",
+          "#284944",
+          "#476963",
+          "#678b84",
+          "#89aea7",
+          "#add2cb",
+          "#def4f0"
+        ]
+      },
+      "ink-3": {
+        "role": "neutral",
+        "displayName": "Ink 3",
+        "canonical": "#536f69",
+        "tonalRamp": [
+          "#030e0b",
+          "#102a26",
+          "#2d4843",
+          "#4c6862",
+          "#6d8983",
+          "#8faca6",
+          "#b2d1ca",
+          "#e1f3ef"
+        ]
+      },
+      "void": {
+        "role": "neutral",
+        "displayName": "Void Grey",
+        "canonical": "#5a6b67",
+        "tonalRamp": [
+          "#060d0b",
+          "#192925",
+          "#364642",
+          "#556561",
+          "#758783",
+          "#97aaa5",
+          "#bbcec9",
+          "#e6f1ef"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Month Numeral",
+        "purpose": "The month figure in the pass head; one per screen."
+      },
+      "numeral-stub": {
+        "displayName": "Stub Numeral",
+        "purpose": "Hours figure on each slip stub."
+      },
+      "numeral": {
+        "displayName": "Inline Numeral",
+        "purpose": "Every figure: counts, km, days, dates; tabular."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Place name on the detail head."
+      },
+      "title-pass": {
+        "displayName": "Pass Title",
+        "purpose": "沪游月票 / 我的月票 on the cover."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Slip names and empty-state titles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Base text, buttons, rows."
+      },
+      "body-reading": {
+        "displayName": "Reading Body",
+        "purpose": "Ticket prose, 36em measure."
+      },
+      "label": {
+        "displayName": "Section Label",
+        "purpose": "Pass-green ticket section headings and hook terms."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Theme labels, tab labels, units, meta."
+      }
+    },
+    "shadows": [
+      {
+        "name": "slip-rest",
+        "value": "inset 0 3px 0 var(--slip-hue), 0 1px 2px rgba(10,70,67,0.08), 0 3px 10px rgba(10,70,67,0.06)",
+        "purpose": "Slips at rest; inset layer is the theme top rule."
+      },
+      {
+        "name": "ticket-rest",
+        "value": "0 1px 2px rgba(10,70,67,0.08), 0 4px 14px rgba(10,70,67,0.07)",
+        "purpose": "Detail ticket."
+      },
+      {
+        "name": "slip-hover",
+        "value": "inset 0 3px 0 var(--slip-hue), 0 6px 18px rgba(10,70,67,0.14)",
+        "purpose": "Slip lift on hover-capable devices."
+      },
+      {
+        "name": "button-hover",
+        "value": "0 2px 8px rgba(10,70,67,0.12)",
+        "purpose": "Button lift on hover."
+      },
+      {
+        "name": "picked-ring",
+        "value": "inset 0 3px 0 var(--slip-hue), inset 0 0 0 2.5px #f3d34a, 0 6px 18px rgba(10,70,67,0.16)",
+        "purpose": "Surprise Pick slip."
+      },
+      {
+        "name": "punched-hole",
+        "value": "inset 0 1px 1.5px rgba(0,0,0,0.35)",
+        "purpose": "Cut-through hole on a punched day."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "All state transitions."
+      },
+      {
+        "name": "state",
+        "value": "160ms",
+        "purpose": "Chip, segment, button colour changes."
+      },
+      {
+        "name": "press",
+        "value": "120ms scale(0.98)",
+        "purpose": "Button press."
+      },
+      {
+        "name": "stamp-land",
+        "value": "220ms: rotate(-16deg) scale(1.6) blur(2px) to rotate(-9deg) scale(1)",
+        "purpose": "A new 去过 stamp landing; the one signature move."
+      },
+      {
+        "name": "hole-cut",
+        "value": "220ms: scale(0) to scale(1)",
+        "purpose": "The strip day hole cutting in alongside the stamp."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "0.01ms",
+        "purpose": "All animation and transition collapsed under prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "column",
+        "value": "560px",
+        "note": "page field outside the column becomes #072f2d"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one decisive action on the detail view: 去过 · 打孔.",
+      "html": "<button class=\"ds-btn ds-btn-primary\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"8\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/></svg>去过 · 打孔</button>",
+      "css": ".ds-btn { display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:0 16px;border-radius:12px;border:1px solid rgba(14,94,90,0.28);font:550 15px/1.5 -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;cursor:pointer;transition:background-color 160ms cubic-bezier(0.16,1,0.3,1),transform 120ms cubic-bezier(0.16,1,0.3,1),box-shadow 160ms cubic-bezier(0.16,1,0.3,1); } .ds-btn-primary { min-height:52px;font-size:16px;background:var(--pass-green,#0e5e5a);border-color:var(--pass-green,#0e5e5a);color:var(--on-green,#e6f2ec); } .ds-btn:hover { box-shadow:0 2px 8px rgba(10,70,67,0.12); } .ds-btn:active { transform:scale(0.98); } .ds-btn:focus-visible { outline:2.5px solid var(--pass-green, #0e5e5a);outline-offset:2px; }"
+    },
+    {
+      "name": "Undo Button",
+      "kind": "button",
+      "refersTo": "button-undo",
+      "description": "Replaces the primary once 去过: quiet full-width text button, never cinnabar.",
+      "html": "<button class=\"ds-btn ds-btn-undo\">撤销打孔</button>",
+      "css": ".ds-btn { display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:0 16px;border-radius:12px;border:1px solid rgba(14,94,90,0.28);font:550 15px/1.5 -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;cursor:pointer;transition:background-color 160ms cubic-bezier(0.16,1,0.3,1),transform 120ms cubic-bezier(0.16,1,0.3,1),box-shadow 160ms cubic-bezier(0.16,1,0.3,1); } .ds-btn-undo { width:100%;min-height:40px;font-size:14px;font-weight:500;background:transparent;border-color:transparent;color:var(--ink-2,#3c5e58); } .ds-btn:hover { box-shadow:0 2px 8px rgba(10,70,67,0.12); } .ds-btn:active { transform:scale(0.98); } .ds-btn:focus-visible { outline:2.5px solid var(--pass-green, #0e5e5a);outline-offset:2px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "White paper button for 想去 and settings actions.",
+      "html": "<button class=\"ds-btn ds-btn-secondary\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 4h12v16l-6-4-6 4z\"/></svg>想去</button>",
+      "css": ".ds-btn { display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:0 16px;border-radius:12px;border:1px solid rgba(14,94,90,0.28);font:550 15px/1.5 -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;cursor:pointer;transition:background-color 160ms cubic-bezier(0.16,1,0.3,1),transform 120ms cubic-bezier(0.16,1,0.3,1),box-shadow 160ms cubic-bezier(0.16,1,0.3,1); } .ds-btn-secondary { background:var(--slip,#fff);color:var(--ink,#14302c); } .ds-btn-secondary[aria-pressed=true] { background:var(--stock-2,#d6e8e0); } .ds-btn:hover { box-shadow:0 2px 8px rgba(10,70,67,0.12); } .ds-btn:active { transform:scale(0.98); } .ds-btn:focus-visible { outline:2.5px solid var(--pass-green, #0e5e5a);outline-offset:2px; }"
+    },
+    {
+      "name": "Pick Button",
+      "kind": "button",
+      "refersTo": "button-pick",
+      "description": "随便来一个: green pill beside the result count.",
+      "html": "<button class=\"ds-btn ds-btn-pick\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M16 4h4v4\"/><path d=\"M4 20 20 4\"/><path d=\"M20 16v4h-4\"/><path d=\"m15 15 5 5\"/><path d=\"M4 4l5 5\"/></svg>随便来一个</button>",
+      "css": ".ds-btn { display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:0 16px;border-radius:12px;border:1px solid rgba(14,94,90,0.28);font:550 15px/1.5 -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;cursor:pointer;transition:background-color 160ms cubic-bezier(0.16,1,0.3,1),transform 120ms cubic-bezier(0.16,1,0.3,1),box-shadow 160ms cubic-bezier(0.16,1,0.3,1); } .ds-btn-pick { min-height:40px;padding:0 14px;border-radius:999px;font-size:14px;background:var(--pass-green,#0e5e5a);border-color:var(--pass-green,#0e5e5a);color:var(--on-green,#e6f2ec); } .ds-btn:hover { box-shadow:0 2px 8px rgba(10,70,67,0.12); } .ds-btn:active { transform:scale(0.98); } .ds-btn:focus-visible { outline:2.5px solid var(--pass-green, #0e5e5a);outline-offset:2px; }"
+    },
+    {
+      "name": "Filter Chips",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Condition chips on the green cover; selected fills month yellow; theme chips carry a count.",
+      "html": "<div class=\"ds-chips\"><button class=\"ds-chip\" aria-pressed=\"false\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 12a9 9 0 0 1 18 0z\"/><path d=\"M12 12v6a2 2 0 0 0 4 0\"/></svg>下雨也行</button><button class=\"ds-chip\" aria-pressed=\"true\">艺术<span class=\"ds-count\">10</span></button><button class=\"ds-chip\" aria-pressed=\"false\">书店<span class=\"ds-count\">4</span></button></div>",
+      "css": ".ds-chips { display:flex;gap:8px;padding:12px 16px;background:var(--pass-green,#0e5e5a); } .ds-chip { display:inline-flex;align-items:center;gap:6px;min-height:40px;padding:0 14px;border-radius:999px;border:1px solid rgba(230,242,236,0.28);background:transparent;color:var(--on-green,#e6f2ec);font:400 14px -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;cursor:pointer;transition:background-color 160ms cubic-bezier(0.16,1,0.3,1),border-color 160ms; } .ds-chip svg { width:17px;height:17px; } .ds-chip:hover:not([aria-pressed=true]) { border-color:var(--on-green-2,#b9d6cc); } .ds-chip[aria-pressed=true] { background:var(--month,#f3d34a);border-color:var(--month,#f3d34a);color:var(--ink,#14302c);font-weight:600; } .ds-chip:focus-visible { outline:2.5px solid var(--month,#f3d34a);outline-offset:2px; } .ds-count { min-width:20px;padding:0 5px;border-radius:999px;font:600 13px/20px 'Barlow Condensed', 'DIN Condensed', 'Arial Narrow', sans-serif;text-align:center;background:rgba(230,242,236,0.16); } .ds-chip[aria-pressed=true] .ds-count { background:rgba(20,48,44,0.12); }"
+    },
+    {
+      "name": "Candidate Slip",
+      "kind": "card",
+      "refersTo": "slip",
+      "description": "Signature card: numeral stub, perforation with die-cut notches, fixed furniture.",
+      "html": "<div class=\"ds-sheet\"><a class=\"ds-slip\" href=\"#\" style=\"--slip-hue:var(--t-heritage,#a0522d)\"><div class=\"ds-stub\"><span class=\"ds-stub-h\">1.5</span><span class=\"ds-stub-u\">小时</span></div><div class=\"ds-body\"><span class=\"ds-stamp\">去过 · 6日</span><h2 class=\"ds-name\">张园</h2><p class=\"ds-meta\">静安 · 威海路 · 直线 <span class=\"ds-num\">4.0</span> km · 室内外</p><p class=\"ds-why\">上海现存最大的石库门建筑群之一，修缮后重新开放。</p><dl class=\"ds-hooks\"><div><dt><span class=\"ds-n\">9</span> 岁</dt><dd>钻弄堂、找门头上的雕花。</dd></div><div><dt><span class=\"ds-n\">16</span> 岁</dt><dd>对比修缮前后的石库门。</dd></div></dl><div class=\"ds-foot\"><ul class=\"ds-themes\"><li style=\"color:var(--t-heritage,#a0522d)\">历史建筑</li><li style=\"color:var(--t-walk,#6b5ba6)\">城市漫步</li></ul><span class=\"ds-dur\"><i style=\"width:19%\"></i></span></div></div></a></div>",
+      "css": ".ds-sheet { padding:16px;background-color:var(--stock,#e6f2ec);background-image:repeating-linear-gradient(118deg,rgba(14,94,90,0.045) 0 1px,transparent 1px 7px),repeating-linear-gradient(62deg,rgba(14,94,90,0.03) 0 1px,transparent 1px 9px);font:400 15px/1.5 -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;color:var(--ink,#14302c); } .ds-slip { position:relative;display:grid;grid-template-columns:58px 1fr;background:var(--slip,#fff);border-radius:12px;color:inherit;text-decoration:none;--hole:radial-gradient(circle 6px at 29px 20px,transparent 5.5px,#000 6px);box-shadow:inset 0 3px 0 var(--slip-hue,transparent),0 1px 2px rgba(10,70,67,0.08),0 3px 10px rgba(10,70,67,0.06);transition:box-shadow 200ms cubic-bezier(0.16,1,0.3,1);-webkit-mask:radial-gradient(circle 8px at 58px 0,transparent 7.5px,#000 8px),radial-gradient(circle 8px at 58px 100%,transparent 7.5px,#000 8px),var(--hole);mask:radial-gradient(circle 8px at 58px 0,transparent 7.5px,#000 8px),radial-gradient(circle 8px at 58px 100%,transparent 7.5px,#000 8px),var(--hole);-webkit-mask-composite:source-in,source-in;mask-composite:intersect; } .ds-slip:hover { box-shadow:inset 0 3px 0 var(--slip-hue,transparent),0 6px 18px rgba(10,70,67,0.14); } .ds-n { font-family:'Barlow Condensed', 'DIN Condensed', 'Arial Narrow', sans-serif;font-weight:600; } .ds-slip:focus-visible { outline:2.5px solid var(--pass-green, #0e5e5a);outline-offset:2px; } .ds-stub { display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;border-right:1.5px dashed var(--stock-2,#d6e8e0);color:var(--pass-green,#0e5e5a); } .ds-stub-h { font:700 30px/1 'Barlow Condensed', 'DIN Condensed', 'Arial Narrow', sans-serif; } .ds-stub-u { font-size:11px;color:var(--ink-3,#536f69); } .ds-body { position:relative;padding:14px 14px 12px;min-width:0; } .ds-name { margin:0;font-size:17px;font-weight:650;line-height:1.35;padding-right:64px; } .ds-meta { margin:2px 0 0;font-size:13px;color:var(--ink-3,#536f69); } .ds-num { font:600 14px 'Barlow Condensed', 'DIN Condensed', 'Arial Narrow', sans-serif;color:var(--ink-2,#3c5e58); } .ds-why { margin:8px 0 0;font-size:14px;line-height:1.55; } .ds-hooks { margin:10px 0 0;display:grid;gap:6px; } .ds-hooks div { display:grid;grid-template-columns:40px 1fr;gap:6px;font-size:13px; } .ds-hooks dt { color:var(--pass-green,#0e5e5a);font-weight:650; } .ds-hooks dd { margin:0;color:var(--ink-2,#3c5e58); } .ds-foot { margin-top:12px;display:flex;align-items:center;gap:12px; } .ds-themes { display:flex;gap:6px;margin:0;padding:0;list-style:none; } .ds-themes li { font-size:12px;font-weight:600;display:inline-flex;align-items:center;gap:4px; } .ds-themes li::before { content:'';width:7px;height:7px;border-radius:2px;background:currentColor; } .ds-dur { flex:1;min-width:60px;height:6px;border-radius:3px;overflow:hidden;background:repeating-linear-gradient(90deg,var(--stock-2,#d6e8e0) 0 calc(25% - 1px),#fff calc(25% - 1px) 25%); } .ds-dur i { display:block;height:100%;border-radius:3px;background:var(--pass-green,#0e5e5a); } .ds-stamp { position:absolute;top:12px;right:12px;padding:3px 8px;border:2px solid var(--cinnabar,#c8361f);border-radius:5px;color:var(--cinnabar,#c8361f);font-size:13px;font-weight:750;letter-spacing:0.08em;transform:rotate(-9deg);mix-blend-mode:multiply; }"
+    },
+    {
+      "name": "Pass Head",
+      "kind": "custom",
+      "refersTo": "display",
+      "description": "Cover title, month numeral and the punchable day strip.",
+      "html": "<header class=\"ds-head\"><div class=\"ds-top\"><div><h1>沪游月票</h1><p>陆家嘴出发 · 去过 <b>2</b> 处</p></div><div class=\"ds-month\">12</div></div><ol class=\"ds-strip\"><li>1</li><li>2</li><li class=\"punched\">3</li><li>4</li><li class=\"today\">5</li><li>6</li><li>7</li><li>8</li></ol></header>",
+      "css": ".ds-head { padding:20px 16px 14px;background:var(--pass-green,#0e5e5a);color:var(--on-green,#e6f2ec);font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif; } .ds-top { display:flex;justify-content:space-between;align-items:flex-end;gap:12px; } .ds-head h1 { margin:0;font-size:20px;font-weight:650;letter-spacing:0.12em; } .ds-head p { margin:4px 0 0;font-size:13px;color:var(--on-green-2,#b9d6cc); } .ds-head b { font:600 15px 'Barlow Condensed', 'DIN Condensed', 'Arial Narrow', sans-serif;color:var(--on-green,#e6f2ec); } .ds-month { font:700 76px/0.78 'Barlow Condensed', 'DIN Condensed', 'Arial Narrow', sans-serif;letter-spacing:-0.02em;color:var(--month,#f3d34a); } .ds-strip { margin:14px 0 0;padding:0;list-style:none;display:grid;grid-template-columns:repeat(8,1fr);gap:4px; } .ds-strip li { position:relative;aspect-ratio:1/1.05;border-radius:4px;background:rgba(230,242,236,0.12);display:grid;place-items:center;font:600 11px 'Barlow Condensed', 'DIN Condensed', 'Arial Narrow', sans-serif;color:var(--on-green,#e6f2ec); } .ds-strip li.today { background:var(--on-green,#e6f2ec);color:var(--pass-green,#0e5e5a);box-shadow:inset 0 0 0 1.5px var(--month,#f3d34a); } .ds-strip li.punched { background:var(--on-green,#e6f2ec);color:transparent; } .ds-strip li.punched::after { content:'';position:absolute;width:46%;aspect-ratio:1;border-radius:50%;background:var(--pass-green-deep,#0a4643);box-shadow:inset 0 1px 1.5px rgba(0,0,0,0.35); }"
+    },
+    {
+      "name": "Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Settings select or date input on paper.",
+      "html": "<label class=\"ds-field\"><span>出发点</span><select><option>陆家嘴</option></select></label>",
+      "css": ".ds-field { display:grid;gap:4px;font:400 13px -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;color:var(--ink-2,#3c5e58); } .ds-field select { min-height:44px;border:1px solid rgba(14,94,90,0.25);border-radius:10px;padding:0 12px;background:var(--slip,#fff);color:var(--ink,#14302c);font:400 15px -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif; } .ds-field select:focus-visible { outline:2.5px solid var(--pass-green, #0e5e5a);outline-offset:2px; }"
+    },
+    {
+      "name": "Tab Bar",
+      "kind": "nav",
+      "refersTo": "tab-bar",
+      "description": "Fixed two-tab bar in deep green; active tab in month yellow.",
+      "html": "<nav class=\"ds-tabs\"><a href=\"#\" class=\"ds-tab\" aria-current=\"page\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M8 6h12M8 12h12M8 18h12\"/><circle cx=\"4\" cy=\"6\" r=\".8\"/><circle cx=\"4\" cy=\"12\" r=\".8\"/><circle cx=\"4\" cy=\"18\" r=\".8\"/></svg><span>今日候选</span></a><a href=\"#\" class=\"ds-tab\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 7a2 2 0 0 0 2-2h14a2 2 0 0 0 2 2v3a2 2 0 0 0 0 4v3a2 2 0 0 0-2 2H5a2 2 0 0 0-2-2v-3a2 2 0 0 0 0-4z\"/><path d=\"M14 5v14\" stroke-dasharray=\"2 2.5\"/></svg><span>我的月票</span></a></nav>",
+      "css": ".ds-tabs { display:grid;grid-template-columns:1fr 1fr;height:64px;background:var(--pass-green-deep,#0a4643);color:var(--on-green-2,#b9d6cc);font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', sans-serif; } .ds-tab { display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;font-size:12px;color:inherit;text-decoration:none; } .ds-tab:hover { color:var(--on-green,#e6f2ec); } .ds-tab[aria-current=page] { color:var(--month,#f3d34a);font-weight:600; } .ds-tab:focus-visible { outline:2.5px solid var(--month,#f3d34a);outline-offset:-4px;border-radius:6px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The December 月票",
+    "overview": "The whole app is one Shanghai 公交月票 from the 1980s–90s: a peacock-green card with a pale mint printed stock, a big yellow month numeral, a strip of days, and a conductor's punch. The shell is the card's green cover; content sits on a mint sheet that rises from it with a rounded top edge, faintly cross-hatched like security-printed stock. Each candidate place is a white slip torn from that pass: a numeral stub on the left, a dashed perforation, die-cut notches at the tear line, then the place. Marking a place 去过 cuts a hole in the slip's stub, punches the same day on the strip, and lands a cinnabar stamp.\n\nDensity is phone-first and calm: one column, 16px gutters, generous line height for Chinese reading, figures set large in a condensed numeral face so hours, kilometres and counts read at a glance in winter daylight. The palette is green, mint and white with exactly two loud voices: 月份黄 for \"this is active / this is now\" and 印泥红 for \"been there\". Nothing is photographic; the object itself carries the identity.\n\nThe build rejects the category default of photo-card feeds over white with a search bar. There are no images, no gradients beyond the printed hatch, and no third-party assets: every font and icon ships in the build (see docs/adr/0002).",
+    "keyCharacteristics": [
+      "Green cover, mint stock, white slips: three material layers, always in that order.",
+      "Two accent voices with strictly separated jobs: yellow for active/now, cinnabar for 去过 only.",
+      "Condensed numerals (Barlow Condensed, self-hosted) for every figure; system PingFang stack for every word.",
+      "Ticket mechanics as UI: perforations, die-cut notches, punched holes, rotated rubber stamps, a pass-type colour rule along each slip's top edge.",
+      "One authored line-icon set (24px grid, 1.75 stroke, round joins)."
+    ],
+    "rules": [
+      {
+        "name": "The Cinnabar Rule",
+        "body": "Cinnabar is the 去过 stamp and nothing else: not buttons, not undo, not errors, badges, links or emphasis. A future warning gets its own token.",
+        "section": "colors"
+      },
+      {
+        "name": "The Yellow Means Now Rule",
+        "body": "Month yellow is for the one active or current thing in a group (the selected chip, today, the active tab, the picked slip). Two yellow things in one control group means one is wrong.",
+        "section": "colors"
+      },
+      {
+        "name": "The Small Marker Rule",
+        "body": "Theme hues appear only as thin marks on a slip: the 3px top rule and the 7px square with its 12px label. They never become fills, borders, or chip backgrounds; theme chips on the green stay in cover colours.",
+        "section": "colors"
+      },
+      {
+        "name": "The Every Figure Rule",
+        "body": "Any Arabic numeral the user reads goes through the numeral face with tabular figures. This includes the 9 and 16 in the 9 岁 / 16 岁 labels and the date inputs. Chinese units (小时, km, 处, 日, 岁) stay in the body face beside it.",
+        "section": "typography"
+      },
+      {
+        "name": "The No Webfont For Words Rule",
+        "body": "Chinese text uses the system stack only; never add a CJK webfont. Only the Latin numeral face is shipped, and it ships inside the build.",
+        "section": "typography"
+      },
+      {
+        "name": "The Paper Only Rule",
+        "body": "Only white paper (slips, ticket, buttons) casts shadow. The green cover and mint sheet are flat; their separation is colour and the sheet's rounded top.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** keep the three layers in order: green cover, mint hatched stock, white paper slips.",
+      "**Do** set every figure in Barlow Condensed with tabular numerals, and load it from the build, never a font CDN.",
+      "**Do** keep cinnabar for the 去过 fact alone, and month yellow for the single active or current item.",
+      "**Do** show theme identity only as the 3px slip top rule and the 7px square plus label.",
+      "**Do** give every slip the same furniture: stub, perforation, name, meta, reason, both hooks, themes, duration bar.",
+      "**Do** keep touch targets at 40px minimum (44px for buttons and fields) and the yellow or green 2.5px focus ring.",
+      "**Do** draw new icons in the authored set: 24px grid, 1.75 stroke, round caps and joins, `currentColor`.",
+      "**Do** make a stamp or punch permanent once landed; undo is the quiet 撤销打孔 text button, not an exit animation."
+    ],
+    "donts": [
+      "**Don't** use cinnabar for buttons, undo, errors, badges, deletions or emphasis.",
+      "**Don't** fill chips, buttons, slips or headers with theme hues.",
+      "**Don't** nest cards inside the ticket; divide with dashed perforations.",
+      "**Don't** add photography, photo-card feeds, or a search bar over a white page.",
+      "**Don't** load anything from third-party hosts at runtime: fonts, icon packs, map SDKs, analytics (docs/adr/0002).",
+      "**Don't** add a CJK webfont or swap the numeral face for a proportional one.",
+      "**Don't** use neutral grey or black shadows, or hard offset shadows; shadows are soft and green-tinted, under paper only."
+    ]
+  }
+}

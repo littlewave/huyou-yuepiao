@@ -1,0 +1,403 @@
+[
+  {
+    "id": "f-grand-opera-house",
+    "tier": "fragment",
+    "text": "上海大歌剧院 10 月 17 日对公众开放：扇形屋顶、409 级双螺旋楼梯，据报道屋顶步道可以上去看江景。",
+    "area": "浦东 · 世博文化公园",
+    "themes": [
+      "art",
+      "walk"
+    ],
+    "lat": 31.1935,
+    "lng": 121.4835,
+    "coordsApprox": true,
+    "relatedPlaceId": "expo-culture-park",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "CGTN",
+        "url": "https://news.cgtn.com/news/2026-10-20/Shanghai-Grand-Opera-House-opens-to-the-public-1RotSukAeQg/share_amp.html",
+        "date": "2026-10-20"
+      },
+      {
+        "kind": "gov",
+        "name": "浦东政府英文网",
+        "url": "https://english.pudong.gov.cn/2026-07/10/c_1196663.htm",
+        "date": "2026-07-10"
+      }
+    ]
+  },
+  {
+    "id": "f-jiushi-mcbain",
+    "tier": "fragment",
+    "text": "久事美术馆搬进外滩 1 号亚细亚大楼（1916 年），新址首展《Before the Earth Falls Down》。",
+    "area": "黄浦 · 外滩 1 号",
+    "themes": [
+      "art",
+      "heritage"
+    ],
+    "lat": 31.2335,
+    "lng": 121.4904,
+    "coordsApprox": true,
+    "antiSignals": [
+      "就在外滩，游客密集"
+    ],
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网",
+        "url": "https://english.shanghai.gov.cn/en-ArtExhibitions/20260407/9ce10190cdc7466693246a424e89b41f.html",
+        "date": "2026-04-07"
+      }
+    ]
+  },
+  {
+    "id": "f-cruise-bookstore",
+    "tier": "fragment",
+    "text": "北外滩苏州河边开了上海第一家邮轮主题书店（大隐书局），开业一周就成了打卡点。",
+    "area": "虹口 · 北外滩",
+    "themes": [
+      "books"
+    ],
+    "lat": 31.2455,
+    "lng": 121.492,
+    "coordsApprox": true,
+    "antiSignals": [
+      "节假日人流激增"
+    ],
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260402/9e891328e46b49eaacf17edf054a2da2.html",
+        "date": "2026-04-02"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网（假期客流）",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260408/80b888271aad48c88418d2f242eab0fe.html",
+        "date": "2026-04-08"
+      }
+    ]
+  },
+  {
+    "id": "f-west-lane-putuo",
+    "tier": "fragment",
+    "text": "普陀长寿路 166 号一片 1930 年代石库门里弄改造后重新开放，变成餐饮、零售和设计街区。",
+    "area": "普陀 · 长寿路",
+    "themes": [
+      "heritage",
+      "food",
+      "walk"
+    ],
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网",
+        "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20250519/88fc5f4135104dcea1b926d17e00d89a.html",
+        "date": "2025-05-19"
+      }
+    ]
+  },
+  {
+    "id": "f-psa-june-shows",
+    "tier": "fragment",
+    "text": "当代艺术博物馆（PSA）6 月同时开了两个大展；第 15 届上海双年展已于 3 月 31 日结束。",
+    "area": "黄浦 · 南外滩",
+    "themes": [
+      "art"
+    ],
+    "relatedPlaceId": "power-station-of-art",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网",
+        "url": "https://english.shanghai.gov.cn/en-CulturalandArtisticExperiences-Videos-WhatsNew/20260611/bfa5459d0f084b9fba7437c7bce833ed.html",
+        "date": "2026-06-11"
+      },
+      {
+        "kind": "guide",
+        "name": "e-flux",
+        "url": "https://www.e-flux.com/announcements/6785011/does-the-flower-hear-the-bee",
+        "date": "2025-11"
+      }
+    ]
+  },
+  {
+    "id": "f-ferry-reddit",
+    "tier": "fragment",
+    "text": "r/shanghai 的「周末怎么玩」帖子里，有人把坐一趟黄浦江轮渡列为必做。",
+    "area": "浦东 ↔ 黄浦",
+    "themes": [
+      "walk"
+    ],
+    "relatedPlaceId": "huangpu-ferry",
+    "sources": [
+      {
+        "kind": "reddit",
+        "name": "r/shanghai",
+        "url": "https://redlib.belloworld.it/r/shanghai/comments/1czh2y7/weekend_in_shanghai",
+        "date": "2024-05-24",
+        "note": "匿名帖子，通过镜像站访问"
+      }
+    ]
+  },
+  {
+    "id": "f-west-bund-pompidou",
+    "tier": "fragment",
+    "text": "西岸美术馆与蓬皮杜中心的第二个五年合作 2024 年 9 月启动。",
+    "area": "徐汇 · 西岸",
+    "themes": [
+      "art"
+    ],
+    "relatedPlaceId": "west-bund-museum",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20240919/afab99e34a7749b1be1e5b0713b59cc3.html",
+        "date": "2024-09-19"
+      }
+    ]
+  },
+  {
+    "id": "f-astronomy-booking",
+    "tier": "fragment",
+    "text": "天文馆只能在官方微信小程序预约，通常提前几天放票；有访客说境外手机号注册不了。寒暑假周末很快抢光。",
+    "area": "浦东 · 临港",
+    "themes": [
+      "science"
+    ],
+    "relatedPlaceId": "shanghai-astronomy-museum",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "临港新片区英文网",
+        "url": "https://en.lingang.gov.cn/html/website/lg/English/News1630758253379031042/Updates/c1810155225356505089.html",
+        "date": null
+      },
+      {
+        "kind": "guide",
+        "name": "SmartShanghai",
+        "url": "https://www.smartshanghai.com/articles/activities/we-finally-got-into-the-mother-flippin-shanghai-planetarium",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "f-planning-hall-reopen",
+    "tier": "fragment",
+    "text": "城市规划展示馆 2019 年底闭馆改造，2022 年 8 月 9 日重新开放，加了 VR、8K 屏；首日 500 个名额秒光。",
+    "area": "黄浦 · 人民广场",
+    "themes": [
+      "heritage",
+      "science"
+    ],
+    "relatedPlaceId": "urban-planning-hall",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Shanghai Daily",
+        "url": "https://www.pressreader.com/china/shanghai-daily/20220810/281530819796450",
+        "date": "2022-08-10"
+      }
+    ]
+  },
+  {
+    "id": "w-ye-garden",
+    "tier": "weak",
+    "text": "杨浦有个「叶家花园」，藏在医院后面，几乎没人。",
+    "area": "杨浦 · 政民路一带",
+    "themes": [
+      "nature",
+      "heritage"
+    ],
+    "lat": 31.301,
+    "lng": 121.511,
+    "coordsApprox": true,
+    "weakReason": "只有一篇外国居民的博客提到；在医院院内，是否对公众开放不明。",
+    "sources": [
+      {
+        "kind": "blog",
+        "name": "Jaap Grolleman 博客",
+        "url": "https://jaapgrolleman.com/?p=7056",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "w-hongkou-old-street",
+    "tier": "weak",
+    "text": "虹口一条百年老街是首批中央资金支持的旧区更新项目：疏通排水、加口袋花园、改造商业。",
+    "area": "虹口",
+    "themes": [
+      "heritage",
+      "walk"
+    ],
+    "weakReason": "新闻没有写是哪条街，也没说什么时候完工。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "央视新闻（凤凰网转载）",
+        "url": "https://news.ifeng.com/c/8ryduNxqVLa",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "f-americas-show",
+    "tier": "fragment",
+    "text": "人民广场上博老馆整栋楼办「世界树之巅：美洲古代文明展」，墨西哥、秘鲁近 3000 件文物，展期 2026-07-09 至 2027-11-14，需实名预约。",
+    "area": "黄浦 · 人民广场",
+    "themes": [
+      "heritage",
+      "art"
+    ],
+    "lat": 31.2285,
+    "lng": 121.4755,
+    "coordsApprox": true,
+    "antiSignals": [
+      "需实名预约，周一闭馆"
+    ],
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网",
+        "url": "https://english.shanghai.gov.cn/en-FlagshipEvents-2026ShanghaiSummer/20260710/aec52401e6184901b79508e6bd460e1f.html",
+        "date": "2026-07-10"
+      },
+      {
+        "kind": "news",
+        "name": "China Daily",
+        "url": "https://global.chinadaily.com.cn/a/202607/04/WS6a486a4ca310986e2b463818.html",
+        "date": "2026-07-04"
+      }
+    ]
+  },
+  {
+    "id": "w-ancient-ship-museum",
+    "tier": "weak",
+    "text": "「长江口二号」古船要建成上博北馆（古船博物馆），2026–2030 年文化规划里提到要加快建设。",
+    "area": "宝山 / 长江口",
+    "themes": [
+      "heritage",
+      "science"
+    ],
+    "weakReason": "还没开放，没有开放日期；适合以后关注。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网",
+        "url": "https://english.shanghai.gov.cn/en-Policies/20260727/1ac416193db44afb92229b313901d508.html",
+        "date": "2026-07-27"
+      }
+    ]
+  },
+  {
+    "id": "w-osm-south-bund-tailor",
+    "tier": "weak",
+    "text": "OpenStreetMap 在南外滩董家渡一带标了一个裁缝点，没有名字、没有描述；另一个点叫 South Bund soft-spinning material market，坐标却落在长宁。",
+    "area": "黄浦 · 董家渡",
+    "themes": [
+      "science",
+      "food"
+    ],
+    "lat": 31.2156,
+    "lng": 121.4909,
+    "weakReason": "地图数据只有一个点，名称和坐标互相对不上；可能指南外滩轻纺面料市场。",
+    "sources": [
+      {
+        "kind": "osm",
+        "name": "OpenStreetMap（Overpass 查询）",
+        "url": "https://www.openstreetmap.org/#map=17/31.2156/121.4909",
+        "date": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "id": "w-osm-craft-sparse",
+    "tier": "weak",
+    "text": "OpenStreetMap 在上海市中心（徐汇到杨浦）只标了 19 个手作/工坊类点，全部没有描述，大多是裁缝和照相馆。",
+    "area": "市中心",
+    "themes": [
+      "science"
+    ],
+    "weakReason": "说明开放地图在上海覆盖很稀，不代表没有手作工坊；找工坊要靠大众点评和小红书。",
+    "sources": [
+      {
+        "kind": "osm",
+        "name": "OpenStreetMap（Overpass 查询）",
+        "url": "https://overpass-turbo.eu/",
+        "date": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "id": "a-tianzifang",
+    "tier": "anti",
+    "text": "田子坊：弄堂早被统一的纪念品店和奶茶铺占满，本地人已经很少去。",
+    "area": "黄浦 · 泰康路",
+    "lat": 31.2085,
+    "lng": 121.467,
+    "coordsApprox": true,
+    "antiReason": "commercial",
+    "sources": [
+      {
+        "kind": "editorial",
+        "name": "编辑判断",
+        "date": "2026-06"
+      }
+    ]
+  },
+  {
+    "id": "a-qibao",
+    "tier": "anti",
+    "text": "七宝老街：周末人挤人，店铺和全国古镇大同小异。",
+    "area": "闵行 · 七宝",
+    "lat": 31.1555,
+    "lng": 121.35,
+    "coordsApprox": true,
+    "antiReason": "commercial",
+    "sources": [
+      {
+        "kind": "editorial",
+        "name": "编辑判断",
+        "date": "2026-06"
+      }
+    ]
+  },
+  {
+    "id": "a-nanjing-road",
+    "tier": "anti",
+    "text": "南京路步行街：本地人只在路过时穿过，节假日几乎走不动。",
+    "area": "黄浦 · 南京东路",
+    "lat": 31.2365,
+    "lng": 121.48,
+    "coordsApprox": true,
+    "antiReason": "locals-avoid",
+    "sources": [
+      {
+        "kind": "editorial",
+        "name": "编辑判断",
+        "date": "2026-06"
+      }
+    ]
+  },
+  {
+    "id": "a-yuyuan-bazaar",
+    "tier": "anti",
+    "text": "豫园商城小吃：价格是游客价，本地老字号点心更推荐去社区店。",
+    "area": "黄浦 · 豫园",
+    "lat": 31.2275,
+    "lng": 121.492,
+    "coordsApprox": true,
+    "antiReason": "commercial",
+    "sources": [
+      {
+        "kind": "editorial",
+        "name": "编辑判断",
+        "date": "2026-06"
+      }
+    ]
+  }
+]

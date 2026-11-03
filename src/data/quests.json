@@ -1,0 +1,3503 @@
+[
+  {
+    "id": "yp-castle-waterworks",
+    "question": "一座自来水厂，为什么要造成英国城堡的样子？",
+    "why": "这是中国第一座现代自来水厂，至今还在运行。它的外墙是在向谁「说话」，值得站在墙外好好看一看。",
+    "background": [
+      {
+        "text": "杨树浦水厂 1881 年动工，1883 年 6 月 29 日启用，由英国建筑师 J.W. Hart 按英国城堡样式设计：粉灰两色砖、仿角楼、雉堞式女儿墙。",
+        "evidence": [
+          "yp-waterworks-castle"
+        ]
+      },
+      {
+        "text": "它最早的用户是公共租界和法租界的约 17 万人。",
+        "evidence": [
+          "yp-waterworks-served"
+        ]
+      }
+    ],
+    "tasks": [
+      "从杨树浦路一侧沿围墙走一段，数一数墙上有几座仿角楼。",
+      "转到江边栈桥，从江上那一侧再看厂房，对比两面的样子。",
+      "找一处看得到砖缝的墙面，看看粉色砖和灰色砖是怎么排的。"
+    ],
+    "lookFor": [
+      "雉堞（城垛）形状的墙顶",
+      "粉灰两色砖的排列规律",
+      "厂房上的年份或铭牌"
+    ],
+    "further": [
+      "同一年代的工厂大多是朴素的砖房，为什么水厂要造得这么讲究？",
+      "一座在用的水厂成了文物，保护和生产之间会有什么矛盾？"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [
+      "yangpu-riverside"
+    ],
+    "scope": "杨树浦水厂围墙外的杨树浦路一段，以及水厂江边栈桥",
+    "lat": 31.256,
+    "lng": 121.525,
+    "coordsApprox": true,
+    "topics": [
+      "infrastructure/water",
+      "architecture/period-styles",
+      "layers/palimpsest"
+    ],
+    "eras": [
+      "treaty-port"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 1,
+    "kid9": "数城垛、找角楼，像在找一座藏在马路边的城堡。",
+    "kid16": "思考建筑风格和殖民时代「展示」之间的关系，可以写成一篇小论文。",
+    "access": {
+      "transit": "从杨浦滨江南段步道步行可达",
+      "stepFree": true
+    },
+    "evidence": [
+      "yp-waterworks-castle",
+      "yp-waterworks-served"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "yp-salt-tide",
+    "question": "黄浦江的水，为什么有一年变咸了？",
+    "why": "上海喝的是江河水，水厂就站在江和海较劲的地方。在栈桥上看潮水，能直观理解这座城市的水从哪来。",
+    "background": [
+      {
+        "text": "1978 年 10 月到 1979 年 5 月，长江咸潮影响杨树浦水厂共 151 天，1988 年又短暂出现一次。",
+        "evidence": [
+          "yp-salt-tide"
+        ]
+      },
+      {
+        "text": "水厂沿江有一座 535 米长的栈桥，可以走在上面看江面。",
+        "evidence": [
+          "yp-waterworks-pier"
+        ]
+      }
+    ],
+    "tasks": [
+      "在栈桥上找一个固定参照物（桩、浮标），十分钟内看两次，判断江水往哪个方向流。",
+      "找防汛墙或码头立面上的水位痕迹，估计涨落潮的高差。",
+      "回家查当天的潮汐表，对比你看到的流向。"
+    ],
+    "lookFor": [
+      "江水流向",
+      "立面上的水位线或水渍",
+      "栈桥上做成水管形的路灯"
+    ],
+    "further": [
+      "咸潮是从哪里来的？为什么偏偏发生在冬春？",
+      "今天上海的饮用水主要从哪里取？"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [
+      "yangpu-riverside"
+    ],
+    "scope": "杨树浦水厂江边栈桥",
+    "lat": 31.2555,
+    "lng": 121.526,
+    "coordsApprox": true,
+    "topics": [
+      "ecology/rivers",
+      "infrastructure/water",
+      "ecology/flood"
+    ],
+    "eras": [
+      "early-prc"
+    ],
+    "minutes": 40,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 2,
+    "kid9": "用一根小树枝或落叶当「浮标」，看它往哪边漂。",
+    "kid16": "把潮汐表、咸潮和城市供水联系起来，是一道现成的地理综合题。",
+    "access": {
+      "transit": "从杨浦滨江南段步道步行可达",
+      "stepFree": true
+    },
+    "evidence": [
+      "yp-salt-tide",
+      "yp-waterworks-pier"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "yp-chimney",
+    "question": "电厂停了，为什么偏偏留下烟囱和煤斗？",
+    "why": "改造时留什么、拆什么，本身就是一种表态。走一遍电厂遗迹公园，看看设计者想让人记住什么。",
+    "background": [
+      {
+        "text": "杨树浦电厂被称为中国电力工业的发源地，2010 年停产。改造后，105 米烟囱成了「城市灯塔」，巨型煤斗成了观景台，输煤栈桥成了空中步道。",
+        "evidence": [
+          "yp-power-plant"
+        ]
+      }
+    ],
+    "tasks": [
+      "站在烟囱底下抬头看，再走远一百步回头看，比较两种看法。",
+      "登上煤斗观景台，找出煤原来是从哪个方向运进来的。",
+      "列一张清单：哪些东西被留下了，哪些你猜原来有、现在没了。"
+    ],
+    "lookFor": [
+      "输煤栈桥的走向",
+      "煤斗的出料口",
+      "陈列馆里的历史照片"
+    ],
+    "further": [
+      "如果只能留一件，你会留烟囱还是煤斗？为什么？",
+      "精选库里的上海当代艺术博物馆也是电厂改的。把电厂改成公园和改成美术馆，有什么不同？"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [],
+    "scope": "杨树浦电厂遗迹公园（杨树浦路 2800 号）",
+    "lat": 31.268,
+    "lng": 121.553,
+    "coordsApprox": true,
+    "topics": [
+      "infrastructure/energy",
+      "infrastructure/industrial-heritage",
+      "architecture/adaptive-reuse"
+    ],
+    "eras": [
+      "treaty-port",
+      "early-prc",
+      "now"
+    ],
+    "minutes": 60,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 1,
+    "kid9": "爬上煤斗当瞭望员，从高处找杨浦大桥。",
+    "kid16": "讨论工业遗产保护中「留什么」的取舍，适合当辩论题。",
+    "access": {
+      "transit": "地铁 18 号线隆昌路站附近（据 SmartShanghai）",
+      "stepFree": null
+    },
+    "evidence": [
+      "yp-power-plant"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "yp-clarifier-ring",
+    "question": "草地上那个直径 20 米的圆盘，原来是干什么用的？",
+    "why": "工业遗址里最有意思的，常常是看不懂的东西。先自己推理，再去找答案。",
+    "background": [
+      {
+        "text": "杨树浦电厂的净水池留下了 24 个柱础和一个直径 20 米的圆形大底盘，现在是遮阴休息的地方。",
+        "evidence": [
+          "yp-power-pool"
+        ]
+      }
+    ],
+    "tasks": [
+      "先别看说明牌，绕圆盘走一圈，用步子量一量直径。",
+      "数一数柱础，看看它们是怎么排的。",
+      "猜一猜电厂为什么需要一个净水池，再去陈列馆或说明牌核对。"
+    ],
+    "lookFor": [
+      "24 个柱础",
+      "圆盘中心有没有特别的结构",
+      "说明牌上的原用途"
+    ],
+    "further": [
+      "火力发电为什么要用大量的水？",
+      "这些水最后排到了哪里？"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [],
+    "scope": "杨树浦电厂遗迹公园内的原净水池",
+    "lat": 31.2675,
+    "lng": 121.552,
+    "coordsApprox": true,
+    "topics": [
+      "infrastructure/energy",
+      "infrastructure/water",
+      "layers/palimpsest"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 2,
+    "kid9": "用步子量直径、数柱子，像个现场侦探。",
+    "kid16": "从电厂冷却和水处理去倒推遗迹用途，是一道物理加工程的推理题。",
+    "access": {
+      "transit": "地铁 18 号线隆昌路站附近（据 SmartShanghai）",
+      "stepFree": null
+    },
+    "evidence": [
+      "yp-power-pool"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "yp-sawtooth",
+    "question": "纺织厂的屋顶，为什么是一排锯齿？",
+    "why": "锯齿屋顶是工业时代的一种「标准答案」。用手机指南针就能自己找到它背后的道理。",
+    "background": [
+      {
+        "text": "上海国际时尚中心的前身是裕丰纺织（1935 年建成），1950 年起是国营上海第十七棉纺织厂，园区保有最完整、规模最大的锯齿形厂房。",
+        "evidence": [
+          "yp-sawtooth"
+        ]
+      }
+    ],
+    "tasks": [
+      "找一个能看到锯齿屋顶侧面的位置，画下它的剖面。",
+      "用手机指南针测一测：锯齿的玻璃面朝哪个方向？",
+      "如果能进厂房，抬头看光是从哪里进来的。"
+    ],
+    "lookFor": [
+      "锯齿玻璃面的朝向",
+      "锯齿的数量",
+      "原来的水塔或锅炉房"
+    ],
+    "further": [
+      "为什么纺织车间特别在意光线均匀？",
+      "朝向和直射阳光有什么关系？查一查「北向采光」。"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [],
+    "scope": "上海国际时尚中心（杨树浦路 2866 号）",
+    "lat": 31.2705,
+    "lng": 121.556,
+    "coordsApprox": true,
+    "topics": [
+      "infrastructure/industrial-heritage",
+      "economy/manufacturing",
+      "architecture/adaptive-reuse"
+    ],
+    "eras": [
+      "republic",
+      "early-prc"
+    ],
+    "minutes": 45,
+    "setting": "mixed",
+    "daylight": true,
+    "difficulty": 2,
+    "kid9": "用指南针当工具，自己发现一个建筑秘密。",
+    "kid16": "把太阳高度角、采光和车间生产联系起来，是一道跨学科题。",
+    "access": {
+      "transit": "电厂遗迹公园东侧，步行可达",
+      "stepFree": null
+    },
+    "evidence": [
+      "yp-sawtooth"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "yp-beamless",
+    "question": "仓库里没有梁，楼板是靠什么撑住的？",
+    "why": "一百年前的大仓库要堆很重的棉纱，结构工程师用了一个当时很先进的办法。",
+    "background": [
+      {
+        "text": "永安栈房是永安纺织公司的核心仓库，曾是全国最大的双塔仓库，用的是钢筋混凝土无梁楼盖；西楼 2022 年改成了世界技能博物馆。",
+        "evidence": [
+          "yp-yongan"
+        ]
+      }
+    ],
+    "tasks": [
+      "进博物馆后先看天花板，找一找有没有横梁。",
+      "仔细看柱子顶端和楼板相接的地方是什么形状。",
+      "数一数一层有多少根柱子，估计柱距。"
+    ],
+    "lookFor": [
+      "柱顶和楼板的交接形状",
+      "柱网的间距",
+      "两座塔楼的外观"
+    ],
+    "further": [
+      "没有梁有什么好处？对堆货和通风有什么帮助？",
+      "为什么要造成双塔？"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [],
+    "scope": "世界技能博物馆（永安栈房西楼，杨树浦路 1578 号）",
+    "lat": 31.2585,
+    "lng": 121.533,
+    "coordsApprox": true,
+    "topics": [
+      "architecture/period-styles",
+      "infrastructure/industrial-heritage",
+      "economy/global"
+    ],
+    "eras": [
+      "republic",
+      "now"
+    ],
+    "minutes": 75,
+    "setting": "indoor",
+    "daylight": false,
+    "difficulty": 2,
+    "kid9": "在博物馆里找「没有梁的天花板」，然后玩里面的技能互动展。",
+    "kid16": "了解楼盖结构，看懂一栋房子的力是怎么传下去的。",
+    "access": {
+      "transit": "杨浦滨江南段步道附近",
+      "stepFree": null
+    },
+    "evidence": [
+      "yp-yongan"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "yp-sugar-to-plastic",
+    "question": "一座糖仓，怎么变成了中国第一家塑料厂？",
+    "why": "同一座房子装过糖、做过塑料、现在办展览，屋顶上能同时看到两代钢结构。",
+    "background": [
+      {
+        "text": "明华糖仓建于 1920–30 年代，原是糖业公司的仓库；1950 年起是上海化工厂，中国第一家综合性塑料加工企业。屋顶保留了原钢屋架，1980 年代又加了工字钢。",
+        "evidence": [
+          "yp-minghua"
+        ]
+      }
+    ],
+    "tasks": [
+      "进去后抬头，把屋顶的钢构件分成两类：老的和后加的。",
+      "找一找有没有当年生产留下的痕迹（地面、墙上的孔洞、管线）。",
+      "想一想：为什么一座仓库适合改成工厂？"
+    ],
+    "lookFor": [
+      "原钢屋架和工字钢的区别",
+      "墙面或地面上的改造痕迹"
+    ],
+    "further": [
+      "1950 年代上海为什么要自己发展塑料工业？",
+      "一栋建筑换过几次用途，算不算「真的」老建筑？"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [],
+    "scope": "明华糖仓（安浦路 415 号）",
+    "lat": 31.2545,
+    "lng": 121.516,
+    "coordsApprox": true,
+    "topics": [
+      "economy/manufacturing",
+      "layers/palimpsest",
+      "architecture/adaptive-reuse"
+    ],
+    "eras": [
+      "republic",
+      "early-prc",
+      "reform"
+    ],
+    "minutes": 40,
+    "setting": "indoor",
+    "daylight": false,
+    "difficulty": 2,
+    "kid9": "玩「找不同」：哪根钢梁是老的，哪根是新的。",
+    "kid16": "一栋房子身上的三段历史，正好对应上海经济的三个阶段。",
+    "access": {
+      "transit": "杨浦滨江南段西端，步道步行可达",
+      "stepFree": null
+    },
+    "evidence": [
+      "yp-minghua"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "yp-green-hill",
+    "question": "一栋普通的六层仓库，怎么变成了一座「山」？",
+    "why": "这里不是靠老房子本身好看取胜，而是靠改造的办法。看懂「退台」，就能看懂很多新建筑。",
+    "background": [
+      {
+        "text": "绿之丘原是烟草公司的机修仓库，一座普通的钢混 6 层楼，改造后成了层层退台的立体花园。",
+        "evidence": [
+          "yp-green-hill"
+        ]
+      }
+    ],
+    "tasks": [
+      "从江边远远看一次，画出它的侧面轮廓。",
+      "从底层一直走到顶层，数一数一共退了几次台。",
+      "在每一层找一找原来仓库的柱子或楼板。"
+    ],
+    "lookFor": [
+      "退台的层数",
+      "保留下来的原结构",
+      "从顶层看出去的江景"
+    ],
+    "further": [
+      "把一栋楼「削」成台阶，损失了多少面积？换来了什么？",
+      "你在城里还见过哪些退台建筑？"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [],
+    "scope": "绿之丘（杨浦滨江南段）",
+    "lat": 31.255,
+    "lng": 121.521,
+    "coordsApprox": true,
+    "topics": [
+      "architecture/adaptive-reuse",
+      "ecology/urban-green",
+      "fabric/renewal"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 40,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 1,
+    "kid9": "沿着台阶往上爬，一层一层数到顶。",
+    "kid16": "比较「拆掉重建」和「削成退台」，是城市更新里很典型的取舍。",
+    "access": {
+      "transit": "杨浦滨江南段步道上",
+      "stepFree": null
+    },
+    "evidence": [
+      "yp-green-hill"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "yp-bridge",
+    "question": "602 米江面上不立一个桥墩，这座桥是靠什么挂住的？",
+    "why": "从滨江步道可以看到杨浦大桥的侧面，是认识斜拉桥最好的位置之一。",
+    "background": [
+      {
+        "text": "杨浦大桥 1993 年建成通车，主跨 602 米，两座倒 Y 形桥塔高 223 米。1995 年之前，它是世界上主跨最长的斜拉桥。",
+        "evidence": [
+          "yp-bridge"
+        ]
+      }
+    ],
+    "tasks": [
+      "在步道上找一个能看到整座桥侧面的位置。",
+      "数一数一座桥塔一侧有多少根拉索。",
+      "观察拉索是从桥塔的哪里连到桥面的，画一张受力示意图。"
+    ],
+    "lookFor": [
+      "倒 Y 形桥塔",
+      "扇形排列的拉索",
+      "桥下通过的船只"
+    ],
+    "further": [
+      "为什么桥要造得这么高？想一想黄浦江上走的是什么船。",
+      "为什么 1990 年代初上海要在这里造桥？"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [],
+    "scope": "杨浦滨江步道上能看到杨浦大桥侧面的一段",
+    "lat": 31.2605,
+    "lng": 121.5405,
+    "coordsApprox": true,
+    "topics": [
+      "infrastructure/transit",
+      "architecture/modernist",
+      "economy/global"
+    ],
+    "eras": [
+      "pudong"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 1,
+    "kid9": "数拉索，然后用双手比划斜拉桥是怎么「拉」住桥面的。",
+    "kid16": "受力分析加上浦东开发的背景，一座桥能连起物理和历史。",
+    "access": {
+      "transit": "杨浦滨江步道上",
+      "stepFree": true
+    },
+    "evidence": [
+      "yp-bridge"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "yp-renrenwu",
+    "question": "江边每隔六七百米就有一间小屋，是谁在管这条岸线？",
+    "why": "滨江不只是风景，也是被精心管理的公共空间。看看谁在维护它，又是怎么安排的。",
+    "background": [
+      {
+        "text": "杨浦滨江有 10 座党群服务站「人人屋」，相邻两座只隔六七百米。南段 5.5 公里实现无障碍贯通，漫步道、跑步道、骑行道各自分开。",
+        "evidence": [
+          "yp-renrenwu"
+        ]
+      },
+      {
+        "text": "岸线上原来是码头和工厂，像毛麻仓库、上海鱼市场这样的地方都改成了别的用途。",
+        "evidence": [
+          "yp-riverside-reuse"
+        ]
+      }
+    ],
+    "tasks": [
+      "从一座人人屋走到下一座，计时，并数一数步数。",
+      "看看三条道是怎么区分的：颜色、材料还是标线？",
+      "进一座人人屋，记下它提供哪些服务、门口贴了什么告示。"
+    ],
+    "lookFor": [
+      "三条道的区分方式",
+      "人人屋提供的服务",
+      "原码头、工厂的残留痕迹"
+    ],
+    "further": [
+      "为什么间隔是六七百米？想一想走路要几分钟。",
+      "公共空间由谁来管、怎么管，在你住的城市是怎样的？"
+    ],
+    "areaId": "yangpu-riverside",
+    "placeIds": [
+      "yangpu-riverside"
+    ],
+    "scope": "杨浦滨江南段步道，任选相邻两座人人屋之间",
+    "lat": 31.257,
+    "lng": 121.53,
+    "coordsApprox": true,
+    "topics": [
+      "society/governance",
+      "everyday/public-space",
+      "fabric/renewal"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "daylight": false,
+    "difficulty": 1,
+    "kid9": "当一回测量员：计步、计时，算出两座小屋有多远。",
+    "kid16": "观察基层治理怎么落到一条江岸上，可以和海外城市的滨水空间做对比。",
+    "access": {
+      "transit": "杨浦滨江南段步道",
+      "stepFree": true
+    },
+    "evidence": [
+      "yp-renrenwu",
+      "yp-riverside-reuse"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-bullet-wall",
+    "question": "四行仓库西墙上的弹孔，是原样留下的，还是修出来的？",
+    "why": "这面墙是上海最有名的战争遗迹之一，但它的样子是 2015 年修复时决定的。弄清楚「怎么修」，是理解历史怎样被展示的好入口。",
+    "background": [
+      {
+        "text": "1937 年淞沪会战后期，88 师 420 余名官兵在谢晋元率领下坚守四行仓库，被称为「八百壮士」。",
+        "evidence": [
+          "sz-sihang-battle"
+        ]
+      },
+      {
+        "text": "2014–2015 年修复时，西墙去掉灰浆露出红砖，按历史照片定位原来的弹孔，并拆掉第七层和大部分第六层，恢复 1930 年代的五层样子。",
+        "evidence": [
+          "sz-sihang"
+        ]
+      }
+    ],
+    "tasks": [
+      "在西墙外的广场上，从远处拍一张整面墙的照片。",
+      "走近，挑一小块区域，数一数有多少个洞。",
+      "进纪念馆找到修复前的照片，和你拍的照片对比。"
+    ],
+    "lookFor": [
+      "大炮弹洞和小弹孔的区别",
+      "修复前后的楼层数变化",
+      "新旧砖的区别"
+    ],
+    "further": [
+      "把墙恢复成「被打过的样子」，算保护还是重建？",
+      "不同报道写的弹孔数不一样，你觉得为什么？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [
+      "sihang-warehouse"
+    ],
+    "lat": 31.243,
+    "lng": 121.47,
+    "topics": [
+      "layers/war-memory",
+      "society/conservation",
+      "architecture/adaptive-reuse"
+    ],
+    "eras": [
+      "republic",
+      "now"
+    ],
+    "minutes": 75,
+    "setting": "mixed",
+    "daylight": true,
+    "difficulty": 2,
+    "kid9": "分清大洞和小洞，听一听八百壮士守仓库的故事。",
+    "kid16": "讨论历史遗迹的「真实性」：修复、展示和记忆之间的关系。",
+    "access": {
+      "transit": "苏州河北岸步道",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-sihang",
+      "sz-sihang-battle"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-water-quality",
+    "question": "苏州河曾经又黑又臭，现在的水干净到什么程度？",
+    "why": "很多上海人记得「苏州河的臭味」。治理花了二十多年，现在可以亲眼验收一下。",
+    "background": [
+      {
+        "text": "苏州河在 1980 年代污染严重；1996 年开始大规模治理，重点是污水管网和污水处理；2018 年启动第四期，目标是 2021 年消除劣 V 类水。",
+        "evidence": [
+          "sz-pollution"
+        ]
+      }
+    ],
+    "tasks": [
+      "选一段步道，在岸边站五分钟：看颜色，闻气味，找一找水里有没有鱼。",
+      "数一数这段路上能看到几种水鸟。",
+      "找一找有没有排水口或水质公示牌；有的话，记下上面写了什么。"
+    ],
+    "lookFor": [
+      "水的颜色和透明度",
+      "鱼或水鸟",
+      "排水口、水质公示牌"
+    ],
+    "further": [
+      "V 类水能做什么用？离能游泳还有多远？",
+      "问问家里的长辈：他们记忆中的苏州河是什么样子？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [
+      "suzhou-creek-walk"
+    ],
+    "scope": "苏州河步道，任选一段",
+    "lat": 31.246,
+    "lng": 121.455,
+    "coordsApprox": true,
+    "topics": [
+      "ecology/rivers",
+      "society/municipal",
+      "infrastructure/water"
+    ],
+    "eras": [
+      "reform",
+      "now"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 1,
+    "kid9": "当一回「水质侦察员」：看、闻、找鱼、数鸟。",
+    "kid16": "把一条河的治理放进城市发展的时间线里看，可以去采访家里的长辈。",
+    "access": {
+      "transit": "苏州河步道沿线",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-pollution"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-mengqing",
+    "question": "一座公园，能自己把河水洗干净吗？",
+    "why": "梦清园把水处理做成了可以走进去看的公园，而且就在老啤酒厂的房子里。",
+    "background": [
+      {
+        "text": "梦清园 2004 年开放，是苏州河二期整治的重点项目，核心是一套生态水处理系统；展馆用的是原上海啤酒厂保留下来的工业建筑。",
+        "evidence": [
+          "sz-mengqing"
+        ]
+      }
+    ],
+    "tasks": [
+      "沿着园里的水流走一遍，从进水的地方走到出水的地方。",
+      "比较不同池子里水的颜色和清澈程度。",
+      "进展馆，找出水处理一共分了几步。"
+    ],
+    "lookFor": [
+      "水流的起点和终点",
+      "芦苇湿地",
+      "啤酒厂老建筑的痕迹"
+    ],
+    "further": [
+      "湿地是怎么让水变干净的？植物和微生物各起什么作用？",
+      "为什么要在河边专门建一座环保主题公园？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [],
+    "scope": "梦清园（宜昌路 66 号）",
+    "lat": 31.2475,
+    "lng": 121.4475,
+    "coordsApprox": true,
+    "topics": [
+      "ecology/wetland",
+      "infrastructure/water",
+      "architecture/adaptive-reuse"
+    ],
+    "eras": [
+      "pudong"
+    ],
+    "minutes": 60,
+    "setting": "mixed",
+    "daylight": true,
+    "difficulty": 1,
+    "kid9": "顺着水走，找一找水里的小鱼和蝌蚪。",
+    "kid16": "了解生态水处理的原理，和学校的生物、化学课挂钩。",
+    "access": {
+      "transit": "苏州河南岸步道",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-mengqing"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-fire-tower",
+    "question": "1932 年的人，是怎么在一片矮房子里发现火灾的？",
+    "why": "这座消防站至今还有一部分在用。它的高塔讲的是城市在没有手机、没有烟感器的年代怎么管住火灾。",
+    "background": [
+      {
+        "text": "宜昌路消防站建于 1932 年，是周边第一栋高层建筑；42 米高的瞭望塔顶有一座八角亭，里面挂着铜钟，曾是火警中心。现在有 150 平方米改成了消防展厅。",
+        "evidence": [
+          "sz-fire-station"
+        ]
+      }
+    ],
+    "tasks": [
+      "在路对面找一个能看到塔顶八角亭的位置。",
+      "估一估：站在 42 米高处，能看多远？",
+      "如果展厅开放，找出当年怎样用钟声报火警。"
+    ],
+    "lookFor": [
+      "塔顶八角亭和铜钟",
+      "白色立面上的竖向砖纹",
+      "仍在使用的那部分建筑"
+    ],
+    "further": [
+      "今天的城市靠什么发现火灾？",
+      "为什么消防站要建在河边？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [],
+    "scope": "宜昌路消防站（宜昌路 216 号）",
+    "lat": 31.2465,
+    "lng": 121.4515,
+    "coordsApprox": true,
+    "topics": [
+      "society/municipal",
+      "architecture/period-styles",
+      "layers/palimpsest"
+    ],
+    "eras": [
+      "republic",
+      "now"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 1,
+    "kid9": "找到塔顶的钟，看一看真正在用的消防站。",
+    "kid16": "了解一座城市的公共安全系统是怎么一步步演变的。",
+    "access": {
+      "transit": "苏州河南岸，梦清园附近",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-fire-station"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-jiuzi",
+    "question": "1960 年代弄堂里的孩子，都玩些什么？",
+    "why": "九子公园把弄堂游戏做成了雕塑。这里很可能是全家人能一起玩起来的地方：长辈会玩，孩子能学。",
+    "background": [
+      {
+        "text": "九子公园以 1960 年代石库门弄堂里的「九子」游戏为主题，用九组铜、钢、花岗岩雕塑把游戏定格：滚铁环、踢毽子、跳橡皮筋、打弹子等。",
+        "evidence": [
+          "sz-jiuzi"
+        ]
+      }
+    ],
+    "tasks": [
+      "找齐九组雕塑，每找到一组就猜一猜它是什么游戏。",
+      "请家里的长辈示范一个他们小时候玩过的游戏。",
+      "看看公园里现在的人在做什么：下棋、跳舞，还是在玩这些游戏？"
+    ],
+    "lookFor": [
+      "九组雕塑",
+      "今天在公园里活动的人",
+      "你从没听说过的那个游戏"
+    ],
+    "further": [
+      "这些游戏需要多大的地方、多少个人？和弄堂的空间有什么关系？",
+      "现在的孩子在哪里玩？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [],
+    "scope": "九子公园（成都北路 1018 号）",
+    "lat": 31.2445,
+    "lng": 121.463,
+    "coordsApprox": true,
+    "topics": [
+      "everyday/public-space",
+      "everyday/neighbourhood",
+      "fabric/lilong"
+    ],
+    "eras": [
+      "early-prc"
+    ],
+    "minutes": 40,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 1,
+    "kid9": "找齐九组雕塑，跟着大人学一个老游戏。",
+    "kid16": "观察游戏和居住空间的关系，顺便采访一下长辈的童年。",
+    "access": {
+      "transit": "地铁 13 号线自然博物馆站 3 号口，步行约 10 分钟（据上海市新闻办）",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-jiuzi"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-m50",
+    "question": "纺织厂停工以后，为什么最先搬进来的是艺术家？",
+    "why": "M50 是上海「工厂变艺术区」的起点之一。看看厂房留下了什么，就能理解艺术家看中它的原因。",
+    "background": [
+      {
+        "text": "莫干山路 50 号原是春明粗纺厂。停产后，艺术家薛松在 2000 年因为租金便宜最早入驻，丁乙等人随后跟进。土地仍属原来经营工厂的国有纺织集团。",
+        "evidence": [
+          "sz-m50"
+        ]
+      }
+    ],
+    "tasks": [
+      "在园区里找三处还能看出是工厂的地方。",
+      "走进一间画廊，看看它的层高和窗户。",
+      "想一想：画家需要什么样的空间？"
+    ],
+    "lookFor": [
+      "厂房的层高、大窗和柱网",
+      "墙上的老标语或编号",
+      "园区边上的苏州河"
+    ],
+    "further": [
+      "艺术区出名以后，租金会怎样变化？艺术家还留得住吗？",
+      "为什么土地一直归纺织集团所有？这对园区的命运有什么影响？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [
+      "tianan-1000-trees"
+    ],
+    "scope": "莫干山路 50 号园区",
+    "lat": 31.2495,
+    "lng": 121.4505,
+    "coordsApprox": true,
+    "topics": [
+      "culture/visual-art",
+      "fabric/renewal",
+      "economy/manufacturing"
+    ],
+    "eras": [
+      "early-prc",
+      "now"
+    ],
+    "minutes": 60,
+    "setting": "mixed",
+    "daylight": false,
+    "difficulty": 1,
+    "kid9": "找一找厂房留下的「暗号」：编号、老标语、旧管道。",
+    "kid16": "了解「士绅化」的过程：艺术区怎样一步步被商业化。",
+    "access": {
+      "transit": "苏州河南岸，宜昌路附近",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-m50"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-1000trees",
+    "question": "把树种在柱子顶上，树能长多大？",
+    "why": "天安千树是一座想「长成山」的商场。几年过去，树长得怎么样，就在现场。",
+    "background": [
+      {
+        "text": "天安千树由 Heatherwick Studio 设计，构想是「两座长满树的山」：数百根柱子，每根柱子顶上一个种植槽。第一期主要是商场。",
+        "evidence": [
+          "sz-1000trees"
+        ]
+      }
+    ],
+    "tasks": [
+      "从苏州河对岸看整栋楼，估一估有多少棵树是绿的。",
+      "走近一个种植槽，估计它的大小和土有多深。",
+      "比较一下常绿树和落叶树在 12 月的样子。"
+    ],
+    "lookFor": [
+      "种植槽的大小",
+      "12 月里光秃的落叶树",
+      "浇水或排水的设施"
+    ],
+    "further": [
+      "楼上种树要多承受多少重量？",
+      "这是生态建筑，还是一种好看的装饰？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [
+      "tianan-1000-trees"
+    ],
+    "lat": 31.249,
+    "lng": 121.45,
+    "topics": [
+      "architecture/contemporary",
+      "ecology/plants"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 45,
+    "setting": "mixed",
+    "daylight": true,
+    "difficulty": 1,
+    "kid9": "数一数绿色的树和光秃秃的树，看谁多。",
+    "kid16": "讨论「绿色建筑」是真的环保，还是营销。",
+    "access": {
+      "transit": "莫干山路，M50 旁",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-1000trees"
+    ],
+    "checkedAt": null
+  },
+  {
+    "id": "sz-post-office",
+    "question": "一座邮局，为什么要盖得像宫殿？",
+    "why": "1924 年的邮政大楼至今还在营业。站在门口，能感受到当年「通信」在一座城市里有多重要。",
+    "background": [
+      {
+        "text": "上海邮政总局大楼 1922–1924 年建成，古典式立面有三层通高的科林斯柱，转角入口上方是巴洛克式钟楼，两侧有雕像群。2003 年起部分楼面改为邮政博物馆，营业厅至今仍在营业。",
+        "evidence": [
+          "sz-post"
+        ]
+      }
+    ],
+    "tasks": [
+      "在四川路桥上，从对岸看整栋楼的转角。",
+      "用手机拉近看钟楼上的雕像，数一数有几个人物。",
+      "进营业厅寄一张明信片给自己，再上楼看邮政博物馆。"
+    ],
+    "lookFor": [
+      "科林斯柱头",
+      "钟楼雕像",
+      "营业厅的老柜台"
+    ],
+    "further": [
+      "雕像是哪些神？不同资料说法不一，你能找到证据吗？",
+      "1920 年代寄一封信到欧洲要多久？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [
+      "shanghai-post-museum"
+    ],
+    "lat": 31.244,
+    "lng": 121.484,
+    "topics": [
+      "infrastructure/communications",
+      "architecture/period-styles"
+    ],
+    "eras": [
+      "republic"
+    ],
+    "minutes": 60,
+    "setting": "mixed",
+    "daylight": false,
+    "difficulty": 1,
+    "kid9": "给自己寄一张明信片，回家后等着收。",
+    "kid16": "辨认古典柱式，查证雕像到底是哪几位神。",
+    "access": {
+      "transit": "苏州河北岸，四川北路桥边",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-post"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-embankment",
+    "question": "同一栋公寓楼，九十年里住过哪几拨人？",
+    "why": "河滨大楼是一部缩小的上海人口史：外国职员、犹太难民、分配来的教授和艺术家，今天的租客。",
+    "background": [
+      {
+        "text": "河滨大楼是沙逊在 1930 年代建成的苏州河边第一座高层公寓，共 194 套；1938 年收容过数千名犹太难民；1949 年后分配给教授、艺术家和干部；1990 年代后期起可以买卖出租。",
+        "evidence": [
+          "sz-embankment"
+        ]
+      }
+    ],
+    "tasks": [
+      "从苏州河对岸看大楼的整个立面，看看它的平面是直的还是弯的，和河道走向有什么关系。",
+      "在楼外找门牌、信箱或晾衣架，猜一猜现在住的是什么人。",
+      "不打扰住户：只在公共区域观察，不进私人楼道。"
+    ],
+    "lookFor": [
+      "沿河的立面形状",
+      "现在居民生活的痕迹",
+      "底层的商铺"
+    ],
+    "further": [
+      "为什么一栋楼的住户会换好几拨？跟哪些政策有关？",
+      "这和你住过的公寓楼有什么不一样？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [],
+    "scope": "河滨大楼外立面及苏州河对岸",
+    "lat": 31.2445,
+    "lng": 121.488,
+    "coordsApprox": true,
+    "topics": [
+      "society/housing",
+      "society/migration",
+      "layers/palimpsest"
+    ],
+    "eras": [
+      "republic",
+      "early-prc",
+      "reform"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 2,
+    "kid9": "从对岸数一数窗户有多少扇，想象 194 户人家。",
+    "kid16": "一栋楼串起犹太难民史和住房制度改革，适合写成一篇报告。",
+    "access": {
+      "transit": "苏州河北岸，邮政大楼东侧",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-embankment"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-rebuilt",
+    "question": "慎余里和天后宫，算不算「真古迹」？",
+    "why": "苏河湾这几年新建了一片「老」街区。站在它们中间，正好可以练习分辨：哪些是原物，哪些是重建，哪些是迁建。",
+    "background": [
+      {
+        "text": "慎余里是重建的 1930 年代石库门街区，保留「一户一院」格局；天后宫建于 1884 年，在城市更新中迁建，是上海唯一一座妈祖庙；上海总商会旧址 1916 年建成。",
+        "evidence": [
+          "sz-suhewan"
+        ]
+      }
+    ],
+    "tasks": [
+      "在慎余里找三个能说明它是新建的细节（砖、门、管线、地面）。",
+      "到天后宫，看看哪些构件看起来是老的，哪些是新的。",
+      "走到总商会旧址，读一读说明牌怎么介绍它，和前面两处比较一下。"
+    ],
+    "lookFor": [
+      "新旧砖的区别",
+      "说明牌上的「迁建」「重建」字样",
+      "总商会旧址的说明牌"
+    ],
+    "further": [
+      "原物、迁建和重建，对你来说哪个才算「真」？",
+      "为什么开发商愿意花钱重建老街区？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [],
+    "scope": "苏河湾：慎余里、天后宫、上海总商会旧址",
+    "lat": 31.2438,
+    "lng": 121.477,
+    "coordsApprox": true,
+    "topics": [
+      "society/conservation",
+      "fabric/lilong",
+      "culture/religion"
+    ],
+    "eras": [
+      "treaty-port",
+      "republic",
+      "now"
+    ],
+    "minutes": 60,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 3,
+    "kid9": "玩「真假老房子」：找一找哪些砖是新的。",
+    "kid16": "文物的「真实性」是一个在国际上也有争论的话题，可以当成一场辩论。",
+    "access": {
+      "transit": "苏州河北岸，四川北路桥西侧",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-suhewan"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "sz-open-walls",
+    "question": "这条 42 公里的步道，是怎么从小区围墙里「借」出来的？",
+    "why": "苏州河步道不是一条现成的路，而是一段一段谈下来的。走在普陀段，能看到围墙打开后留下的痕迹。",
+    "background": [
+      {
+        "text": "苏州河 42 公里滨水步道 2020 年 12 月贯通。贯通前有 15.3 公里、63 处被历史建筑、仓库、小区等阻断；普陀段占了一半，约 14 个小区和 8 家单位同意打开围墙。",
+        "evidence": [
+          "sz-path"
+        ]
+      }
+    ],
+    "tasks": [
+      "在普陀段步行 20 分钟，留意步道两边是小区还是单位。",
+      "找出步道和小区之间是怎么隔开的：栏杆、绿化，还是门禁？",
+      "看看有没有只在某个时段开放的门。"
+    ],
+    "lookFor": [
+      "步道和小区之间的边界",
+      "门禁或开放时间的告示",
+      "小区居民在步道上的活动"
+    ],
+    "further": [
+      "如果你家小区要让出一条公共步道，你会同意吗？需要什么条件？",
+      "海外城市的滨水步道是怎么来的？"
+    ],
+    "areaId": "suzhou-creek",
+    "placeIds": [
+      "suzhou-creek-walk"
+    ],
+    "scope": "苏州河步道普陀段，任选一段",
+    "lat": 31.2385,
+    "lng": 121.425,
+    "coordsApprox": true,
+    "topics": [
+      "society/governance",
+      "fabric/boundary",
+      "everyday/public-space"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "daylight": true,
+    "difficulty": 2,
+    "kid9": "找一找步道旁边的「门」：哪些能进，哪些不能。",
+    "kid16": "公共空间和私人产权怎样谈判，是一道很好的城市治理题。",
+    "access": {
+      "transit": "苏州河步道普陀段",
+      "stepFree": null
+    },
+    "evidence": [
+      "sz-path"
+    ],
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "further": [
+      "上海还有哪些地名带「嘴」「浜」「泾」「渡」？它们各说明了什么地形？",
+      "一个家族的姓，为什么能变成一片 CBD 的名字？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "id": "lj-name",
+    "question": "陆家嘴的「陆」是谁？「嘴」又在哪里？",
+    "why": "住在陆家嘴附近，却很少有人知道这个名字是一户明朝人家留下的。站在江边，就能看到「嘴」的形状。",
+    "background": [
+      {
+        "text": "陆家嘴的得名与陆氏家族有关：明代文人陆深（1477–1544）晚年在陆家嘴故里度过。「嘴」指陆地伸进水里的部分，黄浦江在这里与吴淞江交汇，呈九十度急转弯。",
+        "evidence": [
+          "lj-name"
+        ]
+      },
+      {
+        "text": "19 世纪，烂泥渡一带出现了外资工厂和码头。",
+        "evidence": [
+          "lj-before-1990"
+        ]
+      }
+    ],
+    "tasks": [
+      "坐东昌路轮渡过江，在船上看黄浦江在哪里拐弯。",
+      "在陆家嘴滨江找一个能同时看到上游和下游的位置，用手比出江的转角。",
+      "在附近街道找一找有没有带「烂泥渡」的路牌或站名。"
+    ],
+    "lookFor": [
+      "黄浦江的急转弯",
+      "苏州河汇入黄浦江的河口方向",
+      "带「烂泥渡」的老地名"
+    ],
+    "areaId": "lujiazui",
+    "placeIds": [
+      "huangpu-ferry"
+    ],
+    "scope": "陆家嘴滨江与东昌路渡口",
+    "lat": 31.2375,
+    "lng": 121.4975,
+    "topics": [
+      "layers/place-names",
+      "ecology/rivers",
+      "fabric/street"
+    ],
+    "eras": [
+      "jiangnan",
+      "treaty-port"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "kid9": "在轮渡上找到黄浦江「拐弯」的地方，再在路边找一找老地名。",
+    "kid16": "从地名反推地形和历史，是一种很实用的城市阅读方法。",
+    "access": {
+      "transit": "东昌路渡口；陆家嘴滨江步道",
+      "stepFree": null
+    },
+    "evidence": [
+      "lj-name",
+      "lj-before-1990"
+    ]
+  },
+  {
+    "further": [
+      "如果让你设计第四座，你会让它像什么？",
+      "三座楼的设计师分别来自哪里？这说明了什么？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "id": "lj-three-towers",
+    "question": "陆家嘴三座最高的楼，为什么长得完全不一样？",
+    "why": "金茂、环球、上海中心相隔不到二十年建成，各自代表一种关于「中国摩天楼应该长什么样」的回答。",
+    "background": [
+      {
+        "text": "金茂大厦高 420.5 米、88 层，造型借鉴中国传统密檐塔，越往上越收，比例围绕数字 8 安排。",
+        "evidence": [
+          "lj-jinmao"
+        ]
+      },
+      {
+        "text": "上海环球金融中心高 492 米，2008 年开放，顶部开了一个梯形洞口。",
+        "evidence": [
+          "lj-swfc"
+        ]
+      },
+      {
+        "text": "上海中心大厦约 632 米，塔身扭转 120 度。",
+        "evidence": [
+          "lj-shanghai-tower"
+        ]
+      }
+    ],
+    "tasks": [
+      "在陆家嘴中心找一个三座楼同时入画的位置，拍一张照片。",
+      "分别给三座楼画一个最简单的轮廓线。",
+      "数一数金茂大厦能看出几段收分。"
+    ],
+    "lookFor": [
+      "金茂的分段收进",
+      "环球顶部的洞口",
+      "上海中心的扭转线"
+    ],
+    "areaId": "lujiazui",
+    "placeIds": [
+      "duoyun-books-shanghai-tower"
+    ],
+    "scope": "陆家嘴中心区，三座塔楼之间的街道和环形天桥",
+    "lat": 31.2365,
+    "lng": 121.503,
+    "topics": [
+      "architecture/contemporary",
+      "economy/finance",
+      "economy/global"
+    ],
+    "eras": [
+      "pudong",
+      "now"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "kid9": "给三座楼起外号，然后画出它们的轮廓。",
+    "kid16": "比较三种设计思路：传统符号、结构效率、城市形象。",
+    "access": {
+      "transit": "陆家嘴环形天桥一带",
+      "stepFree": null
+    },
+    "evidence": [
+      "lj-jinmao",
+      "lj-swfc",
+      "lj-shanghai-tower"
+    ]
+  },
+  {
+    "further": [
+      "建筑的形状应不应该考虑政治象征？",
+      "你见过因为象征意义而被修改的设计吗？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "id": "lj-swfc-hole",
+    "question": "环球金融中心顶上的洞，为什么从圆形改成了梯形？",
+    "why": "一个洞口的形状，牵扯到风工程、造价，还有一段两国之间的历史记忆。",
+    "background": [
+      {
+        "text": "原设计顶部是一个直径 46 米的圆洞，用来减小风压，也呼应「天圆」。包括时任市长在内的一些人认为它太像日本旭日旗；2005 年 KPF 提交了梯形方案，建筑师称梯形更便宜、更好施工。",
+        "evidence": [
+          "lj-swfc"
+        ]
+      }
+    ],
+    "tasks": [
+      "从不同方向看洞口，看看它是不是穿透的。",
+      "想一想：一个圆洞和一个梯形洞，哪个更难造？画一画它们和楼体的连接方式。"
+    ],
+    "lookFor": [
+      "洞口的梯形形状",
+      "洞口底部的结构"
+    ],
+    "areaId": "lujiazui",
+    "placeIds": [],
+    "scope": "上海环球金融中心外部，从世纪大道或陆家嘴环路观看",
+    "lat": 31.2345,
+    "lng": 121.5045,
+    "topics": [
+      "architecture/contemporary",
+      "economy/global",
+      "layers/war-memory"
+    ],
+    "eras": [
+      "pudong"
+    ],
+    "minutes": 20,
+    "setting": "outdoor",
+    "kid9": "找到楼顶的洞口，说说它像什么。",
+    "kid16": "一个设计变更背后，有工程、成本和历史记忆三种理由，可以拿来做辩论。",
+    "access": {
+      "transit": "陆家嘴中心区",
+      "stepFree": null
+    },
+    "evidence": [
+      "lj-swfc"
+    ]
+  },
+  {
+    "further": [
+      "风荷载减少 24% 意味着什么？省下的是什么材料？",
+      "阻尼器是怎么工作的？和荡秋千有什么关系？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "id": "lj-twist",
+    "question": "上海中心为什么要「拧」120 度？",
+    "why": "632 米高的楼最大的敌人是风。它的扭转不是为了好看，至少不只是为了好看。",
+    "background": [
+      {
+        "text": "上海中心塔身扭转 120 度，据 Gensler 称比同高的方形塔减少 24% 风荷载；顶部附近装有 1000 吨的调谐质量阻尼器来抵消晃动。内外两层幕墙之间有 21 个空中花园。",
+        "evidence": [
+          "lj-shanghai-tower"
+        ]
+      }
+    ],
+    "tasks": [
+      "绕着楼走半圈，在三个不同位置拍照，比较它的轮廓。",
+      "看看外立面上有没有一条跟着扭转一路盘上去的线。",
+      "如果去 52 层朵云书院，从窗边看外层幕墙和内层楼体之间的空间。"
+    ],
+    "lookFor": [
+      "跟着扭转盘上去的线",
+      "内外两层幕墙之间的空隙"
+    ],
+    "areaId": "lujiazui",
+    "placeIds": [
+      "duoyun-books-shanghai-tower"
+    ],
+    "lat": 31.2335,
+    "lng": 121.5055,
+    "topics": [
+      "architecture/contemporary",
+      "culture/science"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 40,
+    "setting": "mixed",
+    "kid9": "绕楼走半圈，看它是怎么「转身」的。",
+    "kid16": "风荷载、阻尼器和双层幕墙，是一堂现成的物理课。",
+    "access": {
+      "transit": "陆家嘴中心区；52 层书店可乘电梯（以现场为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "lj-shanghai-tower"
+    ]
+  },
+  {
+    "further": [
+      "为什么不让人在地面过马路？这对谁有利，对谁不利？",
+      "你所在的海外城市会怎么处理这样的路口？"
+    ],
+    "coordsApprox": true,
+    "daylight": false,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "id": "lj-skywalk",
+    "question": "陆家嘴环形天桥，一天要接住多少人？",
+    "why": "在一个为汽车设计的路口上方，城市补建了一条只给人走的环。站在上面数人，比看数据更直观。",
+    "background": [
+      {
+        "text": "陆家嘴环形人行天桥连接周边摩天楼和商场，平日日均人流超过 20 万人次，节假日可达 50 万；它被称为上海最长的人行天桥。全市共有 264 座人行天桥。",
+        "evidence": [
+          "lj-skywalk"
+        ]
+      }
+    ],
+    "tasks": [
+      "站在天桥一个出入口，数一分钟内走过的人。",
+      "乘以 60，再估算一下一天的人流，和 20 万对比。",
+      "看看天桥下面的路口：车道有几条？行人还能在地面过马路吗？"
+    ],
+    "lookFor": [
+      "天桥连接了哪些楼和商场",
+      "桥下路口的车道数",
+      "上下天桥的电梯和楼梯"
+    ],
+    "areaId": "lujiazui",
+    "placeIds": [],
+    "scope": "陆家嘴环形人行天桥",
+    "lat": 31.2385,
+    "lng": 121.5005,
+    "topics": [
+      "everyday/public-space",
+      "infrastructure/transit",
+      "society/planning"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "kid9": "当一分钟的人流计数员，看谁数得准。",
+    "kid16": "用抽样估算验证官方数据，再讨论「人车分流」的利弊。",
+    "access": {
+      "transit": "地铁 2 号线陆家嘴站附近",
+      "stepFree": null
+    },
+    "evidence": [
+      "lj-skywalk"
+    ]
+  },
+  {
+    "further": [
+      "这些人住在哪里？通勤要多久？",
+      "海外城市的 CBD 早高峰有什么不同？"
+    ],
+    "coordsApprox": true,
+    "daylight": false,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "id": "lj-commute",
+    "question": "早上 8 点半，陆家嘴的人都是从哪里来的？",
+    "why": "陆家嘴白天的人口和晚上完全不同。看一次早高峰，就能看到这座城市每天的潮汐。",
+    "background": [
+      {
+        "text": "地铁 2 号线沿世纪大道全线运行，陆家嘴站是其中一站。",
+        "evidence": [
+          "lj-century-avenue"
+        ]
+      },
+      {
+        "text": "环形天桥平日日均人流超过 20 万人次。",
+        "evidence": [
+          "lj-skywalk"
+        ]
+      }
+    ],
+    "tasks": [
+      "工作日早上 8:15–9:00 站在陆家嘴站出口附近，观察人流的方向。",
+      "记下你看到的交通方式：地铁、公交、轮渡、共享单车、步行。",
+      "同一天晚上 7 点再来一次，比较人流方向。"
+    ],
+    "lookFor": [
+      "早晚人流方向的变化",
+      "共享单车的堆积位置",
+      "手里拿着早餐的人"
+    ],
+    "areaId": "lujiazui",
+    "placeIds": [],
+    "scope": "地铁 2 号线陆家嘴站出口与环形天桥",
+    "lat": 31.238,
+    "lng": 121.5015,
+    "topics": [
+      "rhythm/commute",
+      "rhythm/morning",
+      "everyday/public-space"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "kid9": "数一数共享单车、背包和早餐，看哪样最多。",
+    "kid16": "观察通勤潮汐，再联系住房和就业的空间分布。",
+    "access": {
+      "transit": "地铁 2 号线陆家嘴站",
+      "stepFree": null
+    },
+    "evidence": [
+      "lj-century-avenue",
+      "lj-skywalk"
+    ]
+  },
+  {
+    "further": [
+      "一片地区从工厂变成金融区，原来的居民和工人去了哪里？",
+      "「开发」和「保留」之间，陆家嘴选择了什么？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "id": "lj-before-1990",
+    "question": "1990 年以前，陆家嘴是什么样子？",
+    "why": "三十多年前，这里还是仓库、工厂和低矮的住房。要在今天的 CBD 里找到旧时代的痕迹，需要一点侦探工作。",
+    "background": [
+      {
+        "text": "直到 1980 年代，陆家嘴大部分是低矮住房、仓库和工厂；19 世纪在烂泥渡一带出现了外资工厂和码头。1990 年宣布开发开放浦东；2005 年陆家嘴 31.78 平方公里被确认为全国唯一以「金融贸易」命名的国家级开发区。",
+        "evidence": [
+          "lj-before-1990"
+        ]
+      }
+    ],
+    "tasks": [
+      "在陆家嘴滨江找一找还保留着的工业建筑或码头构件。",
+      "去船厂 1862，看看老厂房里还留下了什么。",
+      "回家翻翻家里的老照片，或者问问长辈 1990 年前的浦东。"
+    ],
+    "lookFor": [
+      "滨江的系缆桩、吊车或厂房",
+      "老路名",
+      "与周边高楼尺度完全不同的建筑"
+    ],
+    "areaId": "lujiazui",
+    "placeIds": [
+      "shipyard-1862"
+    ],
+    "scope": "陆家嘴滨江，从东昌路渡口到船厂 1862",
+    "lat": 31.2405,
+    "lng": 121.4955,
+    "topics": [
+      "layers/palimpsest",
+      "economy/finance",
+      "society/planning"
+    ],
+    "eras": [
+      "treaty-port",
+      "early-prc",
+      "pudong"
+    ],
+    "minutes": 60,
+    "setting": "outdoor",
+    "kid9": "在高楼中间找「老东西」，找到一样算一分。",
+    "kid16": "浦东开发是理解当代中国的关键节点，可以和课本内容对照。",
+    "access": {
+      "transit": "陆家嘴滨江步道",
+      "stepFree": null
+    },
+    "evidence": [
+      "lj-before-1990"
+    ]
+  },
+  {
+    "further": [
+      "100 米宽的路，对行人是友好还是不友好？",
+      "香榭丽舍大道有多宽？查一查再比较。"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "id": "ca-century-avenue",
+    "question": "世纪大道为什么要修成 100 米宽？",
+    "why": "法国建筑师把它比作浦东的香榭丽舍。走一段，看看它到底是给车、给人，还是给城市形象的。",
+    "background": [
+      {
+        "text": "世纪大道 2000 年通车，西起东方明珠附近、东到世纪公园，地铁 2 号线沿全线运行。设计方法国夏邦杰建筑事务所称它宽 100 米，是浦东的「香榭丽舍」，沿线串起 11 个广场。",
+        "evidence": [
+          "lj-century-avenue"
+        ]
+      }
+    ],
+    "tasks": [
+      "选一段，从路的一侧走到另一侧，计时并数步数。",
+      "画一张横断面图：机动车道、非机动车道、人行道和绿化各占多少。",
+      "数一数这段路上有几个广场或雕塑。"
+    ],
+    "lookFor": [
+      "道路横断面的组成",
+      "沿线的广场",
+      "两侧人行道宽度是否一样"
+    ],
+    "areaId": "century-avenue",
+    "placeIds": [
+      "shanghai-library-east"
+    ],
+    "scope": "世纪大道，任选一段（如世纪大道站到上海科技馆站）",
+    "lat": 31.2275,
+    "lng": 121.53,
+    "topics": [
+      "society/planning",
+      "fabric/street",
+      "architecture/landscape"
+    ],
+    "eras": [
+      "pudong"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "kid9": "用步子量一量一条路有多宽，再算算要走多久。",
+    "kid16": "画道路横断面，讨论「为车设计」和「为人设计」。",
+    "access": {
+      "transit": "地铁 2 号线沿世纪大道全线",
+      "stepFree": null
+    },
+    "evidence": [
+      "lj-century-avenue"
+    ]
+  },
+  {
+    "further": [
+      "为什么这么大的装置要建在张江？",
+      "科学设施能不能、该不该向公众开放？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "id": "zj-ssrf",
+    "question": "张江那座蜗牛壳一样的大房子里，在干什么？",
+    "why": "上海光源是一台周长 432 米的「超级显微镜」，从外面就能看到它的形状。",
+    "background": [
+      {
+        "text": "上海光源位于张江高科技园区，储存环周长 432 米，设计能量 3.5 GeV，建筑屋顶呈蜗牛壳形；2009 年开始向研究者开放，2012 年实现满能量运行。",
+        "evidence": [
+          "zj-ssrf"
+        ]
+      }
+    ],
+    "tasks": [
+      "在园区外围的公共道路上找一个能看到屋顶的位置。",
+      "估一估：432 米的环，绕着走一圈要多久？",
+      "回家查一查「同步辐射」能看到什么东西。"
+    ],
+    "lookFor": [
+      "螺旋形的屋顶",
+      "建筑外围的长度",
+      "园区门口的介绍牌"
+    ],
+    "areaId": "zhangjiang",
+    "placeIds": [],
+    "scope": "上海光源园区外围的公共道路",
+    "lat": 31.1915,
+    "lng": 121.5885,
+    "topics": [
+      "culture/science",
+      "economy/tech",
+      "architecture/contemporary"
+    ],
+    "eras": [
+      "pudong",
+      "now"
+    ],
+    "minutes": 40,
+    "setting": "outdoor",
+    "kid9": "从外面看「蜗牛壳」，想象里面的电子在转圈跑。",
+    "kid16": "了解大科学装置是怎么为医药、材料研究服务的。",
+    "access": {
+      "transit": "张江科学城内；园区内部不一定开放，从外围公共道路观看",
+      "stepFree": null
+    },
+    "evidence": [
+      "zj-ssrf"
+    ]
+  },
+  {
+    "further": [
+      "为什么药企和芯片企业喜欢扎堆？",
+      "上海中医药博物馆也在张江，传统医药和现代药企放在一起说明什么？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "id": "zj-park",
+    "question": "一个 1992 年起步的园区，三十年里长出了哪些产业？",
+    "why": "张江是理解「中国制造」变成「中国研发」的地方。从地铁站出来走一圈，看招牌就能读出产业地图。",
+    "background": [
+      {
+        "text": "张江高科技园区聚焦生命科学、软件、半导体和信息技术，入驻企业包括罗氏、辉瑞、诺华等药企，中芯国际、华虹等芯片企业，以及 IBM、SAP 等软件企业。地铁 2 号线设张江高科、金科路、广兰路站。",
+        "evidence": [
+          "zj-park"
+        ]
+      }
+    ],
+    "tasks": [
+      "从张江高科站出来，步行 30 分钟，记下看到的公司招牌。",
+      "把它们分成三类：药、芯片、软件或其他。",
+      "工作日中午看一看：员工在哪里吃饭？"
+    ],
+    "lookFor": [
+      "不同行业的公司招牌",
+      "员工食堂或园区餐饮",
+      "园区里的研发楼和厂房"
+    ],
+    "areaId": "zhangjiang",
+    "placeIds": [
+      "shanghai-tcm-museum"
+    ],
+    "scope": "地铁张江高科站周边园区道路",
+    "lat": 31.2025,
+    "lng": 121.5875,
+    "topics": [
+      "economy/tech",
+      "economy/global",
+      "economy/manufacturing"
+    ],
+    "eras": [
+      "pudong",
+      "now"
+    ],
+    "minutes": 60,
+    "setting": "outdoor",
+    "kid9": "玩「招牌宾果」：找到药厂、芯片厂、软件公司各一个。",
+    "kid16": "把一个园区的企业分类，就是一份简易的产业分析报告。",
+    "access": {
+      "transit": "地铁 2 号线张江高科站",
+      "stepFree": null
+    },
+    "evidence": [
+      "zj-park"
+    ]
+  },
+  {
+    "further": [
+      "没有汽车的年代，河道对一座市镇意味着什么？",
+      "上海市区还有哪些地方是从河边的市镇长起来的？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-cross-rivers",
+    "question": "嘉定城为什么偏偏长在两条河的十字路口？",
+    "why": "嘉定是上海少数还能看清「水网造城」格局的老县城。站在州桥上，就站在了八百年前的那个十字路口。",
+    "background": [
+      {
+        "text": "嘉定立县前叫练祁市，是练祁塘与横沥河十字交汇口的一处普通市镇，1218 年立县。州桥始建于 1245 年。",
+        "evidence": [
+          "jd-city-origin"
+        ]
+      }
+    ],
+    "tasks": [
+      "站在州桥上，分辨哪条是练祁塘、哪条是横沥河。",
+      "沿河走一段，找一找河边以前的码头台阶或系船石。",
+      "在地图上把四条大街和两条河画出来，看它们是什么关系。"
+    ],
+    "lookFor": [
+      "河道的十字交叉",
+      "沿河的石阶或驳岸",
+      "街道和河道是否平行"
+    ],
+    "placeIds": [
+      "jiading-old-town"
+    ],
+    "scope": "州桥一带，练祁塘与横沥河交汇处",
+    "lat": 31.383,
+    "lng": 121.25,
+    "topics": [
+      "countryside/county-town",
+      "ecology/rivers",
+      "fabric/street"
+    ],
+    "eras": [
+      "jiangnan"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "kid9": "站在桥上指出「十字」的四个方向。",
+    "kid16": "从水网读城市格局，可以和地理课的聚落区位联系起来。",
+    "access": {
+      "transit": "嘉定老城州桥老街",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-city-origin"
+    ]
+  },
+  {
+    "further": [
+      "今天新盖的楼会不会挡住塔？城市怎么管「视线」？",
+      "你住过的城市里，有没有类似的地标？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-fahua",
+    "question": "为什么在嘉定老城的任何角落，都能看到法华塔？",
+    "why": "没有手机地图的年代，一座塔就是全城的指北针。试试只靠它在老城里认路。",
+    "background": [
+      {
+        "text": "法华塔始建于南宋开禧年间，立在练祁塘南岸，据记载城内任何角落都能看到它。",
+        "evidence": [
+          "jd-city-origin"
+        ]
+      }
+    ],
+    "tasks": [
+      "从州桥出发，往四个方向各走五分钟，每次回头找塔。",
+      "记下哪些地方看不到塔，是什么挡住了它。",
+      "不看手机，只靠塔走回州桥。"
+    ],
+    "lookFor": [
+      "塔在不同方向的样子",
+      "挡住视线的新建筑",
+      "塔身的层数"
+    ],
+    "placeIds": [
+      "jiading-old-town"
+    ],
+    "scope": "嘉定老城，以州桥和法华塔为中心",
+    "lat": 31.3835,
+    "lng": 121.2505,
+    "topics": [
+      "countryside/county-town",
+      "society/conservation",
+      "layers/palimpsest"
+    ],
+    "eras": [
+      "jiangnan"
+    ],
+    "minutes": 40,
+    "setting": "outdoor",
+    "kid9": "玩「找塔」：走到哪里都回头看看塔还在不在。",
+    "kid16": "理解城市里的视线控制和高度管理。",
+    "access": {
+      "transit": "嘉定老城州桥老街",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-city-origin"
+    ]
+  },
+  {
+    "further": [
+      "城墙拆了，护城河为什么留下来了？",
+      "内城河填掉以后变成了什么？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-moat",
+    "question": "护城河还在，城墙都去哪了？",
+    "why": "嘉定的外城河至今完整，城墙却只剩几段。找到它们，就能在脑子里把整座古城「画」回来。",
+    "background": [
+      {
+        "text": "首任知县高衍孙一到任就修筑城墙；如今西门、南门等处仍有部分城墙，外城河保存完整、仍是航道，内城河多已消失。",
+        "evidence": [
+          "jd-city-origin"
+        ]
+      }
+    ],
+    "tasks": [
+      "到西门或南门一带，找到留下来的城墙段。",
+      "沿外城河走一段，看看河上有没有船。",
+      "在地图上沿外城河画一圈，估算古城有多大。"
+    ],
+    "lookFor": [
+      "残存的城墙",
+      "外城河上的船只",
+      "内城河消失后留下的路名或绿带"
+    ],
+    "placeIds": [
+      "jiading-old-town"
+    ],
+    "scope": "嘉定外城河，西门、南门一带",
+    "lat": 31.38,
+    "lng": 121.245,
+    "topics": [
+      "fabric/boundary",
+      "layers/palimpsest",
+      "infrastructure/transit"
+    ],
+    "eras": [
+      "jiangnan",
+      "early-prc"
+    ],
+    "minutes": 60,
+    "setting": "outdoor",
+    "kid9": "找到真正的老城墙，摸一摸城墙砖。",
+    "kid16": "从残存的城墙和河道复原一座古城的范围。",
+    "access": {
+      "transit": "嘉定老城西门、南门一带",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-city-origin"
+    ]
+  },
+  {
+    "further": [
+      "科举和今天的高考，有哪些相同、哪些不同？",
+      "为什么一个县能出这么多进士？"
+    ],
+    "coordsApprox": true,
+    "daylight": false,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-exam",
+    "question": "一个县城出了 192 名进士，古代的科举是怎么考的？",
+    "why": "一个快要高考的 16 岁孩子，站在科举博物馆里，会有特别的感受。",
+    "background": [
+      {
+        "text": "嘉定孔庙 1219 年始建，是上海现存规模最大的古建筑群，庙内设有上海中国科举博物馆；嘉定历史上出过 192 名进士，其中 3 名状元。",
+        "evidence": [
+          "jd-confucius"
+        ]
+      }
+    ],
+    "tasks": [
+      "在博物馆里找出科举考试分几级。",
+      "找一找展品里的考卷或考场模型，看看考生在多大的地方考试。",
+      "在孔庙里找一找刻着名字的石碑或名录。"
+    ],
+    "lookFor": [
+      "科举的分级",
+      "考场的大小",
+      "进士名录"
+    ],
+    "placeIds": [
+      "jiading-old-town"
+    ],
+    "scope": "嘉定孔庙与上海中国科举博物馆",
+    "lat": 31.3815,
+    "lng": 121.2515,
+    "topics": [
+      "layers/archives",
+      "society/governance",
+      "culture/literature"
+    ],
+    "eras": [
+      "jiangnan"
+    ],
+    "minutes": 75,
+    "setting": "mixed",
+    "kid9": "看看展览里古代考生在多大的地方考试，和自己的课桌比一比。",
+    "kid16": "把科举和高考做一次对比，是一篇现成的作文。",
+    "access": {
+      "transit": "嘉定老城（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-confucius"
+    ]
+  },
+  {
+    "further": [
+      "古人为什么在意这种对位？",
+      "这和今天的城市设计有没有相通的地方？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-huilongtan",
+    "question": "五条河汇进一个池塘，是巧合还是设计？",
+    "why": "汇龙潭和旁边的孔庙是一起「设计」出来的，看懂它就看懂了古人怎样用水和山来布置一座城。",
+    "background": [
+      {
+        "text": "汇龙潭在 1588 年疏浚，五条河汇入潭中，因此得名「汇龙」；潭中小山上的楼阁与孔庙明伦堂前的牌坊相对。",
+        "evidence": [
+          "jd-huilongtan"
+        ]
+      }
+    ],
+    "tasks": [
+      "绕潭走一圈，数一数有几条河汇进来。",
+      "登上潭中小山，看看它正对着孔庙的什么位置。",
+      "找一找「五龙抢珠」的「珠」指的是什么。"
+    ],
+    "lookFor": [
+      "汇入的河道",
+      "小山和孔庙的对位关系",
+      "潭边的桥"
+    ],
+    "placeIds": [
+      "jiading-old-town"
+    ],
+    "scope": "汇龙潭公园（孔庙旁）",
+    "lat": 31.3808,
+    "lng": 121.2525,
+    "topics": [
+      "architecture/landscape",
+      "ecology/rivers",
+      "countryside/county-town"
+    ],
+    "eras": [
+      "jiangnan"
+    ],
+    "minutes": 40,
+    "setting": "outdoor",
+    "kid9": "数一数五条「龙」都从哪里来。",
+    "kid16": "看懂风水与城市设计中的轴线和对景。",
+    "access": {
+      "transit": "嘉定孔庙旁",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-huilongtan"
+    ]
+  },
+  {
+    "further": [
+      "为什么小园子要故意让路弯弯曲曲？",
+      "古典园林和现代公园，设计目的有什么不同？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-qiuxia",
+    "question": "一座五百年前的小园子，是怎么装下「山水」的？",
+    "why": "秋霞圃不大，却是上海最古老的园林之一。在这里能练习江南园林的「看法」：借景、框景、曲折。",
+    "background": [
+      {
+        "text": "秋霞圃原是明代工部尚书龚弘的私家园林，被称为上海五大古典园林中最古老、保存最好的一座。",
+        "evidence": [
+          "jd-qiuxia"
+        ]
+      }
+    ],
+    "tasks": [
+      "找三扇形状不同的窗或门洞，从里面拍一张「框出来」的景。",
+      "找一处能看到园外景物的地方，判断是不是「借景」。",
+      "估一估：园子的实际面积和你感觉到的大小差多少？"
+    ],
+    "lookFor": [
+      "各种形状的门窗洞",
+      "假山和水面的关系",
+      "园外被「借」进来的景物"
+    ],
+    "placeIds": [
+      "jiading-old-town"
+    ],
+    "scope": "秋霞圃",
+    "lat": 31.3842,
+    "lng": 121.2525,
+    "topics": [
+      "architecture/landscape",
+      "countryside/county-town"
+    ],
+    "eras": [
+      "jiangnan"
+    ],
+    "minutes": 50,
+    "setting": "outdoor",
+    "kid9": "用手机当画框，找最好看的一扇「窗」。",
+    "kid16": "学会借景、框景这几个术语，以后看园林就有方法了。",
+    "access": {
+      "transit": "嘉定老城（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-qiuxia"
+    ]
+  },
+  {
+    "further": [
+      "花园从私人变公共，谁受益，谁失去了什么？",
+      "今天的公园周边为什么总有小吃店？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-guyi-public",
+    "question": "一座私家花园，是怎么变成大家的花园的？",
+    "why": "古猗园 1789 年起成了公产，园边开起店铺和饭馆。今天南翔小笼的热闹，可以从这段历史读起。",
+    "background": [
+      {
+        "text": "古猗园明代始建；1789 年当地士绅集资买下，作为城隍庙的附属，从此成为公产，西边陆续开了店铺、酒肆和饭馆。它约 10 公顷，是上海五大古典园林中最大的一座。",
+        "evidence": [
+          "jd-guyi"
+        ]
+      }
+    ],
+    "tasks": [
+      "在园子西侧找一找，现在还有没有饭馆和店铺。",
+      "比较园子里和园子外：哪边人多？人们在做什么？",
+      "在南翔吃一笼小笼，看看店开在哪里。"
+    ],
+    "lookFor": [
+      "园子边上的店铺",
+      "园中竹子",
+      "游人的活动"
+    ],
+    "placeIds": [],
+    "scope": "南翔古猗园及周边老街",
+    "lat": 31.296,
+    "lng": 121.315,
+    "topics": [
+      "everyday/public-space",
+      "food/local-cuisine",
+      "architecture/landscape"
+    ],
+    "eras": [
+      "jiangnan",
+      "now"
+    ],
+    "minutes": 75,
+    "setting": "outdoor",
+    "kid9": "逛园子、吃小笼，数一数园里有多少种竹子。",
+    "kid16": "从一座园子看公共空间的历史：谁有权享用美景。",
+    "access": {
+      "transit": "南翔镇（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-guyi"
+    ]
+  },
+  {
+    "further": [
+      "用建筑来纪念一件事，和用纪念碑有什么不同？",
+      "你还见过哪些「故意不完整」的设计？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-quejiao",
+    "question": "南翔这座亭子，为什么少了一个角？",
+    "why": "一座故意不完整的亭子，把一段国难记在了园林里。它是给孩子讲 1930 年代历史的好起点。",
+    "background": [
+      {
+        "text": "古猗园里的缺角亭东北角缺了一角，指东北沦陷；拳头形的檐角表示收复失地的决心。",
+        "evidence": [
+          "jd-nanxiang"
+        ]
+      }
+    ],
+    "tasks": [
+      "找到缺角亭，先不看说明牌，猜一猜为什么少一个角。",
+      "用指南针确认缺的是哪个方向。",
+      "看看其他三个檐角是什么形状。"
+    ],
+    "lookFor": [
+      "缺失的东北角",
+      "拳头形的檐角",
+      "亭边的说明牌"
+    ],
+    "placeIds": [],
+    "scope": "南翔古猗园内的缺角亭",
+    "lat": 31.2965,
+    "lng": 121.3155,
+    "topics": [
+      "layers/war-memory",
+      "architecture/landscape"
+    ],
+    "eras": [
+      "republic"
+    ],
+    "minutes": 20,
+    "setting": "outdoor",
+    "kid9": "用指南针找出缺掉的是哪个角。",
+    "kid16": "把一座亭子放进东北沦陷的历史背景里理解。",
+    "access": {
+      "transit": "南翔古猗园内",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-nanxiang"
+    ]
+  },
+  {
+    "further": [
+      "手艺怎么一代代传下去？今天还有年轻人学吗？",
+      "为什么文人喜欢用竹子做文房用具？"
+    ],
+    "coordsApprox": true,
+    "daylight": false,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-bamboo",
+    "question": "一截竹子，能刻出多少层？",
+    "why": "嘉定竹刻是国家级非遗。凑近看一件深浮雕，就能理解「手艺」二字的分量。",
+    "background": [
+      {
+        "text": "嘉定竹刻有约 400 年历史，朱鹤是最早的开创者，和儿子、孙子一起形成了嘉定风格，以深浮雕和透雕见长；2006 年列入第一批国家级非遗。",
+        "evidence": [
+          "jd-bamboo"
+        ]
+      }
+    ],
+    "tasks": [
+      "在竹刻博物馆里，找一件深浮雕和一件透雕，比较它们的区别。",
+      "数一数一件作品里刻出了几层前后关系。",
+      "看看笔筒、臂搁这些作品，原来是做什么用的。"
+    ],
+    "lookFor": [
+      "深浮雕和透雕的区别",
+      "作品上的落款",
+      "竹子本身的纹理"
+    ],
+    "placeIds": [
+      "jiading-old-town"
+    ],
+    "scope": "嘉定竹刻博物馆",
+    "lat": 31.3825,
+    "lng": 121.2505,
+    "topics": [
+      "countryside/crafts",
+      "culture/visual-art"
+    ],
+    "eras": [
+      "jiangnan"
+    ],
+    "minutes": 45,
+    "setting": "indoor",
+    "kid9": "找一件刻得最「透」的作品，看能不能从缝里看到后面。",
+    "kid16": "了解非遗保护的意义和困难。",
+    "access": {
+      "transit": "嘉定老城（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-bamboo"
+    ]
+  },
+  {
+    "further": [
+      "方盒子和圆洞，各自代表什么？",
+      "剧院为什么要把公共空间开放给不买票的人？"
+    ],
+    "coordsApprox": false,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-poly",
+    "question": "安藤忠雄为什么要在一个方盒子里挖五个洞？",
+    "why": "保利大剧院就算不看演出也可以去走一走：洞里的公共空间对市民开放，是看清水混凝土和光影的好地方。",
+    "background": [
+      {
+        "text": "上海保利大剧院由安藤忠雄设计，主体是一个约 100 × 100 × 34 米的钢筋混凝土方盒子，五个圆柱形空洞从各个方向贯穿，外面包一层双层玻璃幕墙；空洞里的公共空间对市民开放。2014 年 8 月竣工。",
+        "evidence": [
+          "jd-poly"
+        ]
+      }
+    ],
+    "tasks": [
+      "从湖对岸看整栋楼，找出能看到几个「洞」。",
+      "走进一个空洞，看光是从哪里进来的。",
+      "摸一摸混凝土墙，看看表面留下了什么施工痕迹。"
+    ],
+    "lookFor": [
+      "贯穿的圆柱空洞",
+      "玻璃幕墙后面的混凝土体",
+      "水面上的倒影"
+    ],
+    "placeIds": [
+      "poly-grand-theatre-jiading"
+    ],
+    "lat": 31.336,
+    "lng": 121.244,
+    "topics": [
+      "architecture/contemporary",
+      "culture/stage",
+      "everyday/public-space"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 45,
+    "setting": "mixed",
+    "kid9": "在洞里找光，看影子怎么动。",
+    "kid16": "认识一位普利兹克奖建筑师的设计语言。",
+    "access": {
+      "transit": "嘉定新城远香湖旁",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-poly"
+    ]
+  },
+  {
+    "further": [
+      "「国产化率」是什么意思？为什么它那么重要？",
+      "合资办厂对中国汽车工业意味着什么？"
+    ],
+    "coordsApprox": true,
+    "daylight": false,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "jiading",
+    "id": "jd-anting",
+    "question": "嘉定为什么被叫作「中国第一汽车城」？",
+    "why": "桑塔纳是很多上海人记忆里的第一辆车，它从安亭开出来。这里能看到改革开放怎样落在一个郊区小镇上。",
+    "background": [
+      {
+        "text": "上海大众 1985 年 3 月在安亭成立，是中国第一家中外合资轿车企业，头两年卖出 1 万辆桑塔纳；国产化率 1990 年超过 60%，1993 年超过 80%。",
+        "evidence": [
+          "jd-vw"
+        ]
+      }
+    ],
+    "tasks": [
+      "去上海汽车博物馆，找一辆桑塔纳，看看它和今天的车有什么不同。",
+      "在安亭街上数一数和汽车有关的招牌：4S 店、零部件、驾校。",
+      "问问家里的长辈：他们第一次坐的轿车是什么？"
+    ],
+    "lookFor": [
+      "老桑塔纳",
+      "汽车相关的店铺和工厂",
+      "安亭镇上新旧建筑的对比"
+    ],
+    "placeIds": [
+      "shanghai-auto-museum"
+    ],
+    "scope": "安亭：上海汽车博物馆及周边",
+    "lat": 31.289,
+    "lng": 121.168,
+    "topics": [
+      "economy/manufacturing",
+      "economy/global",
+      "layers/palimpsest"
+    ],
+    "eras": [
+      "reform",
+      "now"
+    ],
+    "minutes": 90,
+    "setting": "mixed",
+    "kid9": "在博物馆里找到最老的车和最新的车。",
+    "kid16": "从一家合资企业看改革开放和产业升级。",
+    "access": {
+      "transit": "安亭（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "jd-vw"
+    ]
+  },
+  {
+    "further": [
+      "拆城墙在当时是进步还是破坏？今天你会怎么选？",
+      "世界上还有哪些城市把城墙变成了环路？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-ring-road",
+    "question": "人民路和中华路，为什么正好围成一个圈？",
+    "why": "这两条路就是拆掉的上海城墙。连起来读，路名里还藏着一个国号。",
+    "background": [
+      {
+        "text": "上海城墙周长约 5 公里，外有护城河。1912 年城墙拆除，土石填平护城河筑成环路：北半圈原名法华民国路，1950 年改名人民路；南半圈叫中华路，两个路名合起来就是「中华民国」。",
+        "evidence": [
+          "oc-wall"
+        ]
+      }
+    ],
+    "tasks": [
+      "在地图上描出人民路和中华路，看看它们是不是首尾相接。",
+      "沿人民路走一段，注意路面是不是比两边略宽、略直。",
+      "找一找路边以「门」结尾的地名或车站名。"
+    ],
+    "lookFor": [
+      "环路首尾相接的地方",
+      "路名里的「门」",
+      "路两侧建筑年代的差别"
+    ],
+    "scope": "人民路、中华路环线，任选一段",
+    "lat": 31.222,
+    "lng": 121.488,
+    "topics": [
+      "fabric/boundary",
+      "layers/place-names",
+      "fabric/street"
+    ],
+    "eras": [
+      "jiangnan",
+      "republic"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "kid9": "在地图上用手指描一圈，找到「城墙」变成的路。",
+    "kid16": "把「中华」和「民国」两个路名连起来，读懂一段辛亥革命的城市史。",
+    "access": {
+      "transit": "人民路、中华路沿线",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-wall"
+    ]
+  },
+  {
+    "further": [
+      "一座城市的遗迹，有多少是「意外」留下来的？",
+      "如果今天要复建城墙，你赞成吗？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-dajing",
+    "question": "整整一圈城墙，为什么只剩下大境阁这一小段？",
+    "why": "一段城墙能留下来，往往不是因为有人想保护它。大境阁就是一个「意外幸存」的例子。",
+    "background": [
+      {
+        "text": "上海城墙唯一留存的一段在大境关帝庙里，城墙上曾设管理城濠的机构；它留下来更多是机构上的巧合，而不是有意保护。",
+        "evidence": [
+          "oc-dajing"
+        ]
+      },
+      {
+        "text": "城墙建于明代，用来防御倭寇。",
+        "evidence": [
+          "oc-wall"
+        ]
+      }
+    ],
+    "tasks": [
+      "在大境阁外找到残存的城墙，量一量你能看到的长度。",
+      "看看城墙砖上有没有字或记号。",
+      "站在城墙上（如果开放）往外看，想象当年墙外是护城河。"
+    ],
+    "lookFor": [
+      "残存城墙的长度",
+      "城墙砖上的痕迹",
+      "城墙和庙的关系"
+    ],
+    "scope": "大境阁及残存城墙（大境路一带）",
+    "lat": 31.2295,
+    "lng": 121.4835,
+    "topics": [
+      "layers/palimpsest",
+      "society/conservation",
+      "fabric/boundary"
+    ],
+    "eras": [
+      "jiangnan",
+      "republic"
+    ],
+    "minutes": 40,
+    "setting": "mixed",
+    "kid9": "摸一摸真正的明代城墙。",
+    "kid16": "思考「保护」和「偶然幸存」的区别。",
+    "access": {
+      "transit": "人民路北侧大境路一带（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-dajing",
+      "oc-wall"
+    ]
+  },
+  {
+    "further": [
+      "为什么地名比建筑活得久？",
+      "你所在的海外城市有没有类似的「消失了的门」？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-gates",
+    "question": "城门都没了，「老西门」「小南门」这些名字为什么还在？",
+    "why": "城门早就拆了，但城门的名字可能还留在车站、路牌和店招上。跟着地名走，可以把消失的城门一个个找回来。",
+    "background": [
+      {
+        "text": "上海城墙最初有六座城门，1860 年和 1909 年又陆续加开，城墙 1912 年拆除。",
+        "evidence": [
+          "oc-wall"
+        ]
+      }
+    ],
+    "tasks": [
+      "列出你在路牌、车站、店名里看到的城门名。",
+      "在地图上标出它们，看看能不能连成一个圈。",
+      "问问长辈：他们小时候说「去老西门」是去哪里？"
+    ],
+    "lookFor": [
+      "带「门」字的车站和路牌",
+      "店招上的老地名"
+    ],
+    "scope": "老城厢环路沿线：老西门、小南门、老北门一带",
+    "lat": 31.2195,
+    "lng": 121.4785,
+    "topics": [
+      "layers/place-names",
+      "fabric/boundary",
+      "everyday/neighbourhood"
+    ],
+    "eras": [
+      "jiangnan",
+      "now"
+    ],
+    "minutes": 60,
+    "setting": "outdoor",
+    "kid9": "当一回「城门猎人」，收集所有带「门」的名字。",
+    "kid16": "用地名复原一座消失的城，是一种城市考古方法。",
+    "access": {
+      "transit": "老城厢环路沿线（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-wall"
+    ]
+  },
+  {
+    "further": [
+      "老城厢的救火组织和租界的有什么不同？查一查再比较。",
+      "大钟去哪了？你能找到线索吗？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-bell",
+    "question": "1909 年，老城厢是怎么发现火灾的？",
+    "why": "小南门警钟楼比苏州河边的宜昌路消防站还早二十多年。两座塔放在一起看，就是一部城市消防史。",
+    "background": [
+      {
+        "text": "小南门警钟楼建于 1909 年，钢筋混凝土结构，高 35.2 米，位于原上海救火联合会旧址，用来瞭望火情、敲钟报警；顶上的大钟已不知去向。",
+        "evidence": [
+          "oc-bell"
+        ]
+      },
+      {
+        "text": "苏州河边的宜昌路消防站建于 1932 年，塔高 42 米。",
+        "evidence": [
+          "sz-fire-station"
+        ]
+      }
+    ],
+    "tasks": [
+      "在中华路边找到警钟楼，看看它比周围的房子高多少。",
+      "找一找楼顶原来挂钟的位置。",
+      "如果你也做过苏州河的「宜昌路消防站」任务，比较两座塔的高度和样式。"
+    ],
+    "lookFor": [
+      "塔顶挂钟的位置",
+      "钢筋混凝土的外观",
+      "周边建筑的高度"
+    ],
+    "scope": "小南门警钟楼（中华路 581 号）",
+    "lat": 31.2165,
+    "lng": 121.494,
+    "topics": [
+      "society/municipal",
+      "architecture/period-styles",
+      "layers/palimpsest"
+    ],
+    "eras": [
+      "treaty-port"
+    ],
+    "minutes": 25,
+    "setting": "outdoor",
+    "kid9": "找到塔顶以前挂钟的地方，想象钟声能传多远。",
+    "kid16": "1909 年的钢筋混凝土塔，在当时意味着什么技术水平？",
+    "access": {
+      "transit": "中华路，小南门一带",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-bell",
+      "sz-fire-station"
+    ]
+  },
+  {
+    "further": [
+      "旧书市集停了，读书人去哪了？",
+      "如果你也去了嘉定孔庙，两座孔庙的规模和气氛有什么不同？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-wenmiao",
+    "question": "市中心唯一的孔庙，和嘉定孔庙有什么不同？",
+    "why": "上海文庙曾经是全城读书人的周日去处。修缮之后，它想变成什么样的地方？",
+    "background": [
+      {
+        "text": "上海文庙 1294 年始建，现存建筑建于 1855 年，是市区唯一的孔庙。大成殿广场每周日有旧书集市，高峰时每周日接近 1 万人，2020 年为修缮停办；计划修缮后 2025 年重新开放。",
+        "evidence": [
+          "oc-wenmiao"
+        ]
+      }
+    ],
+    "tasks": [
+      "先在高德确认是否开放。进去后，找到大成殿和殿前广场。",
+      "看看修缮后新加了哪些建筑，哪些是老的。",
+      "找一找周边还有没有卖旧书或文具的小店。"
+    ],
+    "lookFor": [
+      "大成殿前的广场",
+      "新旧建筑的区别",
+      "周边的旧书店"
+    ],
+    "scope": "上海文庙（文庙路 215 号）及周边",
+    "lat": 31.2175,
+    "lng": 121.4825,
+    "topics": [
+      "culture/publishing",
+      "layers/archives",
+      "society/conservation"
+    ],
+    "eras": [
+      "jiangnan",
+      "now"
+    ],
+    "minutes": 50,
+    "setting": "mixed",
+    "kid9": "在大成殿前的广场想象一下，一万人挤着淘书是什么样子。",
+    "kid16": "比较城市孔庙和县城孔庙，理解儒学教育在城市里的位置。",
+    "access": {
+      "transit": "老城厢南部，文庙路（开放情况以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-wenmiao"
+    ]
+  },
+  {
+    "further": [
+      "名人故居应该变成博物馆，还是继续让人住？",
+      "徐光启和徐家汇有什么关系？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-jiujianlou",
+    "question": "徐光启住过的房子，为什么现在住着别人？",
+    "why": "九间楼是老城厢唯一留下的明代宅第，主人是明代数学家、学者徐光启。它没有变成博物馆，而是一直有人住。",
+    "background": [
+      {
+        "text": "乔家路 234 号是徐光启（1562–1633）故居「九间楼」，是老城厢唯一留存的明代宅第，现在每层只剩七间，归居民所有。",
+        "evidence": [
+          "oc-qiaojia"
+        ]
+      }
+    ],
+    "tasks": [
+      "只在街上从外面看，不进私人住宅。",
+      "数一数现在一层有几间。",
+      "看看门口有没有文物保护标牌，上面写了什么。"
+    ],
+    "lookFor": [
+      "文物保护标牌",
+      "九间变七间的痕迹",
+      "居民生活的痕迹：晾衣、自行车、花盆"
+    ],
+    "scope": "乔家路 234 号外（只看外观）",
+    "lat": 31.2185,
+    "lng": 121.4955,
+    "topics": [
+      "society/housing",
+      "layers/palimpsest",
+      "culture/science"
+    ],
+    "eras": [
+      "jiangnan",
+      "now"
+    ],
+    "minutes": 20,
+    "setting": "outdoor",
+    "kid9": "数一数房子现在有几间，再想想另外两间去哪了。",
+    "kid16": "从一座住满人的明代宅子，讨论文物保护和居住权。",
+    "access": {
+      "transit": "乔家路（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-qiaojia"
+    ]
+  },
+  {
+    "further": [
+      "一栋老房子修好以后，应该做什么用？",
+      "王一亭除了商人，还有什么身份？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-einstein",
+    "question": "1922 年爱因斯坦来上海，在老城厢见了谁？",
+    "why": "很少有人知道，爱因斯坦来过南市的一条小路。这条线索能把老城厢和世界连起来。",
+    "background": [
+      {
+        "text": "乔家路 113 号梓园曾是上海总商会会长王一亭的住宅，1922 年他在这里接待了爱因斯坦夫妇。有人担心修缮后它会变成咖啡馆或旅馆。",
+        "evidence": [
+          "oc-qiaojia"
+        ]
+      }
+    ],
+    "tasks": [
+      "在乔家路上找到梓园，看看它现在是什么状态。",
+      "观察它和周边房子的风格有什么不同。",
+      "回家查一查：爱因斯坦 1922 年为什么会经过上海？"
+    ],
+    "lookFor": [
+      "梓园的外观和门牌",
+      "周边建筑的差别",
+      "修缮或使用的现状"
+    ],
+    "scope": "乔家路 113 号梓园外",
+    "lat": 31.219,
+    "lng": 121.497,
+    "topics": [
+      "culture/exchange",
+      "economy/global",
+      "society/conservation"
+    ],
+    "eras": [
+      "republic"
+    ],
+    "minutes": 20,
+    "setting": "outdoor",
+    "kid9": "站在爱因斯坦走过的门口拍张照。",
+    "kid16": "把一次访问放进 1920 年代上海的国际网络里理解。",
+    "access": {
+      "transit": "乔家路（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-qiaojia"
+    ]
+  },
+  {
+    "further": [
+      "保护「房子」和保护「生活」，是一回事吗？",
+      "住在老房子里的人想要什么？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 3,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-renewal",
+    "question": "老城厢的老房子，是留、改，还是拆？",
+    "why": "老城厢一边被列为风貌保护区，一边经历着大规模旧改。这里是观察「城市更新」最直接的现场。",
+    "background": [
+      {
+        "text": "2006 年整个老城厢被列为历史文化风貌区，34 条街巷被列为保护街巷；但从 2002 年起，西北角露香园一带几乎全部拆除重建，因毁掉一段城墙遗存和数座历史建筑而有争议。",
+        "evidence": [
+          "oc-area"
+        ]
+      },
+      {
+        "text": "乔家路一带集中了十几处老建筑，其中书隐楼是全市唯一保存下来的大型清代住宅群，现为私宅、不开放。",
+        "evidence": [
+          "oc-qiaojia"
+        ]
+      }
+    ],
+    "tasks": [
+      "在老城厢里找三种状态的房子：还有人住的、空着等改造的、已经改造好的。",
+      "每种拍一张照片，记下你看到的特征。",
+      "不进私人住宅，只在街巷里观察。"
+    ],
+    "lookFor": [
+      "门窗上的封条或告示",
+      "新旧建筑的交界",
+      "仍在生活的街坊"
+    ],
+    "scope": "老城厢南部街巷：乔家路、梦花街一带",
+    "lat": 31.2185,
+    "lng": 121.4905,
+    "topics": [
+      "society/conservation",
+      "society/housing",
+      "fabric/renewal"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 60,
+    "setting": "outdoor",
+    "kid9": "找出三种房子：住着人的、空着的、新修好的。",
+    "kid16": "城市更新里的「留改拆」，是一道真实的社会议题。",
+    "access": {
+      "transit": "老城厢南部（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-area",
+      "oc-qiaojia"
+    ]
+  },
+  {
+    "further": [
+      "为什么 19 世纪的教堂要建在码头边？",
+      "一座宗教建筑在金融区里，会变成什么样的地方？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-dongjiadu",
+    "question": "一座巴洛克教堂，为什么叫「董家渡」？",
+    "why": "上海最早的大教堂之一，名字却来自一个码头。它身边的金融区工地，又是另一个时代的故事。",
+    "background": [
+      {
+        "text": "董家渡天主堂 1849 年动工、1853 年落成，新巴洛克风格，仿罗马圣依纳爵堂；因建在董家码头（董家渡）的地上而得名。1966 年关闭改作仓库，1982 年起部分恢复弥撒，2017 年起随董家渡金融区项目闭堂修缮。",
+        "evidence": [
+          "oc-dongjiadu"
+        ]
+      }
+    ],
+    "tasks": [
+      "在董家渡路上找到教堂，看看立面上有哪些巴洛克的特征。",
+      "站在教堂前往黄浦江方向看，估一估离江边多远。",
+      "看看教堂周围现在是老房子还是新楼。"
+    ],
+    "lookFor": [
+      "巴洛克立面的曲线和装饰",
+      "通往江边的路",
+      "周边的新建筑"
+    ],
+    "scope": "董家渡天主堂外（董家渡路），开放情况以现场为准",
+    "lat": 31.2155,
+    "lng": 121.5005,
+    "topics": [
+      "culture/exchange",
+      "layers/place-names",
+      "infrastructure/port"
+    ],
+    "eras": [
+      "treaty-port",
+      "now"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "kid9": "找一找教堂立面上的曲线和雕饰。",
+    "kid16": "一座建筑串起码头、传教、关闭和金融开发，四个时代的上海。",
+    "access": {
+      "transit": "董家渡路，南外滩一带",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-dongjiadu"
+    ]
+  },
+  {
+    "further": [
+      "为什么早点摊越来越少？",
+      "你在海外怎么吃早饭？和这里有什么不同？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "old-city",
+    "placeIds": [],
+    "id": "oc-breakfast",
+    "question": "上海早饭的「四大金刚」，你家吃过几样？",
+    "why": "大饼、油条、粢饭团、豆浆，是上海街头一百多年的早晨。到老城厢的街巷里吃一顿，比任何博物馆都直接。",
+    "background": [
+      {
+        "text": "大饼、油条、粢饭团、豆浆合称上海早饭的「四大金刚」。上海已知最早的大饼油条店 1912 年开张；到 1930 年代，早点生意已经很兴旺，是围着街边摊和弄堂小店长起来的。",
+        "evidence": [
+          "oc-breakfast"
+        ]
+      }
+    ],
+    "tasks": [
+      "早上 8 点前到老城厢的街巷，找一家早点摊。",
+      "看看摊主怎么分工：谁做饼、谁炸油条、谁收钱。",
+      "四样各买一份，全家投票选出最喜欢的。"
+    ],
+    "lookFor": [
+      "做大饼的炉子",
+      "排队的人是谁：上班族、老人、学生",
+      "付款方式"
+    ],
+    "scope": "老城厢街巷里的早点摊，任选一家",
+    "lat": 31.2205,
+    "lng": 121.4885,
+    "topics": [
+      "food/breakfast",
+      "rhythm/morning",
+      "everyday/street-economy"
+    ],
+    "eras": [
+      "republic",
+      "now"
+    ],
+    "minutes": 40,
+    "setting": "outdoor",
+    "kid9": "四样都尝一遍，给每样打分。",
+    "kid16": "观察一个小摊的分工和顾客，理解街头经济。",
+    "access": {
+      "transit": "老城厢（早点摊位置会变，现场寻找）",
+      "stepFree": null
+    },
+    "evidence": [
+      "oc-breakfast"
+    ]
+  },
+  {
+    "further": [
+      "一栋楼被挂牌以后，住户能做什么、不能做什么？",
+      "为什么这里能保留这么多老房子，而老城厢拆了很多？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "hengfu",
+    "placeIds": [],
+    "id": "hf-zone",
+    "question": "走在哪条线上，就算进了衡复风貌区？",
+    "why": "风貌区不是景点，没有大门。找到它的边界和标记，才知道「保护」落在了哪里。",
+    "background": [
+      {
+        "text": "衡复风貌区总面积约 7.66 平方公里，区内收录 138 处优秀历史建筑。",
+        "evidence": [
+          "hf-zone"
+        ]
+      }
+    ],
+    "tasks": [
+      "沿任意一条马路走 20 分钟，数一数看到几块「优秀历史建筑」铭牌。",
+      "读一块铭牌：上面写了建造年份、设计者还是原来的用途？",
+      "找一找风貌区的边界标志或说明牌。"
+    ],
+    "lookFor": [
+      "优秀历史建筑铭牌",
+      "风貌区说明牌",
+      "铭牌上能扫码的二维码"
+    ],
+    "scope": "衡复风貌区内任选一条马路（避开武康路、安福路）",
+    "lat": 31.209,
+    "lng": 121.448,
+    "topics": [
+      "society/conservation",
+      "fabric/street",
+      "architecture/period-styles"
+    ],
+    "eras": [
+      "republic",
+      "now"
+    ],
+    "minutes": 45,
+    "setting": "outdoor",
+    "kid9": "当一回「铭牌收集员」，看谁找到得多。",
+    "kid16": "读懂保护铭牌，理解上海的历史建筑保护制度。",
+    "access": {
+      "transit": "衡复风貌区内（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "hf-zone"
+    ]
+  },
+  {
+    "further": [
+      "不拓宽的马路，交通怎么办？",
+      "保护马路的宽度，其实保护的是什么？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "hengfu",
+    "placeIds": [],
+    "id": "hf-never-widen",
+    "question": "为什么有的马路被规定「永不拓宽」？",
+    "why": "大部分城市都在拓宽马路，衡复却给几十条路定了「永不拓宽」。走一走就知道它保护的是什么。",
+    "background": [
+      {
+        "text": "衡复风貌区徐汇区内有 31 条风貌保护道路，其中 30 条是「永不拓宽」的马路。",
+        "evidence": [
+          "hf-zone"
+        ]
+      }
+    ],
+    "tasks": [
+      "选一条小马路，用步子量一量它从这边墙到那边墙有多宽。",
+      "数一数有几条车道，人行道有多宽。",
+      "站在路中间的人行横道上，看看两边的树冠能不能碰到一起。"
+    ],
+    "lookFor": [
+      "路幅宽度",
+      "两侧树冠的交汇",
+      "沿街的围墙和院门"
+    ],
+    "scope": "衡复风貌区内任选一条小马路",
+    "lat": 31.2085,
+    "lng": 121.4465,
+    "topics": [
+      "society/planning",
+      "fabric/street",
+      "society/conservation"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "kid9": "用步子量马路，再和家附近的大马路比一比。",
+    "kid16": "「不拓宽」是一种规划工具，可以讨论它的得失。",
+    "access": {
+      "transit": "衡复风貌区内（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "hf-zone"
+    ]
+  },
+  {
+    "further": [
+      "它其实叫什么名字？为什么大家都叫它「梧桐」？",
+      "一种树为什么能变成一座城市的标志？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "hengfu",
+    "placeIds": [],
+    "id": "hf-plane-trees",
+    "question": "「法国梧桐」，真的是从法国来的吗？",
+    "why": "12 月梧桐叶落光，正好看清树的骨架和马路的光线。这棵树的名字里藏着一段租界史。",
+    "background": [
+      {
+        "text": "被称作「法国梧桐」的悬铃木，是 20 世纪初由法国侨民引入当时的上海法租界的，因此得名；但不同资料对年份、引种者和树种说法不一。",
+        "evidence": [
+          "hf-plane-trees"
+        ]
+      }
+    ],
+    "tasks": [
+      "捡一片落叶和一颗果球，看看它们是什么形状。",
+      "比较 12 月和你记忆中夏天的马路：光线、温度、声音有什么不同？",
+      "看看树干上斑驳的树皮，找一找树干上有没有编号牌。"
+    ],
+    "lookFor": [
+      "悬挂的球形果实",
+      "斑驳的树皮",
+      "树上的编号牌"
+    ],
+    "scope": "衡复风貌区内任何一条梧桐路",
+    "lat": 31.2095,
+    "lng": 121.4475,
+    "topics": [
+      "ecology/plants",
+      "rhythm/seasonal",
+      "layers/place-names"
+    ],
+    "eras": [
+      "treaty-port",
+      "now"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "kid9": "收集一颗「小毛球」果实和一片大落叶。",
+    "kid16": "从一个俗名出发，查证物种和引种史，练习核对信息。",
+    "access": {
+      "transit": "衡复风貌区内",
+      "stepFree": null
+    },
+    "evidence": [
+      "hf-plane-trees"
+    ]
+  },
+  {
+    "further": [
+      "菜场变好看了，菜价变了吗？谁受益？",
+      "你家附近的菜场改造过吗？"
+    ],
+    "coordsApprox": true,
+    "daylight": false,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "hengfu",
+    "placeIds": [
+      "wuzhong-market"
+    ],
+    "id": "hf-wuzhong",
+    "question": "一个菜场改造成网红以后，还是居民的菜场吗？",
+    "why": "乌中市集从马路菜场变成了上海最出名的菜场之一。去买一次菜，就能看到「更新」给日常生活带来了什么。",
+    "background": [
+      {
+        "text": "乌中市集前身是马路菜场；2019 年徐汇区对它升级改造，保留果蔬、水产和鲜花区，同时引入网红餐厅，并与多家国际品牌合作过快闪。",
+        "evidence": [
+          "hf-wuzhong"
+        ]
+      }
+    ],
+    "tasks": [
+      "工作日上午去，看看买菜的是什么人。",
+      "数一数菜摊和餐饮、咖啡各占多少摊位。",
+      "买一样当天的菜，问摊主这东西从哪里来。"
+    ],
+    "lookFor": [
+      "买菜的人和拍照的人",
+      "菜摊和餐饮的比例",
+      "价格牌"
+    ],
+    "lat": 31.213,
+    "lng": 121.443,
+    "topics": [
+      "food/markets",
+      "everyday/wet-market",
+      "fabric/renewal"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 40,
+    "setting": "indoor",
+    "kid9": "自己挑一样菜，学着付钱和问价。",
+    "kid16": "观察「士绅化」在一个菜场里是什么样子。",
+    "access": {
+      "transit": "乌鲁木齐中路（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "hf-wuzhong"
+    ]
+  },
+  {
+    "further": [
+      "「勃艮第」和「步高」，是音译还是意译？",
+      "为什么一家法国公司要给中国人住的里弄起法国名字？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "hengfu",
+    "placeIds": [],
+    "id": "hf-bugaoli",
+    "question": "步高里的牌坊上，为什么同时写着法文和中文？",
+    "why": "一座牌坊上的两种文字，讲的是谁在造房子、谁在住房子。",
+    "background": [
+      {
+        "text": "步高里 1930 年建成，入口牌坊上刻着法文 CITÉ BOURGOGNE 和中文「步高里」，法文名可能是后来翻修时加上的。业主法商中国建业地产公司习惯用法国地区名给楼盘命名。",
+        "evidence": [
+          "hf-bugaoli"
+        ]
+      }
+    ],
+    "tasks": [
+      "在陕西南路入口找到牌坊，读出上面的每一行字。",
+      "找一找牌坊上的年份。",
+      "在弄口往里看，不进私人住户，观察里弄的布局。"
+    ],
+    "lookFor": [
+      "牌坊上的法文和中文",
+      "建成年份",
+      "弄堂的主弄和支弄"
+    ],
+    "scope": "步高里弄口（陕西南路一侧），只在公共区域观察",
+    "lat": 31.2105,
+    "lng": 121.4605,
+    "topics": [
+      "fabric/lilong",
+      "layers/place-names",
+      "economy/global"
+    ],
+    "eras": [
+      "republic"
+    ],
+    "minutes": 25,
+    "setting": "outdoor",
+    "kid9": "念一念牌坊上的法文，猜猜「步高」是什么意思。",
+    "kid16": "从命名看租界时期的房地产和文化混合。",
+    "access": {
+      "transit": "陕西南路、建国西路一带（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "hf-bugaoli"
+    ]
+  },
+  {
+    "further": [
+      "78 幢房子住 450 户，平均一幢几户？这意味着什么？",
+      "把里弄改成酒店，算不算保护？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 3,
+    "checkedAt": "2026-11-03",
+    "areaId": "hengfu",
+    "placeIds": [],
+    "id": "hf-two-lilong",
+    "question": "同一家公司造的两片里弄，为什么一个住着 450 户，一个变成了 55 间套房？",
+    "why": "步高里和建业里都是法商中国建业地产公司造的，今天却走上了完全不同的路。并排看，是一堂城市更新课。",
+    "background": [
+      {
+        "text": "步高里共 78 幢房子，原本一户一幢，现在住着约 450 户人家。",
+        "evidence": [
+          "hf-bugaoli"
+        ]
+      },
+      {
+        "text": "建业里建于 1930 年代，开发商同样是中国建业地产公司；2017 年改成 55 间套房的酒店，每间占一幢里弄房子，保留了石库门的建筑特征。",
+        "evidence": [
+          "hf-jianyeli"
+        ]
+      }
+    ],
+    "tasks": [
+      "先去步高里弄口，观察晾衣、电线、自行车这些生活痕迹。",
+      "再去建国西路的建业里，从外面看它的立面。",
+      "比较两处的门、窗、墙面和人。"
+    ],
+    "lookFor": [
+      "生活痕迹的多少",
+      "立面材料和门窗的新旧",
+      "两处出入的人"
+    ],
+    "scope": "步高里弄口与建业里外立面（建国西路），只在公共区域观察",
+    "lat": 31.207,
+    "lng": 121.454,
+    "topics": [
+      "society/housing",
+      "fabric/lilong",
+      "fabric/renewal"
+    ],
+    "eras": [
+      "republic",
+      "now"
+    ],
+    "minutes": 50,
+    "setting": "outdoor",
+    "kid9": "做个「两地对比」：数一数两边各有多少晾衣杆和自行车。",
+    "kid16": "用两个真实案例讨论居住、保护和商业开发。",
+    "access": {
+      "transit": "陕西南路至建国西路一带（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "hf-bugaoli",
+      "hf-jianyeli"
+    ]
+  },
+  {
+    "further": [
+      "弹簧是怎么把震动「挡」住的？",
+      "城市里还有哪些建筑需要隔振？"
+    ],
+    "coordsApprox": true,
+    "daylight": false,
+    "difficulty": 2,
+    "checkedAt": "2026-11-03",
+    "areaId": "hengfu",
+    "placeIds": [],
+    "id": "hf-symphony",
+    "question": "一座音乐厅，为什么要装 300 多个弹簧？",
+    "why": "上海交响乐团的音乐厅是一座「坐在弹簧上」的楼。路过时看不出来，但它解决的是城市里一个很实际的问题。",
+    "background": [
+      {
+        "text": "上海交响乐团音乐厅由矶崎新设计，2014 年建成，有 1200 座和 400 座两个厅；因为地下有地铁经过，整栋楼坐在弹簧上隔振，主厅下有 300 多个弹簧，乐团离最近的地铁站只有 6 米。",
+        "evidence": [
+          "hf-symphony"
+        ]
+      }
+    ],
+    "tasks": [
+      "在复兴中路一侧看建筑外观，找一找它的花园和砖墙。",
+      "在附近的地铁站站一会儿，感受列车经过时脚下有没有震动。",
+      "如果买票听一场音乐会，留意演出中有没有听到地铁声。"
+    ],
+    "lookFor": [
+      "建筑外的砖墙和花园",
+      "地铁站和音乐厅的距离",
+      "演出时的安静程度"
+    ],
+    "scope": "上海交响乐团音乐厅外（复兴中路一带）",
+    "lat": 31.2125,
+    "lng": 121.4485,
+    "topics": [
+      "culture/stage",
+      "architecture/contemporary",
+      "infrastructure/transit"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 30,
+    "setting": "mixed",
+    "kid9": "站在地铁站里感受震动，再想象音乐厅里为什么听不到。",
+    "kid16": "弹簧隔振是一道很直观的物理题。",
+    "access": {
+      "transit": "复兴中路一带（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "hf-symphony"
+    ]
+  },
+  {
+    "further": [
+      "一座教堂换过几次用途，说明了什么？",
+      "今天来这里的是什么人？"
+    ],
+    "coordsApprox": true,
+    "daylight": true,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "hengfu",
+    "placeIds": [],
+    "id": "hf-church",
+    "question": "衡山路上的这座教堂，最早是为谁建的？",
+    "why": "国际礼拜堂说明了衡山路一带曾是美国侨民聚居的地方，一座教堂能讲出一条街的人口史。",
+    "background": [
+      {
+        "text": "国际礼拜堂 1925 年启用，现代哥特式，当年主要服务附近的美国侨民，因为上海美国学校就在旁边；文革期间关闭改作仓库，1981 年重新开放。",
+        "evidence": [
+          "hf-church"
+        ]
+      }
+    ],
+    "tasks": [
+      "从衡山路上看教堂外观，找出哥特式的尖拱。",
+      "看看教堂周围的老房子，猜猜当年住着什么人。",
+      "不打扰礼拜：只在开放时间和公共区域观察。"
+    ],
+    "lookFor": [
+      "尖拱窗",
+      "有没有钟楼或塔楼",
+      "周边的花园洋房"
+    ],
+    "scope": "国际礼拜堂外（衡山路 53 号）",
+    "lat": 31.2055,
+    "lng": 121.4455,
+    "topics": [
+      "culture/exchange",
+      "society/migration",
+      "architecture/period-styles"
+    ],
+    "eras": [
+      "republic",
+      "early-prc",
+      "reform"
+    ],
+    "minutes": 20,
+    "setting": "outdoor",
+    "kid9": "找一找尖尖的窗户和屋顶。",
+    "kid16": "从一座教堂看侨民社区的形成和变迁。",
+    "access": {
+      "transit": "衡山路（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "hf-church"
+    ]
+  },
+  {
+    "further": [
+      "为什么小马路上的店换得这么快？租金、客流还是潮流？",
+      "这个 App 里的信息也会过时，你怎么判断一条信息还新不新？"
+    ],
+    "coordsApprox": true,
+    "daylight": false,
+    "difficulty": 1,
+    "checkedAt": "2026-11-03",
+    "areaId": "hengfu",
+    "placeIds": [],
+    "id": "hf-shop-turnover",
+    "question": "2015 年这里是一家鱼店，现在是什么？",
+    "why": "衡复的小马路上，店铺换得很快。拿一条十年前的报道去现场对照，就能亲手测量这座城市的「新鲜度」。",
+    "background": [
+      {
+        "text": "2015 年，乌鲁木齐中路 247 号原来的外卖店被改成鱼店 Little Catch，由 Linehouse 设计，用白色金属框架搭出一张伸到街上的「网」。",
+        "evidence": [
+          "hf-little-catch"
+        ]
+      }
+    ],
+    "tasks": [
+      "找到乌鲁木齐中路 247 号，看看现在是什么店。",
+      "在同一段路上数一数：有几家店看起来是新开的，几家是老店？",
+      "问一家老店的店主：这条街的店多久换一批？"
+    ],
+    "lookFor": [
+      "247 号现在的样子",
+      "新店和老店的区别",
+      "招租或装修的告示"
+    ],
+    "scope": "乌鲁木齐中路一段（247 号附近）",
+    "lat": 31.2125,
+    "lng": 121.4435,
+    "topics": [
+      "food/retail",
+      "everyday/street-economy",
+      "fabric/renewal"
+    ],
+    "eras": [
+      "now"
+    ],
+    "minutes": 30,
+    "setting": "outdoor",
+    "kid9": "对着 2015 年的描述，找找那张「网」还在不在。",
+    "kid16": "亲手检验一条旧信息，理解信息为什么会过时。",
+    "access": {
+      "transit": "乌鲁木齐中路（以高德为准）",
+      "stepFree": null
+    },
+    "evidence": [
+      "hf-little-catch"
+    ]
+  }
+]

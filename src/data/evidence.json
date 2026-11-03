@@ -1,0 +1,973 @@
+[
+  {
+    "id": "yp-waterworks-castle",
+    "claim": "杨树浦水厂 1881 年 8 月动工、1883 年 6 月 29 日启用，是中国第一座现代自来水厂。英国建筑师 J.W. Hart 按英国城堡样式设计厂房和围墙：粉灰两色砖、仿角楼、雉堞式女儿墙。2013 年列为全国重点文物保护单位。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Yangshupu Waterworks",
+        "url": "https://en.wikipedia.org/wiki/Yangshupu_Waterworks",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "yp-waterworks-served",
+    "claim": "水厂开业时为公共租界和法租界约 17 万人供水；1902 年法租界建起自己的水厂后，杨树浦不再向该区域供水。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Yangshupu Waterworks",
+        "url": "https://en.wikipedia.org/wiki/Yangshupu_Waterworks",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "yp-salt-tide",
+    "claim": "1978 年 10 月 1 日至 1979 年 5 月 31 日，长江咸潮影响杨树浦水厂共 151 天，1988 年又短暂出现一次。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Yangshupu Waterworks",
+        "url": "https://en.wikipedia.org/wiki/Yangshupu_Waterworks",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "yp-waterworks-pier",
+    "claim": "杨树浦水厂沿江建有一座 535 米长的栈桥；栈桥上的路灯做成水管形，长凳用仪表盘作装饰。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "date": "2025-04-09"
+      },
+      {
+        "kind": "news",
+        "name": "人民日报（2024-11-04 第 14 版）",
+        "url": "https://paper.people.com.cn/rmrbwap/html/2024-11/04/nw.D110000renmrb_20241104_1-14.htm",
+        "date": "2024-11-04"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "yp-power-plant",
+    "claim": "杨树浦电厂被称为中国电力工业的发源地，2010 年停产后改为历史陈列馆和遗迹公园：105 米烟囱成了「城市灯塔」，巨型煤斗改为观景台，输煤栈桥改为空中步道。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "date": "2025-04-09"
+      },
+      {
+        "kind": "news",
+        "name": "SmartShanghai：Yangpu turned its decommissioned power plant into an industrial chic park",
+        "url": "https://www.smartshanghai.com/wire/shanghai-life/yangpu-turned-its-decommissioned-power-plant-into-a-industrial-chic-park",
+        "date": "2026-09-28"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "创建年份不一致：市政府英文网写 1911 年创建，SmartShanghai 写 1912 年开始运行。",
+    "volatile": true
+  },
+  {
+    "id": "yp-power-pool",
+    "claim": "杨树浦电厂的净水池留下了 24 个柱础和一个直径 20 米的圆形大底盘，现在是遮阴休息的地方。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "人民日报（2024-11-04 第 14 版）",
+        "url": "https://paper.people.com.cn/rmrbwap/html/2024-11/04/nw.D110000renmrb_20241104_1-14.htm",
+        "date": "2024-11-04"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "yp-sawtooth",
+    "claim": "上海国际时尚中心的前身是裕丰纺织（1921 年设计、1935 年建成），1950 年起是国营上海第十七棉纺织厂；园区保留办公楼、南北厂房、锅炉房和水塔等五处历史建筑，有「最完整、规模最大的锯齿形厂房」，2009–2013 年改造。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "date": "2025-04-09"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "yp-yongan",
+    "claim": "永安栈房是郭氏兄弟 1921 年创办的永安纺织公司的核心仓库，曾是全国最大的双塔仓库，采用钢筋混凝土无梁楼盖结构；西楼 2022 年改为世界技能博物馆。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "date": "2025-04-09"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "yp-minghua",
+    "claim": "明华糖仓建于 1920–30 年代，原是糖业公司的仓库；1946 年改为中央化工厂筹备处，1950 年更名上海化工厂，是中国第一家综合性塑料加工企业。屋顶保留原来的钢屋架，1980 年代又加了工字钢结构。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "date": "2025-04-09"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "yp-green-hill",
+    "claim": "绿之丘原是烟草公司的机修仓库，一座普通的钢混 6 层楼，改造后成了层层退台的立体花园。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "人民日报（2024-11-04 第 14 版）",
+        "url": "https://paper.people.com.cn/rmrbwap/html/2024-11/04/nw.D110000renmrb_20241104_1-14.htm",
+        "date": "2024-11-04"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "date": "2025-04-09"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "yp-riverside-reuse",
+    "claim": "毛麻仓库 1895 年由瑞记洋行（Arnhold, Karberg & Co.）创办；东方渔人码头的前身是上海鱼市场；一处制皂厂的生产辅助区改成了可以动手做肥皂的空间。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "date": "2025-04-09"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "yp-renrenwu",
+    "claim": "杨浦滨江有 10 座党群服务站「人人屋」，相邻两座只隔六七百米。南段 5.5 公里实现无障碍贯通，漫步道 5886 米、跑步道 5631 米、骑行道 5394 米。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "人民日报（2024-11-04 第 14 版）",
+        "url": "https://paper.people.com.cn/rmrbwap/html/2024-11/04/nw.D110000renmrb_20241104_1-14.htm",
+        "date": "2024-11-04"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "yp-bridge",
+    "claim": "杨浦大桥 1993 年 9 月建成、10 月通车，主跨 602 米，两座倒 Y 形桥塔高 223 米；1995 年诺曼底大桥建成之前，它是世界上主跨最长的斜拉桥。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Yangpu Bridge",
+        "url": "https://en.wikipedia.org/wiki/Yangpu_Bridge",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "sz-path",
+    "claim": "苏州河 42 公里滨水步道 2020 年 12 月贯通，西起外环边的临空音乐公园，东到外白渡桥。贯通前有 15.3 公里、63 处被历史建筑、仓库、住宅小区等阻断；普陀段占了一半，约 14 个小区和 8 家单位同意打开围墙。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily 香港版：苏州河步道贯通",
+        "url": "https://chinadailyhk.com/hk/article/155746",
+        "date": "2021-01-22"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "sz-pollution",
+    "claim": "苏州河在 1980 年代污染严重；1996 年开始大规模治理，重点是污水管网和污水处理；第四期 2018 年启动，目标是 2021 年消除劣 V 类水（全国五级水质里最低一级以下）。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily 香港版：苏州河步道贯通",
+        "url": "https://chinadailyhk.com/hk/article/155746",
+        "date": "2021-01-22"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：苏州河讲座（2023-07-27）",
+        "url": "https://www.shanghai.gov.cn/nw48081/20230727/df92874ed9bf4439bd1880d20ed0b5df.html",
+        "date": "2023-07-27"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "治理起点说法不一：China Daily 写 1996 年；另有资料（edie.net，未逐条核对）把起点算到 1988 年 8 月开工的上海合流污水一期工程。",
+    "volatile": true
+  },
+  {
+    "id": "sz-mengqing",
+    "claim": "梦清园 2004 年 7 月开放，是苏州河二期整治的重点项目，2008 年 3 月改名为苏州河梦清园环保主题公园。核心是一套生态水处理系统；展馆用的是原上海啤酒厂保留下来的工业建筑。园里有游船码头。",
+    "sources": [
+      {
+        "kind": "guide",
+        "name": "Art at Site：Mengqing Park",
+        "url": "https://artatsite.com/Shanghai/details/Listen-underground-water-Mengqing-Park-Shanghai-monument-sculpture-statue-China-Art-at-Site.html",
+        "date": null
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Dragon boat meets citywalk along Suzhou Creek",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250523/9dec9f5d3afc49ef92fd23064aa42275.html",
+        "date": "2025-05-23"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "sz-fire-station",
+    "claim": "宜昌路消防站建于 1932 年，是周边第一栋高层建筑；42 米高的瞭望塔顶有一座八角亭，亭里挂着铜钟，曾是火警中心。部分建筑仍在使用，另有 150 平方米改为消防展厅。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Dragon boat meets citywalk along Suzhou Creek",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250523/9dec9f5d3afc49ef92fd23064aa42275.html",
+        "date": "2025-05-23"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "sz-jiuzi",
+    "claim": "九子公园在苏州河边，以 1960 年代石库门弄堂里孩子们玩的「九子」游戏为主题，用九组铜、钢、花岗岩雕塑把游戏定格下来：滚铁环、踢毽子、跳橡皮筋、打弹子等。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市新闻办：Jiuzi Park",
+        "url": "https://touch.shio.gov.cn/jsp/jrsh_detail_en.jsp?id=3506",
+        "date": "2018-01-19"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "sz-m50",
+    "claim": "莫干山路 50 号原是春明粗纺厂。工厂停产后，本地艺术家薛松在 2000 年因租金便宜最早入驻，丁乙、曲丰国、王兴伟随后跟进。土地和厂房仍归原来经营工厂的国有纺织集团（上海纺织）所有。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：50 Moganshan Road",
+        "url": "https://en.wikipedia.org/wiki/50_Moganshan_Road",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "sz-1000trees",
+    "claim": "天安千树由 Heatherwick Studio 设计，构想是「两座长满树的山」，由数百根柱子撑起，每根柱子顶上是一个种植槽；2022 年初开放的第一期主要是商场。",
+    "sources": [
+      {
+        "kind": "guide",
+        "name": "Arup：Tian An 1000 Trees",
+        "url": "https://www.arup.com/projects/tian-an-1000-trees",
+        "date": null
+      },
+      {
+        "kind": "news",
+        "name": "Thursd：1000 Trees building opens in Shanghai",
+        "url": "https://thursd.com/articles/1000-trees-building-opens-in-shanghai",
+        "date": "2022-01"
+      }
+    ],
+    "checkedAt": null,
+    "volatile": true
+  },
+  {
+    "id": "sz-sihang",
+    "claim": "四行仓库东段 1930 年建成，是大陆银行的仓库；西段 1935 年为四行储蓄会加建。西墙上有 8 个炮弹洞、430 个弹孔。2014–2015 年修复时去掉墙面灰浆露出红砖，按历史照片定位原有弹孔，并拆掉第七层和大部分第六层，恢复 1930 年代的五层样子。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily 香港版：Heroic wartime siege in Shanghai relived",
+        "url": "https://chinadailyhk.com/article/141842",
+        "date": "2020-09-01"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "弹孔数各报道不同：有写 400 多个、420 多个，也有写 430 个。",
+    "volatile": true
+  },
+  {
+    "id": "sz-sihang-battle",
+    "claim": "1937 年淞沪会战后期，国军 88 师 420 余名官兵在谢晋元率领下坚守四行仓库，被称为「八百壮士」。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai Sihang Warehouse Battle Memorial",
+        "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20250220/48accefa828c45bd908dab51fdd77bcc.html",
+        "date": "2025-08-27"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "sz-post",
+    "claim": "上海邮政总局大楼 1922–1924 年建成，由 Stewardson & Spence 设计，古典式立面有三层通高的科林斯柱；转角入口上方是巴洛克式钟楼，两侧有雕像群。2003 年起部分楼面改为上海邮政博物馆，营业厅至今仍在营业。大楼是全国重点文物保护单位。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：General Post Office Building, Shanghai",
+        "url": "https://en.wikipedia.org/wiki/General_Post_Office_Building,_Shanghai",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "钟楼雕像的身份说法不一：Wikipedia 写中间是赫尔墨斯、两侧是厄洛斯和阿佛洛狄忒，其他资料不完全一致。",
+    "volatile": true
+  },
+  {
+    "id": "sz-embankment",
+    "claim": "河滨大楼是沙逊在 1930 年代建成的，是苏州河边第一座高层公寓，共 194 套公寓；1938 年收容过数千名逃离纳粹的犹太难民；1949 年后，教授、艺术家和干部被分配到这里住；1990 年代后期起公寓可以买卖和出租。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Sixth Tone：How One Apartment Block Tells the Story of Modern Shanghai",
+        "url": "https://www.sixthtone.com/news/1009057",
+        "date": "2021-11-25"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "竣工年份多数资料写 1935 年，也有写 1936 年。",
+    "volatile": true
+  },
+  {
+    "id": "sz-suhewan",
+    "claim": "天后宫建于 1884 年，在城市更新中迁建，是上海唯一一座供奉妈祖的庙。上海总商会旧址 1916 年建成，是新古典式红砖建筑。慎余里是重建的 1930 年代石库门街区，保留「一户一院」的格局，现在是餐厅和店铺。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Nine festive stops along Suzhou Creek",
+        "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20260214/3784b04ac19d4f46aaee26a5026bb81f.html",
+        "date": "2026-02-14"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "lj-name",
+    "claim": "陆家嘴的得名与陆氏家族有关：明初陆德衡迁居浦东，其曾孙陆深（1477–1544）1521 年回乡建园，晚年在陆家嘴故里度过。「嘴」指陆地伸进水里的部分，黄浦江在这里与吴淞江交汇，呈九十度急转弯。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "澎湃新闻·湃客：陆家嘴的得名（参考《浪奔浪涌黄浦江》）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_7523771",
+        "date": "2020-05-23"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "lj-before-1990",
+    "claim": "直到 1980 年代，陆家嘴大部分是低矮住房、仓库和工厂；19 世纪在烂泥渡一带出现了外资工厂和码头。1990 年宣布开发开放浦东；2005 年国务院确认陆家嘴 31.78 平方公里为全国唯一以「金融贸易」命名的国家级开发区，2015 年并入上海自贸区。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Lujiazui",
+        "url": "https://en.wikipedia.org/wiki/Lujiazui",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "lj-jinmao",
+    "claim": "金茂大厦高 420.5 米、88 层，由 SOM 的 Adrian Smith 设计，造型借鉴中国传统的密檐塔，越往上越收；比例围绕数字 8 安排，88 层分成 16 段，1998 年 8 月 28 日举行落成仪式。君悦酒店的中庭从 56 层通到 87 层，高约 115 米。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Jin Mao Tower",
+        "url": "https://en.wikipedia.org/wiki/Jin_Mao_Tower",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "lj-swfc",
+    "claim": "上海环球金融中心高 492 米，KPF 设计，2008 年 8 月 28 日开放。原设计顶部是一个直径 46 米的圆洞，用来减小风压，也呼应「天圆」；包括时任市长陈良宇在内的一些人认为圆洞太像日本旭日旗，2005 年 10 月 18 日 KPF 提交了改为梯形洞口的方案，建筑师称梯形更便宜、更好施工。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Shanghai World Financial Center",
+        "url": "https://en.wikipedia.org/wiki/Shanghai_World_Financial_Center",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "改洞的原因：建筑师说是成本和施工，同一资料也记录了旭日旗联想引发的反对。"
+  },
+  {
+    "id": "lj-shanghai-tower",
+    "claim": "上海中心大厦高 2073 英尺（约 632 米），Gensler 设计、同济大学建筑设计研究院为本地设计院。塔身上升过程中扭转 120 度，据 Gensler 称比同高的方形塔减少 24% 风荷载；内外两层幕墙之间有 21 个空中花园，全楼分成 9 个区段；顶部附近装有 1000 吨的调谐质量阻尼器来抵消晃动。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Architectural Record：Shanghai Tower",
+        "url": "https://architecturalrecord.com/articles/10084-shanghai-tower",
+        "date": "2015-10-16"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "阻尼器重量各资料不同：1000 吨、1100 吨、1200 吨都有。"
+  },
+  {
+    "id": "lj-skywalk",
+    "claim": "陆家嘴环形人行天桥 2013 年启用（另有资料写 2011 年），被称为上海最长的人行天桥，连接周边摩天楼和商场；平日日均人流超过 20 万人次，节假日可达 50 万。全市共有 264 座人行天桥。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市新闻办：Shanghai's skywalks take 'crossing the street' to new levels",
+        "url": "https://www.shio.gov.cn/TrueCMS//shxwbgs/voices/content/20231120222754568.htm",
+        "date": "2023-11-20"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "启用年份：市新闻办写 2013 年，2012 年的外媒报道称前一年已启用。",
+    "volatile": true
+  },
+  {
+    "id": "lj-century-avenue",
+    "claim": "世纪大道 2000 年通车，西起东方明珠附近、东到世纪公园；地铁 2 号线沿全线运行，设陆家嘴、东昌路、世纪大道、上海科技馆等站。设计方法国夏邦杰建筑事务所称它全长约 5.5 公里、宽 100 米，是浦东的「香榭丽舍」，沿线串起 11 个广场。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Century Avenue",
+        "url": "https://en.wikipedia.org/wiki/Century_Avenue",
+        "date": null
+      },
+      {
+        "kind": "guide",
+        "name": "Arte Charpentier：Agence pionnière en Chine",
+        "url": "https://www.arte-charpentier.com/en/perspective/agence-pionniere-en-chine-une-expertise-unique",
+        "date": "2024-07-03"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "长度：Wikipedia 写 5 公里，设计方写 5.5 公里。"
+  },
+  {
+    "id": "zj-ssrf",
+    "claim": "上海光源（上海同步辐射装置）位于张江高科技园区，储存环周长 432 米，设计能量 3.5 GeV，建筑屋顶呈蜗牛壳（鹦鹉螺）形；2009 年 5 月开始向外部研究者开放，2012 年 12 月实现满能量运行。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Shanghai Synchrotron Radiation Facility",
+        "url": "https://en.wikipedia.org/wiki/Shanghai_Synchrotron_Radiation_Facility",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "zj-park",
+    "claim": "张江高科技园区聚焦生命科学、软件、半导体和信息技术；入驻企业包括罗氏、辉瑞、诺华、阿斯利康等药企，中芯国际、华虹等芯片企业，以及 IBM、SAP 等软件企业。地铁 2 号线在园区内设张江高科、金科路、广兰路站。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Zhangjiang Hi-Tech Park",
+        "url": "https://en.wikipedia.org/wiki/Zhangjiang_Hi-Tech_Park",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "成立时间：同一页面正文写 1992 年 7 月，信息框写 2001 年 11 月；多数资料写 1992 年 7 月。",
+    "volatile": true
+  },
+  {
+    "id": "jd-city-origin",
+    "claim": "嘉定立县前叫练祁市，是练祁塘与横沥河十字交汇口的一处普通市镇；南宋嘉定十一年（1218）立县，首任知县高衍孙一到任就修筑城墙。如今西门、南门等处仍有部分城墙；外城河保存完整、仍是航道，内城河多已消失。州桥始建于 1245 年；法华塔始建于南宋开禧年间，立在练祁塘南岸，城内任何角落都能看到。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "澎湃新闻：嘉定老城（赵自全，上海师范大学）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_2928392",
+        "date": "2019-02-12"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "jd-confucius",
+    "claim": "嘉定孔庙 1219 年由首任知县高衍孙始建，是上海现存规模最大的古建筑群、江南保存最好的县级孔庙，2013 年列为全国重点文物保护单位；庙内的上海中国科举博物馆 2023 年 5 月起修缮一年多，展陈面积 2270 平方米。嘉定历史上出过 192 名进士，其中 3 名状元。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Jiading Confucian Temple returns with new look",
+        "url": "https://english.shanghai.gov.cn/en-CultureHeritage/20240926/91268794b2dd40a1b715e90c86498634.html",
+        "date": "2024-09-26"
+      },
+      {
+        "kind": "news",
+        "name": "China Daily 嘉定频道：Jiading's scenic spots",
+        "url": "https://subsites.chinadaily.com.cn/jiading/2013-08/29/c_709339.htm",
+        "date": "2013-08-29"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "jd-huilongtan",
+    "claim": "汇龙潭在明万历十六年（1588）疏浚，五条河像五条龙一样汇入潭中，因此得名「汇龙」；潭中小山上看去如「五龙抢珠」。山上的楼阁与孔庙明伦堂前的牌坊相对。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily 嘉定频道：Jiading's scenic spots",
+        "url": "https://subsites.chinadaily.com.cn/jiading/2013-08/29/c_709339.htm",
+        "date": "2013-08-29"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "jd-qiuxia",
+    "claim": "秋霞圃原是明代工部尚书龚弘的私家园林，被称为上海五大古典园林中最古老、保存最好的一座，1962 年列为上海市文物保护单位。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Exploring Shanghai's Jiangnan-style gardens",
+        "url": "https://english.shanghai.gov.cn/en-Parks/20231222/c3dcc573f5204f39accea3b04e2c7205.html",
+        "date": "2023-12-22"
+      },
+      {
+        "kind": "news",
+        "name": "China Daily 嘉定频道：Jiading's scenic spots",
+        "url": "https://subsites.chinadaily.com.cn/jiading/2013-08/29/c_709339.htm",
+        "date": "2013-08-29"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "始建年份：市政府英文网写 1502 年，China Daily 写 1505–1526 年间。"
+  },
+  {
+    "id": "jd-guyi",
+    "claim": "古猗园在嘉定南翔镇，明代始建；1789 年当地士绅集资买下园子，作为城隍庙的附属，园子从此成为公产，西边陆续开了店铺、酒肆和饭馆。它约 10 公顷，是上海五大古典园林中最大的一座。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：Guyi Garden",
+        "url": "https://en.wikipedia.org/wiki/Guyi_Garden",
+        "date": null
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Exploring Shanghai's Jiangnan-style gardens",
+        "url": "https://english.shanghai.gov.cn/en-Parks/20231222/c3dcc573f5204f39accea3b04e2c7205.html",
+        "date": "2023-12-22"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "始建年代：Wikipedia 写嘉靖年间（1522–1566）闵士籍所有，市政府英文网写万历年间。"
+  },
+  {
+    "id": "jd-nanxiang",
+    "claim": "南翔镇有 1500 多年历史，名字来自公元 505 年建的白鹤南翔寺。古猗园里的缺角亭东北角缺了一角，指东北沦陷，拳头形的檐角表示收复失地的决心。南翔寺双塔是清代大火后幸存的两座砖塔，各高 11 米、七层八角，仿唐宋风格。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Nanxiang Ancient Town",
+        "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20240318/d27e0a0fd8a647f38e8da351b13cfeec.html",
+        "date": "2024-03-18"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "jd-bamboo",
+    "claim": "嘉定竹刻有约 400 年历史，始于明代，朱鹤是最早的开创者，和儿子、孙子一起形成了嘉定风格，以深浮雕和透雕见长；2006 年列入第一批国家级非物质文化遗产。嘉定竹刻博物馆设在一处历史文化保护建筑里。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily 嘉定频道：Jiading bamboo carving",
+        "url": "https://subsites.chinadaily.com.cn/jiading/2013-07/05/c_709219.htm",
+        "date": "2013-07-05"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "jd-poly",
+    "claim": "上海保利大剧院由安藤忠雄设计，位于两片人工湖之间，主体是一个约 100 × 100 × 34 米（原文 330 × 330 × 113 英尺）的钢筋混凝土方盒子，五个圆柱形空洞从各个方向贯穿整栋楼，外面包一层双层玻璃幕墙，空洞里的公共空间对市民开放；2014 年 8 月竣工。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Designboom：Tadao Ando's Poly Grand Theater",
+        "url": "https://www.designboom.com/architecture/tadao-ando-poly-grand-theater-shanghai-china-01-16-2017/",
+        "date": "2017-01-16"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "jd-vw",
+    "claim": "上海大众 1985 年 3 月在嘉定安亭成立，是中国第一家中外合资轿车企业，头两年卖出 1 万辆桑塔纳；1990 年 4 月年产能达到 6 万辆桑塔纳，国产化率超过 60%，1993 年超过 80%。嘉定因此被称为「中国第一汽车城」。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily 嘉定频道：SAIC Volkswagen",
+        "url": "https://subsites.chinadaily.com.cn/jiading/2023-08/08/c_908843.htm",
+        "date": "2023-08-08"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "成立时间：也有资料写合资公司 1984 年 10 月成立。"
+  },
+  {
+    "id": "oc-wall",
+    "claim": "明代为防倭寇修筑上海城墙，约三个月建成，有六座城门和护城河；城墙高约 10 米、周长约 5 公里，护城河宽 20 米、深 6 米。1860 年和 1909 年陆续加开城门。辛亥革命后城墙于 1912 年拆除，拆下的土石填平护城河筑成环路：北半圈 1913 年建成，名法华民国路，1950 年改名人民路；南半圈 1914 年建成，名中华路，两条路名合起来就是「中华民国」。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Sixth Tone：The Rise and Fall of Shanghai's City Wall（张学敏）",
+        "url": "https://www.sixthtone.com/news/1010258",
+        "date": "2022-05-07"
+      },
+      {
+        "kind": "community",
+        "name": "Wikipedia：Old City (Shanghai)",
+        "url": "https://en.wikipedia.org/wiki/Old_City_(Shanghai)",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "筑城年份：Sixth Tone 写 1553 年，Wikipedia 写 1554 年。"
+  },
+  {
+    "id": "oc-dajing",
+    "claim": "上海城墙唯一留存的一段在大境关帝庙里，城墙上曾设管理城濠的机构；据 Sixth Tone，它留下来更多是机构上的巧合而不是有意保护。大境阁和老城墙北门一段都经过修复。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Sixth Tone：The Rise and Fall of Shanghai's City Wall（张学敏）",
+        "url": "https://www.sixthtone.com/news/1010258",
+        "date": "2022-05-07"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Laochengxiang Historical and Cultural Block",
+        "url": "https://english.shanghai.gov.cn/en-HeritageZones/20240422/cfb454f7c0ce4f1ca9c472275567776c.html",
+        "date": "2024-04-22"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "oc-area",
+    "claim": "老城厢指人民路、中华路以内约 199.72 公顷的范围；1291 年上海立县，这里成为地区的政治、经济和文化中心。「城」指城墙之内，「厢」指城外的市集。2006 年整个老城厢被列为历史文化风貌区，34 条街巷被列为保护街巷；同时从 2002 年起，西北角露香园一带几乎全部拆除重建，因毁掉一段城墙遗存和数座历史建筑而有争议。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Laochengxiang Historical and Cultural Block",
+        "url": "https://english.shanghai.gov.cn/en-HeritageZones/20240422/cfb454f7c0ce4f1ca9c472275567776c.html",
+        "date": "2024-04-22"
+      },
+      {
+        "kind": "community",
+        "name": "Wikipedia：Old City (Shanghai)",
+        "url": "https://en.wikipedia.org/wiki/Old_City_(Shanghai)",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "oc-wenmiao",
+    "claim": "上海文庙 1294 年始建，现存建筑建于 1855 年，在文庙路 215 号，是市区唯一的孔庙。大成殿广场每周日有旧书集市，2001 年前后高峰时每周日接近 1 万人，2020 年为修缮停办；修缮后面积扩大约三分之一，计划 2025 年重新开放。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市新闻办：Shanghai Confucian Temple to reopen in 2025",
+        "url": "https://en.shio.gov.cn/TrueCMS//shxwbgs/voices/content/20230128224833081.html",
+        "date": "2023-01-28"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "oc-qiaojia",
+    "claim": "乔家路短短几百米集中了十几处老建筑：234 号是徐光启（1562–1633）故居「九间楼」，是老城厢唯一留存的明代宅第，现在每层只剩七间，归居民所有；113 号梓园曾是上海总商会会长王一亭的住宅，1922 年他在这里接待了爱因斯坦夫妇；天灯弄 77 号书隐楼建于乾隆年间，约 2000 平方米，是全市唯一保存下来的大型清代住宅群，现为私宅、不开放。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市新闻办：Strolling back in time along the old city wall",
+        "url": "https://touch.shio.gov.cn/jsp/jrsh_detail.jsp?id=76",
+        "date": "2014-05-04"
+      },
+      {
+        "kind": "news",
+        "name": "第一财经：南市老城厢的历史遗产（李刚）",
+        "url": "https://www.yicai.com/news/102405398.html",
+        "date": "2024-12-17"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "oc-bell",
+    "claim": "小南门警钟楼建于 1909 年，钢筋混凝土结构，高 35.2 米，位于原上海救火联合会旧址，用来瞭望火情、敲钟报警；顶上的大钟已不知去向，楼本身至今完好，在中华路 581 号。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "澎湃新闻：小南门警钟楼（李晓栋）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_1452498",
+        "date": "2016-04-16"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "建造年份：另有建筑数据库记为 1910 年。",
+    "volatile": true
+  },
+  {
+    "id": "oc-dongjiadu",
+    "claim": "董家渡天主堂 1849 年动工、1853 年落成，新巴洛克风格，仿罗马圣依纳爵堂；因建在董家码头（董家渡）的地上而得名。1946–1960 年是上海主教座堂；1966 年关闭改作工厂仓库，1982 年起部分恢复弥撒；2017 年起随董家渡金融区项目闭堂修缮。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Wikipedia：St. Francis Xavier Church (Shanghai)",
+        "url": "https://en.wikipedia.org/wiki/St._Francis_Xavier_Church_(Shanghai)",
+        "date": null
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "oc-breakfast",
+    "claim": "大饼、油条、粢饭团、豆浆合称上海早饭的「四大金刚」，老版本里也有馒头和老虎脚爪。上海已知最早的大饼油条店 1912 年开张；到 1930 年代，以大饼、油条、馒头为主的早点生意已经很兴旺，早点文化是围着街边摊和弄堂小店长起来的。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Classic local breakfast staples",
+        "url": "https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260515/83c642503a5049a68673b4d85c677222.html",
+        "date": "2026-05-15"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai"
+  },
+  {
+    "id": "hf-zone",
+    "claim": "衡复风貌区总面积约 7.66 平方公里，其中徐汇部分 4.3 平方公里；区内收录 138 处优秀历史建筑，徐汇区内有 31 条风貌保护道路、30 条「永不拓宽」的马路。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "澎湃新闻·湃客：衡复风貌区（朱喆）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_3537511",
+        "date": "2019-05-26"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "面积有 7.6、7.66、7.75 平方公里等说法；「永不拓宽」道路数，全市层面另有 64 条的说法（未逐条核对）。"
+  },
+  {
+    "id": "hf-plane-trees",
+    "claim": "被称作「法国梧桐」的悬铃木，是 20 世纪初由法国侨民引入当时的上海法租界的，因此得名。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "CGTN：The story of the exotic plane tree in Shanghai",
+        "url": "https://news.cgtn.com/news/2019-08-18/China-s-Flora-Tour-The-story-of-the-exotic-plane-tree-in-Shanghai-Jg1g7gNE2c/share_amp.html",
+        "date": "2019-08-18"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "其他资料（未逐条核对）对首次种植的年份、引种者是法国人还是英国人、树种是否为二球悬铃木说法不一。"
+  },
+  {
+    "id": "hf-wuzhong",
+    "claim": "乌中市集在乌鲁木齐中路，前身是马路菜场；2019 年徐汇区对它升级改造，保留果蔬、水产和鲜花区，同时引入网红餐厅，并与多家国际品牌合作过时尚快闪。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "人民日报海外版：这里有蔬香，也有书香（牟书瑶）",
+        "url": "https://paper.people.com.cn/rmrbhwb/pc/content/202510/15/content_30109461.html",
+        "date": "2025-10-15"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "hf-bugaoli",
+    "claim": "步高里 1930 年建成，入口牌坊上刻着法文 CITÉ BOURGOGNE（勃艮第）和中文「步高里」，法文名可能是后来翻修时加上的。业主是法商中国建业地产公司（FONCIM），它习惯用法国地区名给楼盘命名。弄内共 78 幢房子，原本一户一幢，现在住着约 450 户人家。设计者尚无定论。",
+    "sources": [
+      {
+        "kind": "blog",
+        "name": "Shanghailander：Cité Bourgogne（Hugues Martin）",
+        "url": "https://shanghailander.net/tag/foncim/",
+        "date": "2026-01-24"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "hf-jianyeli",
+    "claim": "建业里建于 1930 年代，开发商同样是中国建业地产公司（FONCIM）；Kokaistudios 保留了石库门的建筑特征、改变了室内布局，2017 年改成 55 间套房的酒店，每间占一幢里弄房子。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Architect Magazine：Capella Jianyeli",
+        "url": "https://www.architectmagazine.com/?p=246317",
+        "date": "2020-02-06"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "hf-symphony",
+    "claim": "上海交响乐团音乐厅由矶崎新设计，2008–2014 年建成，有 1200 座和 400 座两个厅，声学设计是丰田泰久；因为地下有地铁经过，整栋楼坐在弹簧上隔振，主厅下面有 300 多个弹簧，乐团离最近的地铁站只有 6 米。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Designboom：Arata Isozaki projects",
+        "url": "https://www.designboom.com/architecture/arata-isozaki-projects-pritzker-laureate-03-05-2019/",
+        "date": "2019-03-05"
+      },
+      {
+        "kind": "gov",
+        "name": "上海理工大学：Field Trip to Shanghai Symphony Orchestra",
+        "url": "https://www.sbcen.usst.edu.cn/2015/0320/c15019a159835/page.htm",
+        "date": "2015-03-20"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  },
+  {
+    "id": "hf-church",
+    "claim": "国际礼拜堂（衡山路 53 号）1925 年 3 月 7 日启用，造价 7 万美元，现代哥特式；当年主要服务住在附近的美国侨民，因为上海美国学校就在旁边。文革期间关闭、改作仓库和排练场，1981 年重新开放。",
+    "sources": [
+      {
+        "kind": "blog",
+        "name": "Historic Shanghai：Shanghai Community Church",
+        "url": "https://historic-shanghai.com/shanghai-community-church",
+        "date": "2023-03"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "disputed": "建成年份：多数资料写 1925 年，Lonely Planet 写 1924 年。",
+    "volatile": true
+  },
+  {
+    "id": "hf-little-catch",
+    "claim": "2015 年，乌鲁木齐中路 247 号原来的外卖店「Lucky Bear」被改成鱼店 Little Catch，由设计工作室 Linehouse 设计，用白色金属框架搭出一张伸到街上的「网」。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Dezeen：Little Catch fishmonger",
+        "url": "https://www.dezeen.com/?p=690950",
+        "date": "2015-05-03"
+      }
+    ],
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "volatile": true
+  }
+]

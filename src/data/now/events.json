@@ -1,0 +1,377 @@
+[
+  {
+    "id": "marathon-2026",
+    "title": "2026 上海马拉松",
+    "cultureIds": [
+      "cycling-running"
+    ],
+    "venueId": "shanghai-marathon",
+    "start": "2026-12-06",
+    "end": "2026-12-06",
+    "status": "confirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Get ready: 2026 Shanghai Marathon registration starts April 29",
+        "url": "https://english.shanghai.gov.cn/en-SportsEvents/20260427/8152288074a44b44a7efbfd4b0b67797.html",
+        "date": "2026-04-27"
+      }
+    ],
+    "note": "外滩金牛起跑；报名已在 7 月截止，可以去沿途看。"
+  },
+  {
+    "id": "mini-marathon-2026",
+    "title": "2026 上海马拉松 · 迷你马拉松",
+    "cultureIds": [
+      "cycling-running"
+    ],
+    "venueId": "shanghai-marathon",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "status": "confirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Get ready: 2026 Shanghai Marathon registration starts April 29",
+        "url": "https://english.shanghai.gov.cn/en-SportsEvents/20260427/8152288074a44b44a7efbfd4b0b67797.html",
+        "date": "2026-04-27"
+      }
+    ],
+    "note": "1.5 万人参加；报名 7 月开放，现在是否还能报名待确认。"
+  },
+  {
+    "id": "einstein-musical",
+    "title": "音乐剧《爱因斯坦》中国首演",
+    "cultureIds": [
+      "theatre",
+      "music"
+    ],
+    "venueId": "culture-square",
+    "start": "2026-12-12",
+    "end": "2026-12-20",
+    "status": "confirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily：Global musicals to light up landmark theater's 15th season（张昆）",
+        "url": "https://mobile.chinadaily.com.cn/html5/2026-04/10/content_017_69d7f09ded50be540e72e2c7.htm",
+        "date": "2026-04-10"
+      }
+    ],
+    "note": "德语音乐剧，在上汽·上海文化广场；票价和场次看剧院官方。"
+  },
+  {
+    "id": "le-roi-soleil",
+    "title": "音乐剧《太阳王》",
+    "cultureIds": [
+      "theatre",
+      "music"
+    ],
+    "venueId": "culture-square",
+    "start": "2026-10-30",
+    "end": "2026-11-15",
+    "status": "confirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily：Global musicals to light up landmark theater's 15th season（张昆）",
+        "url": "https://mobile.chinadaily.com.cn/html5/2026-04/10/content_017_69d7f09ded50be540e72e2c7.htm",
+        "date": "2026-04-10"
+      }
+    ],
+    "note": "法语音乐剧，上海是中国唯一一站。"
+  },
+  {
+    "id": "chair-club-jam",
+    "title": "Chair Club 周一 Jam",
+    "cultureIds": [
+      "music",
+      "night"
+    ],
+    "venueId": "chair-club",
+    "start": "2026-03-07",
+    "end": null,
+    "status": "unconfirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ],
+    "note": "每周一晚的即兴 Jam；来源是 2026 年 3 月，现在是否照常待确认。",
+    "weekly": [
+      1
+    ],
+    "validUntil": "2026-09-07"
+  },
+  {
+    "id": "fotografiska-jazz",
+    "title": "Fotografiska 周三爵士",
+    "cultureIds": [
+      "music",
+      "art"
+    ],
+    "venueId": "fotografiska",
+    "start": "2026-03-07",
+    "end": null,
+    "status": "unconfirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ],
+    "note": "每周三晚持展票可听；来源是 2026 年 3 月，现在是否照常待确认。",
+    "weekly": [
+      3
+    ],
+    "validUntil": "2026-09-07"
+  },
+  {
+    "id": "sleep-no-more-final",
+    "title": "《不眠之夜》上海版",
+    "cultureIds": [
+      "theatre"
+    ],
+    "venueId": "mckinnon-snm",
+    "start": "2016-12-14",
+    "end": "2026-08-30",
+    "status": "ended",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Sixth Tone：One last night with Shanghai's 'Sleep No More' superfans（Jiang Xinyi）",
+        "url": "https://www.sixthtone.com/news/1019008",
+        "date": "2026-09-10"
+      }
+    ],
+    "note": "已于 2026 年 8 月 30 日闭幕。"
+  },
+  {
+    "id": "coffee-festival-2026",
+    "title": "2026 上海国际咖啡文化节",
+    "cultureIds": [
+      "coffee"
+    ],
+    "venueId": "coffee-festival",
+    "start": "2026-04-30",
+    "end": "2026-05-04",
+    "status": "confirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Caffeine and creativity meet along the North Bund",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260509/cf159cd569e746b3b275bb463f47158f.html",
+        "date": "2026-05-09"
+      }
+    ],
+    "note": "北外滩。"
+  },
+  {
+    "id": "siff-2026",
+    "title": "第 28 届上海国际电影节",
+    "cultureIds": [
+      "film"
+    ],
+    "venueId": "siff",
+    "start": "2026-06-12",
+    "end": "2026-06-21",
+    "status": "confirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：28th SIFF announces 52 screening venues",
+        "url": "https://english.shanghai.gov.cn/en-28thSIFF&31stShanghaiTVFestival/20260526/a078953d92894d40a6f562aba36b5add.html",
+        "date": "2026-05-26"
+      }
+    ],
+    "note": "52 家放映影院。"
+  },
+  {
+    "id": "computer-worlds",
+    "title": "西岸美术馆 ·《Computer Worlds》",
+    "cultureIds": [
+      "art",
+      "ai-digital"
+    ],
+    "venueId": "west-bund-museum",
+    "start": "2026-09-24",
+    "end": "2027-02-14",
+    "status": "confirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "guide",
+        "name": "Centre Pompidou：West Bund Museum Project",
+        "url": "https://www.centrepompidou.fr/en/lieu/west-bund-museum-project",
+        "date": null
+      }
+    ],
+    "note": "蓬皮杜中心藏品展，主题是计算机与艺术。"
+  },
+  {
+    "id": "nye-concert-2026",
+    "title": "上海大歌剧院跨年音乐会",
+    "cultureIds": [
+      "music"
+    ],
+    "venueId": "grand-opera-house",
+    "start": "2026-12-31",
+    "end": "2026-12-31",
+    "status": "confirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "第一财经：上海大歌剧院开幕演出季（葛怡婷）",
+        "url": "https://www.yicai.com/news/103263260.html",
+        "date": "2026-07-07"
+      }
+    ],
+    "note": "与上海交响乐团合作的跨年音乐会；场次和票价看剧院官方。"
+  },
+  {
+    "id": "eifman-residency",
+    "title": "艾夫曼芭蕾舞团首次驻演上海",
+    "cultureIds": [
+      "theatre"
+    ],
+    "venueId": "grand-opera-house",
+    "start": "2026-12-01",
+    "end": "2026-12-31",
+    "status": "unconfirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "第一财经：上海大歌剧院开幕演出季（葛怡婷）",
+        "url": "https://www.yicai.com/news/103263260.html",
+        "date": "2026-07-07"
+      },
+      {
+        "kind": "news",
+        "name": "澎湃新闻：上海大歌剧院开幕演出季发布",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33529286",
+        "date": "2026-07-06"
+      }
+    ],
+    "note": "为期 10 天，《罪与罚》（中国首演）、《叶甫盖尼·奥涅金》《安娜·卡列尼娜》；来源只说 12 月，具体日期待官方公布。",
+    "datePrecision": "month"
+  },
+  {
+    "id": "nutcracker-2026",
+    "title": "上海芭蕾舞团《胡桃夹子》",
+    "cultureIds": [
+      "theatre"
+    ],
+    "venueId": "grand-opera-house",
+    "start": "2026-12-01",
+    "end": "2026-12-31",
+    "status": "unconfirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "第一财经：上海大歌剧院开幕演出季（葛怡婷）",
+        "url": "https://www.yicai.com/news/103263260.html",
+        "date": "2026-07-07"
+      }
+    ],
+    "note": "上海大剧院与上海芭蕾舞团联合制作，在年末上演；具体日期待官方公布。",
+    "datePrecision": "month"
+  },
+  {
+    "id": "comicup-dec-2026",
+    "title": "2026 Comicup 上海动漫文化博览会",
+    "cultureIds": [
+      "acg"
+    ],
+    "start": "2026-12-01",
+    "end": "2026-12-31",
+    "status": "unconfirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：2026 Shanghai major events promotion guide",
+        "url": "https://english.shanghai.gov.cn/en-EditorsPick-travelinshanghai/20260424/8cefc9d30b144345b2dadf8b40f4bb04.html",
+        "date": "2026-04-24"
+      }
+    ],
+    "note": "市政府年度活动指南把它列在 12 月，只有月份，没有日期和场馆。",
+    "where": "上海（场馆未公布）",
+    "datePrecision": "month"
+  },
+  {
+    "id": "childrens-chorus-2026",
+    "title": "上海国际童声合唱节",
+    "cultureIds": [
+      "music"
+    ],
+    "start": "2026-12-01",
+    "end": "2026-12-31",
+    "status": "unconfirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：2026 Shanghai major events promotion guide",
+        "url": "https://english.shanghai.gov.cn/en-EditorsPick-travelinshanghai/20260424/8cefc9d30b144345b2dadf8b40f4bb04.html",
+        "date": "2026-04-24"
+      }
+    ],
+    "note": "市政府年度活动指南把它列在 12 月，只有月份，没有日期和场馆。",
+    "where": "上海（场馆未公布）",
+    "datePrecision": "month"
+  },
+  {
+    "id": "christkindlmarkt-2026",
+    "title": "外滩德国圣诞市集（Christkindlmarkt on the Bund）",
+    "cultureIds": [
+      "craft"
+    ],
+    "start": "2026-11-25",
+    "end": "2026-12-27",
+    "status": "unconfirmed",
+    "checkedAt": "2026-11-03",
+    "checkedBy": "ai",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：Christkindlmarkt on the Bund（只读到搜索摘要）",
+        "url": "https://www.smartshanghai.com/event/christkindlmarkt-on-the-bund-2025",
+        "date": "2026"
+      }
+    ],
+    "note": "日期 11 月 25 日至 12 月 27 日来自搜索摘要，没能读到原文，待确认；门票据称 11 月第二周在 SmartShanghai 开售。",
+    "where": "外滩一带（来源未给门牌）"
+  }
+]

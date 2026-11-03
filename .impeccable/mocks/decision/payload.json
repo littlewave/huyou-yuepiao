@@ -1,0 +1,43 @@
+{
+  "title": "选择 App 的视觉世界",
+  "question": "随机分配到的方向是「沪游月票」。可以保留、换成备选，或者重新抽一组。",
+  "options": [
+    {
+      "id": "assigned", "kind": "assigned", "label": "沪游月票 · 十二月", "kicker": "THE ROLL",
+      "lineage": "八九十年代上海公交月票：每月换色的卡纸、大号月份数字、售票员的打孔",
+      "thesis": "这趟回沪就是一张十二月的月票：每去一个地方，就在上面打一个孔。",
+      "palette": ["#0E5E5A", "#E6F2EC", "#F3D34A", "#C8361F", "#2F5DA8"],
+      "materials": ["月票卡纸细纹底", "打孔圆洞", "印泥红「去过」章"],
+      "viewport": "顶部孔雀绿条：十二月大号数字 + 行程日期条（去过的日子打孔）；筛选胶囊；下方浅绿卡纸上是候选卡，左边有打孔缺口和主题色边。",
+      "risk": "怀旧感太重会像纪念品；只有打孔这个动作真正承担功能时才成立。",
+      "raised": [
+        {"from": "challenger-ticket-wallet", "raise": "什么都不消失，只是盖章：去过和不感兴趣都是盖在卡上的印章，可以撤销，卡片不会从列表里消失。"},
+        {"from": "challenger-labanotation", "raise": "长度就是时间：每张卡底部的时长条按所需小时数等比绘制，一眼就能比较是半天还是一整天。"},
+        {"from": "challenger-character-catalog", "raise": "每张卡的固定栏目都一样：在哪 / 为什么本地人去 / 9 岁看点 / 16 岁看点，任何一条都不能缺。"},
+        {"from": "challenger-acetate-tabs", "raise": "主题标签显示数量：每个主题胶囊带有当前筛选条件下的地点数，选空之前就能看出来。"},
+        {"from": "challenger-mono-marketing", "raise": "印泥红极度克制：只用在「去过」这一种状态上，别处都不用。"}
+      ],
+      "html": ".impeccable/mocks/decision/assigned.html", "htmlFrame": "390x844"
+    },
+    {
+      "id": "model-pick", "kind": "pick", "label": "上海门牌", "kicker": "IMPECCABLE’S PICK",
+      "lineage": "上海蓝底白字搪瓷门牌、路牌",
+      "thesis": "每个候选地点都是一块门牌：路名加门牌号，就像回家认路一样。",
+      "palette": ["#1B3E8C", "#FFFFFF", "#F1F3F7", "#10224A"],
+      "materials": ["搪瓷蓝底", "白色双线圆角边框", "窄体数字门牌号"],
+      "viewport": "深蓝顶栏 + 候选/想去/去过分段控件；每张卡上半部分是一块门牌（路名 + 号码），下半部分是白底说明。",
+      "risk": "这是我自己排名最高的方向，也最容易被想到；门牌号要求每个地点的地址都准确。"
+    },
+    {"id": "challenger-ticket-wallet", "kind": "challenger", "catalogId": "vernacular-ephemera-jet-age-ticket-wallet", "label": "喷气时代机票夹", "verdict": "declined", "lineage": "jet-age airline ticket wallet", "thesis": "每个地点是一张可撕下的票根。", "palette": ["#1B2A52", "#D2232A", "#FFFFFF", "#5B3A8C"], "materials": ["复写纸票根", "作废章"], "viewport": "票根一张张叠在一起。", "risk": "和上海没有关系。", "case": "和月票是同一类票务物件，但用户对它没有认同感。", "kept": "什么都不消失，只是盖章。"},
+    {"id": "challenger-labanotation", "kind": "challenger", "catalogId": "notation-diagram-systems-labanotation", "label": "拉班舞谱", "verdict": "declined", "lineage": "labanotation", "thesis": "时间自下而上流动的谱面。", "palette": ["#FFFFFF", "#111111", "#CCCCCC"], "materials": ["谱纸", "阴影块"], "viewport": "中轴谱线。", "risk": "家庭用户看不懂。", "case": "在认同感和清晰度上都输。", "kept": "长度就是时间。"},
+    {"id": "challenger-character-catalog", "kind": "challenger", "catalogId": "pop-culture-shelf-character-goods-catalog", "label": "角色周边目录", "verdict": "declined", "lineage": "character goods catalog", "thesis": "地点排成一组角色阵容。", "palette": ["#FCE4EC", "#E3F2FD", "#FFFFFF", "#FF6F91"], "materials": ["粉彩格子", "白色描边"], "viewport": "带排名的角色格子。", "risk": "对 16 岁和大人来说太幼稚。", "case": "9 岁会喜欢，其他人不会。", "kept": "每张卡的固定栏目都一样。"},
+    {"id": "challenger-acetate-tabs", "kind": "challenger", "catalogId": "rw-manual-acetate-tab-board", "label": "醋酸片分页手册", "verdict": "declined", "lineage": "boxed-software manual", "thesis": "阶梯式分页标签栏。", "palette": ["#E8762B", "#F2C230", "#3E8E4E", "#2E4FA3"], "materials": ["醋酸透明片", "色板"], "viewport": "侧边彩色分页。", "risk": "手机上太复杂。", "case": "两个维度都输。", "kept": "标签显示数量。"},
+    {"id": "challenger-mono-marketing", "kind": "challenger", "catalogId": "digital-design-canon-monochrome-product-marketing", "label": "单色产品营销", "verdict": "declined", "lineage": "monochrome product marketing", "thesis": "近乎无色，一个强调色。", "palette": ["#FAFAFA", "#111111", "#4F46E5"], "materials": ["中性灰阶"], "viewport": "主张加截图。", "risk": "就是这个品类的默认样子。", "case": "清晰但没有认同感。", "kept": "强调色极度克制。"},
+    {"id": "challenger-ikeda", "kind": "challenger", "catalogId": "ikeda-datamatics", "label": "数据崇高", "verdict": "declined", "lineage": "Ikeda datamatics", "thesis": "黑白条码场。", "palette": ["#000000", "#FFFFFF"], "materials": ["条码", "等宽数字"], "viewport": "条码墙。", "risk": "冷，不适合家庭。", "case": "两个维度都输。", "kept": "等宽表格数字。"}
+  ],
+  "reroll": {"registers": ["safer", "bolder"]},
+  "buildPath": {"value": "code"},
+  "canon": true,
+  "canonCard": {"kind": "canon", "label": "品类标准做法", "thesis": "一般旅行发现类 App 的样子，按最高水准完成。", "palette": ["#FFFFFF", "#111827", "#2563EB"], "materials": ["大图卡片", "底部标签栏"], "viewport": "搜索框、主题胶囊、大图卡片列表、底部导航。", "risk": "和其他 App 没有区别，而且没有真实照片时会显得空。", "html": ".impeccable/mocks/decision/canon.html", "htmlFrame": "390x844"},
+  "steer": true
+}

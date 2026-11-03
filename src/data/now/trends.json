@@ -1,0 +1,175 @@
+[
+  {
+    "id": "goods-malls",
+    "title": "老商场改成二次元商场",
+    "summary": "南京东路的华联商厦变成百联ZX创趣场以后，五角场开了第二家，静安大悦城、美罗城、新世界、第一百货也陆续做了二次元改造。",
+    "cultureIds": [
+      "acg"
+    ],
+    "firstSeen": "2024-12-23",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "第一财经：百联ZX与谷子经济（刘晓洁）",
+        "url": "https://www.yicai.com/news/102562147.html",
+        "date": "2025-04-09"
+      },
+      {
+        "kind": "news",
+        "name": "澎湃新闻·湃客：谷子经济",
+        "url": "https://www.thepaper.cn/newsDetail_forward_29726915",
+        "date": "2024-12-23"
+      }
+    ],
+    "watch": "看商场里二次元店铺的比例，以及周末排队的是谁。"
+  },
+  {
+    "id": "mall-stages",
+    "title": "商场里长出小剧场",
+    "summary": "演出空间开进商场和写字楼：世茂广场的星空间、合生汇的开心麻花、外滩 NEO 的笑乐汇。2025 年五大商业综合体里的 65 个新空间演了 6000 多场。人民广场旁的亚洲大厦一栋楼里就有 19 个「星空间」小剧场。",
+    "cultureIds": [
+      "theatre",
+      "comedy",
+      "games"
+    ],
+    "firstSeen": "2024-06-21",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Unconventional venues for live performances in Shanghai",
+        "url": "https://english.shanghai.gov.cn/en-Theaters/20240621/b628aa8d723443ce8d7e4c56ad1a79ba.html",
+        "date": "2024-06-21"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai's performing arts market tops nation in 2025",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260212/af11d8de7fd24819bff50c940e428855.html",
+        "date": "2026-02-12"
+      },
+      {
+        "kind": "news",
+        "name": "新华网：亚洲大厦「星空间」",
+        "url": "https://www.news.cn/fortune/20250526/5f938e7f12ca45bcadb7081885f88c59/c.html",
+        "date": "2025-05-26"
+      }
+    ],
+    "watch": "看演出海报贴在商场的哪一层，散场后观众去了哪里。"
+  },
+  {
+    "id": "musical-market",
+    "title": "音乐剧成了上海最大的演出门类之一",
+    "summary": "2025 年上海占全国音乐剧场次的 56%，原版国际音乐剧演了 300 多场；文化广场 2026 年第 15 个演季，有多部中国首演。",
+    "cultureIds": [
+      "theatre",
+      "music"
+    ],
+    "firstSeen": "2026-02-12",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai's performing arts market tops nation in 2025",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260212/af11d8de7fd24819bff50c940e428855.html",
+        "date": "2026-02-12"
+      },
+      {
+        "kind": "news",
+        "name": "China Daily：Global musicals to light up landmark theater's 15th season（张昆）",
+        "url": "https://mobile.chinadaily.com.cn/html5/2026-04/10/content_017_69d7f09ded50be540e72e2c7.htm",
+        "date": "2026-04-10"
+      }
+    ],
+    "watch": "看剧院门口排队观众的年龄。"
+  },
+  {
+    "id": "vintage-y2k",
+    "title": "Y2K 和古着",
+    "summary": "Z 世代的怀旧推动古着热：美式运动服、Y2K、拍立得和 CCD 相机；小红书上「720 元买 16 件古着」这类攻略常被转发。",
+    "cultureIds": [
+      "vintage",
+      "fashion"
+    ],
+    "firstSeen": "2025-05-27",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai a 'paradise' for global vintage shoppers",
+        "url": "https://english.shanghai.gov.cn/en-EditorsPick-ShopinShanghai/20250527/2499c34533a446c29e5bc62bd4d21d52.html",
+        "date": "2025-05-27"
+      }
+    ],
+    "watch": "数一数永康路一带古着店的数量，和店里顾客的年龄。"
+  },
+  {
+    "id": "coffee-10000",
+    "title": "咖啡馆破万",
+    "summary": "上海咖啡馆 2025 年达到 10336 家；咖啡文化节规模扩大，「一区一特色」咖啡地图在全市推开。",
+    "cultureIds": [
+      "coffee"
+    ],
+    "firstSeen": "2026-04-30",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai tops over 10,000 coffee shops in 2025",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260430/0a34421f91114550bd8e9e9182b38c6d.html",
+        "date": "2026-04-30"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Caffeine and creativity meet along the North Bund",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260509/cf159cd569e746b3b275bb463f47158f.html",
+        "date": "2026-05-09"
+      }
+    ],
+    "watch": "在你住处 500 米内数一数有几家咖啡馆。"
+  },
+  {
+    "id": "listening-revival",
+    "title": "实体唱片和聆听空间",
+    "summary": "唱片店兼聆听空间开到上海，有试听台和田野录音档案。",
+    "cultureIds": [
+      "night",
+      "music"
+    ],
+    "firstSeen": "2026-07-02",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：Shanghai has a Sound Library",
+        "url": "https://www.smartshanghai.com/wire/shopping/indie-vinyl-field-recordings-and-hi-fi-gear-shanghai-has-a-sound-library",
+        "date": "2026-07-02"
+      }
+    ],
+    "watch": "看试听台前排队的是谁。"
+  },
+  {
+    "id": "climbing-gyms",
+    "title": "攀岩馆开进商场和旧筒仓",
+    "summary": "上海商业攀岩馆到 2025 年下半年超过 100 家，新馆开在商场、写字楼和西岸的旧筒仓里，不少有亲子和新手课。",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "firstSeen": "2025-07-21",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Banana Climbing launches second Shanghai venue in Changning",
+        "url": "https://english.shanghai.gov.cn/en-Fitness/20250721/e484c72d3646431cb5a8201eb2ba0dfc.html",
+        "date": "2025-07-21"
+      },
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Collection: Rock Climbing Gyms",
+        "url": "https://www.smartshanghai.com/articles/sports-and-recreation/the-collection-rock-climbing-gyms",
+        "date": "2026-08-31"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：China tops medal table at World Climbing Challenger Shanghai",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260909/a4279939154f4b45ac7a723435741879.html",
+        "date": "2026-09-09"
+      }
+    ],
+    "watch": "看攀岩馆里新手区和高手区各有多少人，有没有带孩子的家长。"
+  }
+]

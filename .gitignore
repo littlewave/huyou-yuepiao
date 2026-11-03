@@ -1,0 +1,5 @@
+node_modules
+dist
+.impeccable/live
+# Machine-local caches (contain absolute paths)
+.impeccable/hook.cache.json

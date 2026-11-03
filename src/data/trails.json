@@ -1,0 +1,97 @@
+[
+  {
+    "id": "yp-south-trail",
+    "title": "杨浦滨江：从糖仓走到电厂",
+    "question": "沿江这几公里，工业是怎样长出来、又怎样退场的？",
+    "areaId": "yangpu-riverside",
+    "questIds": [
+      "yp-sugar-to-plastic",
+      "yp-green-hill",
+      "yp-castle-waterworks",
+      "yp-salt-tide",
+      "yp-renrenwu",
+      "yp-bridge",
+      "yp-chimney"
+    ],
+    "minutes": 240
+  },
+  {
+    "id": "sz-mid-trail",
+    "title": "苏州河：从莫干山路到邮政大楼",
+    "question": "一条被工厂和仓库占满的河，是怎样一段段还给市民的？",
+    "areaId": "suzhou-creek",
+    "questIds": [
+      "sz-m50",
+      "sz-mengqing",
+      "sz-fire-tower",
+      "sz-jiuzi",
+      "sz-bullet-wall",
+      "sz-rebuilt",
+      "sz-post-office"
+    ],
+    "minutes": 270
+  },
+  {
+    "id": "lj-core-trail",
+    "title": "陆家嘴：从渡口到三座塔",
+    "question": "一片仓库和码头，怎样在三十年里变成金融城？",
+    "areaId": "lujiazui",
+    "questIds": [
+      "lj-name",
+      "lj-before-1990",
+      "lj-skywalk",
+      "lj-three-towers",
+      "lj-swfc-hole",
+      "lj-twist"
+    ],
+    "minutes": 210
+  },
+  {
+    "id": "jd-old-town-trail",
+    "title": "嘉定老城：一座县城的十字",
+    "question": "一座江南县城，是怎样围着水、塔和孔庙长起来的？",
+    "areaId": "jiading",
+    "questIds": [
+      "jd-cross-rivers",
+      "jd-fahua",
+      "jd-qiuxia",
+      "jd-exam",
+      "jd-huilongtan",
+      "jd-moat"
+    ],
+    "minutes": 300
+  },
+  {
+    "id": "oc-wall-trail",
+    "title": "老城厢：沿着消失的城墙走一圈",
+    "question": "一座拆掉了城墙的县城，还能从哪里认出它？",
+    "areaId": "old-city",
+    "questIds": [
+      "oc-breakfast",
+      "oc-gates",
+      "oc-dajing",
+      "oc-ring-road",
+      "oc-bell",
+      "oc-wenmiao",
+      "oc-jiujianlou",
+      "oc-dongjiadu"
+    ],
+    "minutes": 300
+  },
+  {
+    "id": "hf-trail",
+    "title": "衡复：梧桐、菜场和里弄",
+    "question": "一片保护得最完整的老街区，今天怎样被住、被用、被改？",
+    "areaId": "hengfu",
+    "questIds": [
+      "hf-wuzhong",
+      "hf-shop-turnover",
+      "hf-plane-trees",
+      "hf-church",
+      "hf-symphony",
+      "hf-bugaoli",
+      "hf-two-lilong"
+    ],
+    "minutes": 270
+  }
+]

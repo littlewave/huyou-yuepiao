@@ -1,0 +1,5 @@
+# Low-confidence Fragments ship as a separate Clue Pool; the map is an offline schematic
+
+The 深度探索 features add raw and weak Fragments (news, government notices, Reddit, blogs, OpenStreetMap) next to the curated Library. They're still gathered **at research time** and shipped in `src/data/fragments.json`, the same as ADR-0001: no runtime crawling, no API keys, works offline in China. Each Fragment carries its Sources with link and date. The UI computes Signal Strength and Freshness from them (`src/domain/signal.ts`) and never asserts them by hand, so a Fragment can't claim more confidence than its sources give it. Fragments stay out of the Library until the family marks them a Clue.
+
+The map is an inline SVG schematic (rough river courses, approximate GCJ-02 points), not tiles from 高德 or Google. Tiles would break ADR-0002 (no third-party runtime network) and wouldn't work offline. This narrows ADR-0003: navigation still hands off to 高德, and the in-app map is for overview, layers and Thin Zones only.

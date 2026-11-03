@@ -1,0 +1,1656 @@
+[
+  {
+    "id": "jz-club",
+    "name": "JZ Club（衡山 8 号）",
+    "kind": "business",
+    "cultureIds": [
+      "music",
+      "night"
+    ],
+    "area": "徐汇 · 衡山路 8 号水塔广场",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "老牌爵士俱乐部，几乎每晚有演出，常一晚两场，本地乐手和国际乐队都有。",
+    "ageNote": "夜间演出、有酒水，适合 16 岁陪同，不适合 9 岁。",
+    "geo": {
+      "lat": 31.20652,
+      "lng": 121.44728,
+      "precision": "poi",
+      "via": "OSM：衡山路8号, 枫林桥, 天平路街道"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "jalc-shanghai",
+    "name": "Jazz at Lincoln Center Shanghai",
+    "kind": "business",
+    "cultureIds": [
+      "music"
+    ],
+    "area": "黄浦 · 南京东路 139 号 4 楼",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "对游客较友好的爵士演出空间，有开放座位和夹层，演出日程密集。",
+    "geo": {
+      "lat": 31.23717,
+      "lng": 121.48373,
+      "precision": "street",
+      "via": "OSM 街道：南京东路"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "heyday",
+    "name": "Heyday",
+    "kind": "business",
+    "cultureIds": [
+      "music",
+      "night"
+    ],
+    "area": "徐汇 · 泰安路 50 号",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "按 1920 年代上海风格布置的小型爵士酒吧，建议预约；一周开六晚，平日是二重奏，周末是完整乐队。",
+    "ageNote": "酒吧，不适合孩子。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "chair-club",
+    "name": "Chair Club（海防路）",
+    "kind": "business",
+    "cultureIds": [
+      "music",
+      "night"
+    ],
+    "area": "静安 · 海防路 555 号 12 幢（同乐坊）",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "乐手们常去的放松小店，有 R&B、灵魂乐、布鲁斯主题夜；周一有即兴 Jam。",
+    "ageNote": "酒吧，不适合孩子。",
+    "geo": {
+      "lat": 31.23675,
+      "lng": 121.44355,
+      "precision": "poi",
+      "via": "OSM：同乐坊, 叉袋角, 江宁路街道"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "house-of-blues-jazz",
+    "name": "House of Blues and Jazz",
+    "kind": "business",
+    "cultureIds": [
+      "music",
+      "night"
+    ],
+    "area": "靠近外滩（来源未给门牌）",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "驻场乐队，一周六天有演出。",
+    "ageNote": "酒吧，不适合孩子。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "peace-hotel-jazz",
+    "name": "和平饭店爵士吧",
+    "kind": "business",
+    "cultureIds": [
+      "music",
+      "night"
+    ],
+    "area": "外滩 · 和平饭店",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "和平饭店老年爵士乐队的主场；据来源，这支乐队持有「最年长的演出中爵士乐队」吉尼斯纪录。价格偏高。",
+    "geo": {
+      "lat": 31.23916,
+      "lng": 121.48909,
+      "precision": "poi",
+      "via": "OSM：和平饭店, 南京东路, 外滩源"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "time-passage",
+    "name": "Time Passage",
+    "kind": "business",
+    "cultureIds": [
+      "music",
+      "night"
+    ],
+    "area": "长宁 · 华山路附近（来源未给门牌）",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "1994 年开业，周末有现场乐队。",
+    "ageNote": "酒吧，不适合孩子。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "okok",
+    "name": "OKOK",
+    "kind": "business",
+    "cultureIds": [
+      "music",
+      "night"
+    ],
+    "area": "静安 · 万代南梦宫上海文化中心地下",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "地下室酒吧，一周近五晚演出，从融合爵士到摇滚，演完常变成即兴 Jam。",
+    "ageNote": "酒吧，不适合孩子。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "cottons",
+    "name": "Cotton's",
+    "kind": "business",
+    "cultureIds": [
+      "music",
+      "night"
+    ],
+    "area": "长宁 · 新华路（来源未给门牌）",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "餐吧，每周有几次爵士演出。",
+    "geo": {
+      "lat": 31.20546,
+      "lng": 121.41876,
+      "precision": "street",
+      "via": "OSM：新华路, 梅家桥, 新华路街道"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "phase-live",
+    "name": "Phase Live House",
+    "kind": "business",
+    "cultureIds": [
+      "music"
+    ],
+    "area": "静安 · 中兴路 1683 号金融街购物中心 3 楼",
+    "status": "seen-active",
+    "lastSeen": "2024-06-21",
+    "note": "近 3000 平方米的 Livehouse，有专业乐队、歌手和音响。",
+    "geo": {
+      "lat": 31.25317,
+      "lng": 121.46891,
+      "precision": "street",
+      "via": "OSM 街道：中兴路"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Unconventional venues for live performances in Shanghai",
+        "url": "https://english.shanghai.gov.cn/en-Theaters/20240621/b628aa8d723443ce8d7e4c56ad1a79ba.html",
+        "date": "2024-06-21"
+      }
+    ]
+  },
+  {
+    "id": "bandai-namco-base",
+    "name": "万代南梦宫上海文化中心",
+    "kind": "institution",
+    "cultureIds": [
+      "music",
+      "acg"
+    ],
+    "area": "静安 · 宜昌路 179 号（苏州河边）",
+    "status": "seen-active",
+    "lastSeen": "2025-05-23",
+    "note": "苏州河边的文化综合体，有剧场、排练室和 Livehouse，每月有演出排期。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Dragon boat meets citywalk along Suzhou Creek",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250523/9dec9f5d3afc49ef92fd23064aa42275.html",
+        "date": "2025-05-23"
+      }
+    ]
+  },
+  {
+    "id": "sound-library",
+    "name": "声音图书馆（EKA 天物）",
+    "kind": "business",
+    "cultureIds": [
+      "night",
+      "music"
+    ],
+    "area": "浦东 · 金桥路 535 号 EKA 天物 16 幢 101",
+    "status": "seen-active",
+    "lastSeen": "2026-07-02",
+    "note": "唱片店、音响展厅和田野录音档案馆的结合，有 11 个试听台和一个小型杜比影厅，办自己的聆听活动。",
+    "ageNote": "白天营业的店，全家都能去。",
+    "geo": {
+      "lat": 31.26419,
+      "lng": 121.57572,
+      "precision": "poi",
+      "via": "OSM：EKA天物, 庆宁寺, 沪东新村街道"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：Shanghai has a Sound Library",
+        "url": "https://www.smartshanghai.com/wire/shopping/indie-vinyl-field-recordings-and-hi-fi-gear-shanghai-has-a-sound-library",
+        "date": "2026-07-02"
+      }
+    ]
+  },
+  {
+    "id": "ins-comedy",
+    "name": "INS Comedy",
+    "kind": "business",
+    "cultureIds": [
+      "comedy"
+    ],
+    "area": "黄浦 · 雁荡路 109 号 INS 复兴公园 B1",
+    "status": "seen-active",
+    "lastSeen": "2024-06-21",
+    "note": "在复兴公园里的喜剧空间，有脱口秀、新式相声、小品、魔术喜剧和即兴。INS 意为 Into Nothing Serious。",
+    "geo": {
+      "lat": 31.21674,
+      "lng": 121.4692,
+      "precision": "poi",
+      "via": "OSM：复兴公园, 瑞金二路街道, 上海市"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Unconventional venues for live performances in Shanghai",
+        "url": "https://english.shanghai.gov.cn/en-Theaters/20240621/b628aa8d723443ce8d7e4c56ad1a79ba.html",
+        "date": "2024-06-21"
+      }
+    ]
+  },
+  {
+    "id": "laugh-union",
+    "name": "笑乐汇新空间",
+    "kind": "business",
+    "cultureIds": [
+      "comedy"
+    ],
+    "area": "黄浦 · 人民路 399 号外滩 NEO B1",
+    "status": "seen-active",
+    "lastSeen": "2024-06-21",
+    "note": "传统相声场，由郭德纲弟子高鹤才创办。",
+    "geo": {
+      "lat": 31.22904,
+      "lng": 121.49165,
+      "precision": "poi",
+      "via": "OSM：外滩NEO, 安平街, 小北门"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Unconventional venues for live performances in Shanghai",
+        "url": "https://english.shanghai.gov.cn/en-Theaters/20240621/b628aa8d723443ce8d7e4c56ad1a79ba.html",
+        "date": "2024-06-21"
+      }
+    ]
+  },
+  {
+    "id": "star-space",
+    "name": "世茂广场·星空间",
+    "kind": "business",
+    "cultureIds": [
+      "theatre",
+      "games"
+    ],
+    "area": "黄浦 · 南京东路 829 号世茂广场 7–8 楼",
+    "status": "seen-active",
+    "lastSeen": "2024-06-21",
+    "note": "约 4000 平方米的沉浸式剧场群，分成多个 200–300 平方米的小剧场，以悬疑推理剧为主；2023 年 9 月启用。",
+    "ageNote": "悬疑题材，先看剧目说明再决定带不带 9 岁。",
+    "geo": {
+      "lat": 31.2345,
+      "lng": 121.47575,
+      "precision": "poi",
+      "via": "OSM：上海世茂广场, 西藏中路, 云南中路社区"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Unconventional venues for live performances in Shanghai",
+        "url": "https://english.shanghai.gov.cn/en-Theaters/20240621/b628aa8d723443ce8d7e4c56ad1a79ba.html",
+        "date": "2024-06-21"
+      }
+    ]
+  },
+  {
+    "id": "mahua-space",
+    "name": "开心麻花·一号空间",
+    "kind": "business",
+    "cultureIds": [
+      "theatre",
+      "comedy"
+    ],
+    "area": "杨浦 · 翔殷路 1099 号合生汇 B1",
+    "status": "seen-active",
+    "lastSeen": "2024-06-21",
+    "note": "面向年轻观众的轻喜剧剧场。",
+    "geo": {
+      "lat": 31.30505,
+      "lng": 121.53192,
+      "precision": "street",
+      "via": "OSM 街道：翔殷路"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Unconventional venues for live performances in Shanghai",
+        "url": "https://english.shanghai.gov.cn/en-Theaters/20240621/b628aa8d723443ce8d7e4c56ad1a79ba.html",
+        "date": "2024-06-21"
+      }
+    ]
+  },
+  {
+    "id": "culture-square",
+    "name": "上汽·上海文化广场",
+    "kind": "institution",
+    "cultureIds": [
+      "theatre",
+      "music"
+    ],
+    "area": "黄浦 · 复兴中路一带（来源未给门牌）",
+    "status": "seen-active",
+    "lastSeen": "2026-04-10",
+    "note": "以音乐剧为主的大剧场，2026 年是第 15 个演季。上海是全国最大的音乐剧市场，2025 年占全国音乐剧场次的 56%。",
+    "geo": {
+      "lat": 31.21192,
+      "lng": 121.46222,
+      "precision": "poi",
+      "via": "OSM：上海文化广场, 瑞金二路街道, 上海市"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily：Global musicals to light up landmark theater's 15th season（张昆）",
+        "url": "https://mobile.chinadaily.com.cn/html5/2026-04/10/content_017_69d7f09ded50be540e72e2c7.htm",
+        "date": "2026-04-10"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai's performing arts market tops nation in 2025",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260212/af11d8de7fd24819bff50c940e428855.html",
+        "date": "2026-02-12"
+      }
+    ]
+  },
+  {
+    "id": "mckinnon-snm",
+    "name": "麦金侬酒店《不眠之夜》",
+    "kind": "institution",
+    "cultureIds": [
+      "theatre"
+    ],
+    "area": "静安 · 北京西路（麦金侬酒店）",
+    "status": "closed",
+    "lastSeen": "2026-09-10",
+    "note": "中国第一部长期驻演的沉浸式戏剧，2016 年开演，2026 年 8 月 30 日在上海演完最后一场，共 2670 场；据报道 2027 年计划在深圳推出新版本。",
+    "geo": {
+      "lat": 31.22857,
+      "lng": 121.45031,
+      "precision": "street",
+      "via": "OSM 街道：北京西路"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Sixth Tone：One last night with Shanghai's 'Sleep No More' superfans（Jiang Xinyi）",
+        "url": "https://www.sixthtone.com/news/1019008",
+        "date": "2026-09-10"
+      }
+    ]
+  },
+  {
+    "id": "shanghai-fashion-week",
+    "name": "上海时装周",
+    "kind": "project",
+    "cultureIds": [
+      "fashion"
+    ],
+    "area": "新天地、永源路、雁荡路等多处",
+    "status": "seen-active",
+    "lastSeen": "2026-03-18",
+    "note": "每年春秋两季（3 月底、10 月），新天地是主秀场；2026 秋冬季有 Feng Chen Wang、Susan Fang 等独立设计师品牌。12 月不在时装周期间。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai Fashion Week set to electrify the city",
+        "url": "https://english.shanghai.gov.cn/en-MajorConsumerEvents/20260318/5f1115651c354f4dafbf20cd347fc3d7.html",
+        "date": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "id": "fashion-center",
+    "name": "上海国际时尚中心",
+    "kind": "institution",
+    "cultureIds": [
+      "fashion"
+    ],
+    "area": "杨浦 · 杨树浦路 2866 号",
+    "status": "seen-active",
+    "lastSeen": "2025-04-09",
+    "note": "由国棉十七厂锯齿形厂房改造的时尚综合体，举办过上海时装周相关活动。",
+    "questIds": [
+      "yp-sawtooth"
+    ],
+    "geo": {
+      "lat": 31.2705,
+      "lng": 121.556,
+      "precision": "place",
+      "via": "探索任务 yp-sawtooth"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "date": "2025-04-09"
+      }
+    ]
+  },
+  {
+    "id": "labelhood",
+    "name": "LABELHOOD 蕾虎",
+    "kind": "business",
+    "cultureIds": [
+      "fashion"
+    ],
+    "area": "长宁 / 静安（第三方日程中地点不一致）",
+    "status": "unconfirmed",
+    "lastSeen": "2026-10",
+    "note": "在时装周期间推出中国年轻独立设计师的平台；只找到第三方转载的日程，场地与日期待确认。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "Milled 转载的 Shanghai Fashion Week SS27 日程（第三方）",
+        "url": "https://milled.com/divacattiva/shanghai-ss27-tomorrow-ideal-labelhood-los-angeles-ss27-first-steps-at-milan-XP7OCuBmsaq-ZpDJ",
+        "date": "2026-10"
+      }
+    ]
+  },
+  {
+    "id": "max-match",
+    "name": "Max & Match",
+    "kind": "business",
+    "cultureIds": [
+      "vintage"
+    ],
+    "area": "徐汇 · 新乐路 54 号",
+    "status": "seen-active",
+    "lastSeen": "2025-05-27",
+    "note": "永康路一带最有名的古着店，店主出国挑货，墙上挂满顾客照片。",
+    "geo": {
+      "lat": 31.21725,
+      "lng": 121.45429,
+      "precision": "street",
+      "via": "OSM 街道：新乐路"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai a 'paradise' for global vintage shoppers",
+        "url": "https://english.shanghai.gov.cn/en-EditorsPick-ShopinShanghai/20250527/2499c34533a446c29e5bc62bd4d21d52.html",
+        "date": "2025-05-27"
+      }
+    ]
+  },
+  {
+    "id": "yongkang-vintage",
+    "name": "永康路古着小店群",
+    "kind": "public",
+    "cultureIds": [
+      "vintage"
+    ],
+    "area": "徐汇 · 永康路一带",
+    "status": "seen-active",
+    "lastSeen": "2025-05-27",
+    "note": "一条街的小型精选古着店，能找到美式棒球夹克和欧洲军装。",
+    "geo": {
+      "lat": 31.21005,
+      "lng": 121.45595,
+      "precision": "street",
+      "via": "OSM：永康路, 小木桥, 天平路街道"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai a 'paradise' for global vintage shoppers",
+        "url": "https://english.shanghai.gov.cn/en-EditorsPick-ShopinShanghai/20250527/2499c34533a446c29e5bc62bd4d21d52.html",
+        "date": "2025-05-27"
+      }
+    ]
+  },
+  {
+    "id": "lingshi-market",
+    "name": "灵石路服装市场",
+    "kind": "institution",
+    "cultureIds": [
+      "vintage"
+    ],
+    "area": "静安 · 灵石路",
+    "status": "seen-active",
+    "lastSeen": "2025-05-27",
+    "note": "摊位挤挤挨挨、可以砍价的二手衣服市场，价格便宜。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai a 'paradise' for global vintage shoppers",
+        "url": "https://english.shanghai.gov.cn/en-EditorsPick-ShopinShanghai/20250527/2499c34533a446c29e5bc62bd4d21d52.html",
+        "date": "2025-05-27"
+      }
+    ]
+  },
+  {
+    "id": "coffee-festival",
+    "name": "上海国际咖啡文化节",
+    "kind": "project",
+    "cultureIds": [
+      "coffee"
+    ],
+    "area": "2026 年在北外滩 2.3 公里滨江",
+    "status": "seen-active",
+    "lastSeen": "2026-05-09",
+    "note": "每年春天举办，2026 年 4 月 30 日至 5 月 4 日在北外滩，近 300 个品牌摊位。12 月不在节期。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Caffeine and creativity meet along the North Bund",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260509/cf159cd569e746b3b275bb463f47158f.html",
+        "date": "2026-05-09"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai tops over 10,000 coffee shops in 2025",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260430/0a34421f91114550bd8e9e9182b38c6d.html",
+        "date": "2026-04-30"
+      }
+    ]
+  },
+  {
+    "id": "rhino-bookstore",
+    "name": "犀牛书店",
+    "kind": "business",
+    "cultureIds": [
+      "publishing",
+      "vintage"
+    ],
+    "area": "苏州河沿线（静安段）",
+    "status": "seen-active",
+    "lastSeen": "2026-02-14",
+    "note": "以文史哲为主的书店，侧重二手书和珍本，有绝版书、档案资料和线装书。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Nine festive stops along Suzhou Creek",
+        "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20260214/3784b04ac19d4f46aaee26a5026bb81f.html",
+        "date": "2026-02-14"
+      }
+    ]
+  },
+  {
+    "id": "unfold",
+    "name": "UNFOLD 上海艺术书展",
+    "kind": "project",
+    "cultureIds": [
+      "publishing"
+    ],
+    "area": "上海（每届地点不同）",
+    "status": "unconfirmed",
+    "lastSeen": null,
+    "note": "由香蕉鱼书店主办，自 2017 年起举办的艺术书展，展出独立出版物、海报和 Zine；最近一届的日期和地点待确认。",
+    "sources": [
+      {
+        "kind": "community",
+        "name": "DutchCulture：UNFOLD Shanghai Art Book Fair",
+        "url": "https://dutchculture.nl/en/organisation/unfold-shanghai-art-book-fair",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "art-book-fair-library",
+    "name": "上海国际艺术书展（上海图书馆东馆）",
+    "kind": "project",
+    "cultureIds": [
+      "publishing"
+    ],
+    "area": "浦东 · 上海图书馆东馆",
+    "status": "unconfirmed",
+    "lastSeen": "2025-11-28",
+    "note": "2025 年 11 月 21–23 日在上海图书馆东馆举办的进口艺术图书展；只读到搜索摘要，是否每年举办待确认。",
+    "placeId": "shanghai-library-east",
+    "geo": {
+      "lat": 31.217,
+      "lng": 121.556,
+      "precision": "place",
+      "via": "精选库 shanghai-library-east"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Pudong aims to build a global hub for art book trade（仅读到搜索摘要）",
+        "url": "https://english.shanghai.gov.cn/en-Events/20251128/c8c5815b83a74aca9699b5c29a56bc23.html",
+        "date": "2025-11-28"
+      }
+    ]
+  },
+  {
+    "id": "fotografiska",
+    "name": "Fotografiska 影像艺术中心",
+    "kind": "institution",
+    "cultureIds": [
+      "art",
+      "music"
+    ],
+    "area": "苏州河沿线（静安）",
+    "status": "seen-active",
+    "lastSeen": "2026-03-07",
+    "note": "国际摄影艺术馆；每周三晚有爵士演出（需持展票）。",
+    "geo": {
+      "lat": 31.23975,
+      "lng": 121.46983,
+      "precision": "poi",
+      "via": "OSM：Fotografiska影像艺术中心, 127, 光复路"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Nine festive stops along Suzhou Creek",
+        "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20260214/3784b04ac19d4f46aaee26a5026bb81f.html",
+        "date": "2026-02-14"
+      },
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Shanghai Jazz Guide",
+        "url": "https://www.smartshanghai.com/articles/music/the-shanghai-jazz-guide",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "shanghai-edge",
+    "name": "上海EDGE",
+    "kind": "institution",
+    "cultureIds": [
+      "art",
+      "acg"
+    ],
+    "area": "苏州河沿线（静安）",
+    "status": "seen-active",
+    "lastSeen": "2026-02-14",
+    "note": "展览空间，2026 年初办过《中国奇谭》大型沉浸式动画展。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Nine festive stops along Suzhou Creek",
+        "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20260214/3784b04ac19d4f46aaee26a5026bb81f.html",
+        "date": "2026-02-14"
+      }
+    ]
+  },
+  {
+    "id": "m50",
+    "name": "莫干山路 50 号 M50 创意园",
+    "kind": "institution",
+    "cultureIds": [
+      "art",
+      "craft"
+    ],
+    "area": "普陀 · 莫干山路 50 号",
+    "status": "seen-active",
+    "lastSeen": "2025-05-23",
+    "note": "由春明粗纺厂改造的艺术园区，莫干山路特色街区有非遗、手作和创意市集。",
+    "questIds": [
+      "sz-m50"
+    ],
+    "geo": {
+      "lat": 31.2495,
+      "lng": 121.4505,
+      "precision": "place",
+      "via": "探索任务 sz-m50"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Dragon boat meets citywalk along Suzhou Creek",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250523/9dec9f5d3afc49ef92fd23064aa42275.html",
+        "date": "2025-05-23"
+      }
+    ]
+  },
+  {
+    "id": "psa",
+    "name": "上海当代艺术博物馆（PSA）",
+    "kind": "institution",
+    "cultureIds": [
+      "art"
+    ],
+    "area": "黄浦 · 南外滩",
+    "status": "seen-active",
+    "lastSeen": "2026-06-11",
+    "note": "由南市发电厂改造的公立当代艺术馆，上海双年展的主场。",
+    "placeId": "power-station-of-art",
+    "geo": {
+      "lat": 31.208,
+      "lng": 121.492,
+      "precision": "place",
+      "via": "精选库 power-station-of-art"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：PSA June shows",
+        "url": "https://english.shanghai.gov.cn/en-CulturalandArtisticExperiences-Videos-WhatsNew/20260611/bfa5459d0f084b9fba7437c7bce833ed.html",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
+    "id": "west-bund-museum",
+    "name": "西岸美术馆",
+    "kind": "institution",
+    "cultureIds": [
+      "art"
+    ],
+    "area": "徐汇 · 西岸",
+    "status": "seen-active",
+    "lastSeen": "2024-09-19",
+    "note": "与蓬皮杜中心合作的美术馆，2024 年续签第二个五年。",
+    "placeId": "west-bund-museum",
+    "geo": {
+      "lat": 31.168,
+      "lng": 121.464,
+      "precision": "place",
+      "via": "精选库 west-bund-museum"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：West Bund × Centre Pompidou second phase",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20240919/afab99e34a7749b1be1e5b0713b59cc3.html",
+        "date": "2024-09-19"
+      }
+    ]
+  },
+  {
+    "id": "zx-chuangqu",
+    "name": "百联ZX创趣场",
+    "kind": "institution",
+    "cultureIds": [
+      "acg"
+    ],
+    "area": "黄浦 · 南京东路（原华联商厦）",
+    "status": "seen-active",
+    "lastSeen": "2025-04-09",
+    "note": "2023 年 1 月开业的上海首个二次元垂类商场，引入 40 多个二次元品牌；开业两年销售额超 7 亿元。",
+    "geo": {
+      "lat": 31.23717,
+      "lng": 121.48373,
+      "precision": "street",
+      "via": "OSM 街道：南京东路"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "第一财经：百联ZX与谷子经济（刘晓洁）",
+        "url": "https://www.yicai.com/news/102562147.html",
+        "date": "2025-04-09"
+      },
+      {
+        "kind": "news",
+        "name": "澎湃新闻·湃客：谷子经济",
+        "url": "https://www.thepaper.cn/newsDetail_forward_29726915",
+        "date": "2024-12-23"
+      }
+    ]
+  },
+  {
+    "id": "zx-zaoqu",
+    "name": "百联ZX造趣场",
+    "kind": "institution",
+    "cultureIds": [
+      "acg"
+    ],
+    "area": "杨浦 · 五角场",
+    "status": "seen-active",
+    "lastSeen": "2025-04-09",
+    "note": "百联第二个 ZX 项目，2024 年底开业，入驻 60 多个品牌。",
+    "geo": {
+      "lat": 31.29821,
+      "lng": 121.51603,
+      "precision": "poi",
+      "via": "OSM：百联ZX造趣场, 黄兴路地道, 五角场"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "第一财经：百联ZX与谷子经济（刘晓洁）",
+        "url": "https://www.yicai.com/news/102562147.html",
+        "date": "2025-04-09"
+      }
+    ]
+  },
+  {
+    "id": "joy-city",
+    "name": "静安大悦城",
+    "kind": "institution",
+    "cultureIds": [
+      "acg"
+    ],
+    "area": "静安 · 苏州河边",
+    "status": "seen-active",
+    "lastSeen": "2026-02-14",
+    "note": "年轻人取向的商场，屋顶摩天轮；完成了二次元改造，节假日有二次元市集。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Nine festive stops along Suzhou Creek",
+        "url": "https://english.shanghai.gov.cn/en-SpecialtyShoppingAreas/20260214/3784b04ac19d4f46aaee26a5026bb81f.html",
+        "date": "2026-02-14"
+      },
+      {
+        "kind": "news",
+        "name": "第一财经：百联ZX与谷子经济（刘晓洁）",
+        "url": "https://www.yicai.com/news/102562147.html",
+        "date": "2025-04-09"
+      }
+    ]
+  },
+  {
+    "id": "metro-city-jump",
+    "name": "美罗城 Jump Shop",
+    "kind": "institution",
+    "cultureIds": [
+      "acg"
+    ],
+    "area": "徐汇 · 徐家汇美罗城",
+    "status": "seen-active",
+    "lastSeen": "2025-04-09",
+    "note": "美罗城里的 Jump Shop 专区，第一财经把美罗城列为上海做了二次元改造的商场之一。",
+    "geo": {
+      "lat": 31.19304,
+      "lng": 121.44018,
+      "precision": "poi",
+      "via": "OSM：美罗城, 漕溪北路, 徐家汇"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "第一财经：百联ZX与谷子经济（刘晓洁）",
+        "url": "https://www.yicai.com/news/102562147.html",
+        "date": "2025-04-09"
+      }
+    ]
+  },
+  {
+    "id": "shanghai-marathon",
+    "name": "上海马拉松",
+    "kind": "project",
+    "cultureIds": [
+      "cycling-running"
+    ],
+    "area": "外滩金牛起跑",
+    "status": "seen-active",
+    "lastSeen": "2026-04-27",
+    "note": "每年 12 月的城市马拉松，2026 年名额扩到 3 万人；前一天有迷你马拉松。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Get ready: 2026 Shanghai Marathon registration starts April 29",
+        "url": "https://english.shanghai.gov.cn/en-SportsEvents/20260427/8152288074a44b44a7efbfd4b0b67797.html",
+        "date": "2026-04-27"
+      }
+    ]
+  },
+  {
+    "id": "xuhui-riverside-run",
+    "name": "徐汇滨江",
+    "kind": "public",
+    "cultureIds": [
+      "cycling-running",
+      "action-sports"
+    ],
+    "area": "徐汇 · 龙华到西岸",
+    "status": "seen-active",
+    "lastSeen": "2025-05-27",
+    "note": "有滑板公园的滨江开放空间，是跑步、骑行和滑板的热门路线。",
+    "placeId": "xuhui-riverside",
+    "geo": {
+      "lat": 31.174,
+      "lng": 121.465,
+      "precision": "place",
+      "via": "精选库 xuhui-riverside"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Ultimate guide to Huangpu's riverside wonders",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250527/0ed4212054564179be6a914ba23c32b1.html",
+        "date": "2025-05-27"
+      }
+    ]
+  },
+  {
+    "id": "yangpu-three-lanes",
+    "name": "杨浦滨江三道",
+    "kind": "public",
+    "cultureIds": [
+      "cycling-running"
+    ],
+    "area": "杨浦 · 滨江南段",
+    "status": "seen-active",
+    "lastSeen": "2024-11-04",
+    "note": "南段 5.5 公里漫步道、跑步道、骑行道分开贯通。",
+    "questIds": [
+      "yp-renrenwu"
+    ],
+    "geo": {
+      "lat": 31.257,
+      "lng": 121.53,
+      "precision": "place",
+      "via": "探索任务 yp-renrenwu"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "人民日报（2024-11-04 第 14 版）",
+        "url": "https://paper.people.com.cn/rmrbwap/html/2024-11/04/nw.D110000renmrb_20241104_1-14.htm",
+        "date": "2024-11-04"
+      }
+    ]
+  },
+  {
+    "id": "suzhou-creek-path",
+    "name": "苏州河 42 公里步道",
+    "kind": "public",
+    "cultureIds": [
+      "cycling-running"
+    ],
+    "area": "外环到外白渡桥",
+    "status": "seen-active",
+    "lastSeen": "2021-01-22",
+    "note": "2020 年底贯通的滨水步道，沿线有人跑步、跳舞、玩滑板。",
+    "questIds": [
+      "sz-open-walls"
+    ],
+    "geo": {
+      "lat": 31.2385,
+      "lng": 121.425,
+      "precision": "place",
+      "via": "探索任务 sz-open-walls"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily 香港版：苏州河步道贯通",
+        "url": "https://chinadailyhk.com/hk/article/155746",
+        "date": "2021-01-22"
+      }
+    ]
+  },
+  {
+    "id": "dock1-skate",
+    "name": "1 号船坞滑板公园",
+    "kind": "public",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "area": "黄浦滨江",
+    "status": "seen-active",
+    "lastSeen": "2025-05-27",
+    "note": "2024 年奥运会资格系列赛的滑板比赛场地，政府开放日在这里办过霹雳舞、攀岩、小轮车和滑板体验。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Open Day offers sports adventure at Huangpu Riverside",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20240627/767f196095df48c68f7a4d9449ea54ec.html",
+        "date": "2024-06-27"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Ultimate guide to Huangpu's riverside wonders",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250527/0ed4212054564179be6a914ba23c32b1.html",
+        "date": "2025-05-27"
+      }
+    ]
+  },
+  {
+    "id": "xuhui-skatepark",
+    "name": "徐汇滨江滑板公园",
+    "kind": "public",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "area": "徐汇 · 滨江",
+    "status": "seen-active",
+    "lastSeen": "2025-05-27",
+    "note": "市文旅局滨江体育路线的起点。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Ultimate guide to Huangpu's riverside wonders",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250527/0ed4212054564179be6a914ba23c32b1.html",
+        "date": "2025-05-27"
+      }
+    ]
+  },
+  {
+    "id": "fantasy-bubble",
+    "name": "梦幻泡泡（制皂厂旧址）",
+    "kind": "business",
+    "cultureIds": [
+      "craft"
+    ],
+    "area": "杨浦 · 滨江南段",
+    "status": "seen-active",
+    "lastSeen": "2025-04-09",
+    "note": "原制皂厂生产辅助区，现在卖肥皂、可以动手做肥皂，还有互动艺术装置。",
+    "ageNote": "DIY 适合 9 岁。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Uncover century-old industrial relics along Yangpu riverside",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "date": "2025-04-09"
+      }
+    ]
+  },
+  {
+    "id": "bamboo-carving-museum",
+    "name": "嘉定竹刻博物馆",
+    "kind": "institution",
+    "cultureIds": [
+      "craft"
+    ],
+    "area": "嘉定老城",
+    "status": "seen-active",
+    "lastSeen": "2013-07-05",
+    "note": "国家级非遗嘉定竹刻的博物馆。资料较旧，出发前确认开放。",
+    "questIds": [
+      "jd-bamboo"
+    ],
+    "geo": {
+      "lat": 31.3825,
+      "lng": 121.2505,
+      "precision": "place",
+      "via": "探索任务 jd-bamboo"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "China Daily 嘉定频道：Jiading bamboo carving",
+        "url": "https://subsites.chinadaily.com.cn/jiading/2013-07/05/c_709219.htm",
+        "date": "2013-07-05"
+      }
+    ]
+  },
+  {
+    "id": "sfc",
+    "name": "上海影城（SFC）",
+    "kind": "institution",
+    "cultureIds": [
+      "film"
+    ],
+    "area": "长宁 · 新华路 160 号",
+    "status": "seen-active",
+    "lastSeen": "2026-06-17",
+    "note": "全市第一家五星级影院、上海国际电影节主场，1993 年首届电影节在这里举办；2023 年改造后有亚洲第一个杜比影院。",
+    "geo": {
+      "lat": 31.20284,
+      "lng": 121.42955,
+      "precision": "poi",
+      "via": "OSM：上海影城, 160, 新华路"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Beyond the screen: A cinematic trail through Changning",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20260617/f591d5176a6c4ca19127833695db9ece.html",
+        "date": "2026-06-17"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：28th SIFF announces 52 screening venues",
+        "url": "https://english.shanghai.gov.cn/en-28thSIFF&31stShanghaiTVFestival/20260526/a078953d92894d40a6f562aba36b5add.html",
+        "date": "2026-05-26"
+      }
+    ]
+  },
+  {
+    "id": "sfc-art-center",
+    "name": "上海电影艺术中心",
+    "kind": "institution",
+    "cultureIds": [
+      "film"
+    ],
+    "area": "长宁 · 新华路 200 号",
+    "status": "seen-active",
+    "lastSeen": "2024-06-19",
+    "note": "2024 年在新华路一座历史洋房里揭幕，计划办面向电影从业者和影迷的论坛和放映。",
+    "geo": {
+      "lat": 31.20546,
+      "lng": 121.41876,
+      "precision": "street",
+      "via": "OSM 街道：新华路"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Shanghai Film Art Center unveiled to public",
+        "url": "https://english.shanghai.gov.cn/en-Theaters/20240619/820ca8bf89ac487d806514a5b75d36f1.html",
+        "date": "2024-06-19"
+      }
+    ]
+  },
+  {
+    "id": "siff",
+    "name": "上海国际电影节",
+    "kind": "project",
+    "cultureIds": [
+      "film"
+    ],
+    "area": "全市 50 多家影院",
+    "status": "seen-active",
+    "lastSeen": "2026-05-26",
+    "note": "每年 6 月举办，2026 年 6 月 12–21 日，52 家放映影院。12 月不在节期。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：28th SIFF announces 52 screening venues",
+        "url": "https://english.shanghai.gov.cn/en-28thSIFF&31stShanghaiTVFestival/20260526/a078953d92894d40a6f562aba36b5add.html",
+        "date": "2026-05-26"
+      }
+    ]
+  },
+  {
+    "id": "grand-cinema",
+    "name": "大光明电影院",
+    "kind": "institution",
+    "cultureIds": [
+      "film"
+    ],
+    "area": "黄浦 · 南京西路一带",
+    "status": "seen-active",
+    "lastSeen": "2026-05-26",
+    "note": "邬达克设计的老影院，2026 年仍是电影节放映点。",
+    "geo": {
+      "lat": 31.23293,
+      "lng": 121.47108,
+      "precision": "poi",
+      "via": "OSM：大光明电影院, 南京西路, 江阴社区"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：28th SIFF announces 52 screening venues",
+        "url": "https://english.shanghai.gov.cn/en-28thSIFF&31stShanghaiTVFestival/20260526/a078953d92894d40a6f562aba36b5add.html",
+        "date": "2026-05-26"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Beyond the screen: A cinematic trail through Changning",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20260617/f591d5176a6c4ca19127833695db9ece.html",
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "id": "z58",
+    "name": "Z58",
+    "kind": "institution",
+    "cultureIds": [
+      "film",
+      "art"
+    ],
+    "area": "长宁 · 番禺路 58 号",
+    "status": "seen-active",
+    "lastSeen": "2026-06-17",
+    "note": "原三层手表厂，现在是商业空间，电影《小时代》取景地。",
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Beyond the screen: A cinematic trail through Changning",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20260617/f591d5176a6c4ca19127833695db9ece.html",
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "id": "mosu-space",
+    "name": "模速空间",
+    "kind": "institution",
+    "cultureIds": [
+      "ai-digital"
+    ],
+    "area": "徐汇 · 西岸（龙耀路地铁站附近）",
+    "status": "seen-active",
+    "lastSeen": "2025-04-29",
+    "note": "2023 年 9 月揭牌的大模型产业社区，入驻 100 多家企业；有上海首家人工智能产品体验店，可以试戴智能眼镜、和下棋机器人对弈。",
+    "geo": {
+      "lat": 31.15958,
+      "lng": 121.45975,
+      "precision": "street",
+      "via": "OSM 街道：龙耀路"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "新华网：模速空间",
+        "url": "https://www.news.cn/local/20250429/cccd7b29f3b7487480cc16af49530787/c.html",
+        "date": "2025-04-29"
+      }
+    ]
+  },
+  {
+    "id": "symphony-hall",
+    "name": "上海交响乐团音乐厅",
+    "kind": "institution",
+    "cultureIds": [
+      "music"
+    ],
+    "area": "徐汇 · 复兴中路",
+    "status": "seen-active",
+    "lastSeen": "2019-03-05",
+    "note": "矶崎新设计、坐在弹簧上隔振的音乐厅，有 1200 座和 400 座两个厅。",
+    "questIds": [
+      "hf-symphony"
+    ],
+    "geo": {
+      "lat": 31.2125,
+      "lng": 121.4485,
+      "precision": "place",
+      "via": "探索任务 hf-symphony"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "Designboom：Arata Isozaki projects",
+        "url": "https://www.designboom.com/architecture/arata-isozaki-projects-pritzker-laureate-03-05-2019/",
+        "date": "2019-03-05"
+      }
+    ]
+  },
+  {
+    "id": "theatre-young",
+    "name": "YOUNG 剧场（杨浦）",
+    "kind": "institution",
+    "cultureIds": [
+      "theatre"
+    ],
+    "area": "杨浦",
+    "status": "unconfirmed",
+    "lastSeen": "2025",
+    "note": "只读到搜索摘要：2025 年 9 月至 2026 年 3 月有秋冬演季。待确认。",
+    "geo": {
+      "lat": 31.27823,
+      "lng": 121.52863,
+      "precision": "poi",
+      "via": "OSM：YOUNG剧场绿匣子, 控江路, 控江路街道"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：文化演出列表（Theatre Young 秋冬演季，仅读到搜索摘要）",
+        "url": "https://english.shanghai.gov.cn/en-CulturalPerformances/",
+        "date": "2025"
+      }
+    ]
+  },
+  {
+    "id": "asia-building",
+    "name": "亚洲大厦「星空间」",
+    "kind": "institution",
+    "cultureIds": [
+      "theatre",
+      "games"
+    ],
+    "area": "黄浦 · 人民广场附近",
+    "status": "seen-active",
+    "lastSeen": "2025-05-26",
+    "note": "一栋写字楼里有 19 个「星空间」小剧场，2020 年 8 月建成第一个，累计演出超过 1 万场；2025 年 1–5 月演了 1868 场，观众以年轻人为主。",
+    "ageNote": "剧目差别很大，按剧目说明选。",
+    "geo": {
+      "lat": 31.23394,
+      "lng": 121.47808,
+      "precision": "poi",
+      "via": "OSM：亚洲大厦, 汉口路, 中福城三期"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "新华网：亚洲大厦「星空间」",
+        "url": "https://www.news.cn/fortune/20250526/5f938e7f12ca45bcadb7081885f88c59/c.html",
+        "date": "2025-05-26"
+      }
+    ]
+  },
+  {
+    "id": "first-department-store-stages",
+    "name": "上海第一百货 · 沉浸式小剧场",
+    "kind": "institution",
+    "cultureIds": [
+      "theatre",
+      "games"
+    ],
+    "area": "黄浦 · 南京东路",
+    "status": "seen-active",
+    "lastSeen": "2025-05-26",
+    "note": "老百货改造出 19 个沉浸式小剧场，穹顶剧场可容纳 400 人。",
+    "geo": {
+      "lat": 31.23717,
+      "lng": 121.48373,
+      "precision": "street",
+      "via": "OSM 街道：南京东路"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "新华网：亚洲大厦「星空间」",
+        "url": "https://www.news.cn/fortune/20250526/5f938e7f12ca45bcadb7081885f88c59/c.html",
+        "date": "2025-05-26"
+      }
+    ]
+  },
+  {
+    "id": "comedy-un",
+    "name": "喜剧联合国",
+    "kind": "business",
+    "cultureIds": [
+      "comedy"
+    ],
+    "area": "上海（来源未给地址）",
+    "status": "seen-active",
+    "lastSeen": "2025-02",
+    "note": "约 150 座的小剧场脱口秀俱乐部，每年约 500 场，有沪语脱口秀拼盘；据报道观众从小朋友到老人都有。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "界面新闻：沪语脱口秀与上海脱口秀产业（徐鲁青）",
+        "url": "https://m.jiemian.com/article/12306031.html",
+        "date": "2025-02"
+      }
+    ]
+  },
+  {
+    "id": "infinite-climbing",
+    "name": "无界攀岩",
+    "kind": "business",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "area": "长宁 · 长宁路 88 号 King88 3 楼",
+    "status": "seen-active",
+    "lastSeen": "2026-08-31",
+    "note": "抱石、顶绳和先锋攀都有；最适合新手和家庭，有新手课，3 岁起可以攀。",
+    "ageNote": "9 岁和 16 岁都适合，先上新手课。",
+    "geo": {
+      "lat": 31.21808,
+      "lng": 121.38972,
+      "precision": "street",
+      "via": "OSM 街道：长宁路"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Collection: Rock Climbing Gyms",
+        "url": "https://www.smartshanghai.com/articles/sports-and-recreation/the-collection-rock-climbing-gyms",
+        "date": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "id": "roaring-climbing",
+    "name": "啸岩馆",
+    "kind": "business",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "area": "虹口 · 花园路 128 号",
+    "status": "seen-active",
+    "lastSeen": "2026-08-31",
+    "note": "抱石、顶绳和 4 条自动保护；3 岁起可由大人陪同，放学后和暑假孩子多。",
+    "geo": {
+      "lat": 31.27215,
+      "lng": 121.47454,
+      "precision": "street",
+      "via": "OSM 街道：花园路"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Collection: Rock Climbing Gyms",
+        "url": "https://www.smartshanghai.com/articles/sports-and-recreation/the-collection-rock-climbing-gyms",
+        "date": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "id": "rock-hour-gate-m",
+    "name": "岩时攀岩（西岸梦中心）",
+    "kind": "business",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "area": "徐汇 · 龙腾大道 2266 号 12 幢 2 楼",
+    "status": "seen-active",
+    "lastSeen": "2026-08-31",
+    "note": "在西岸改造的混凝土筒仓里，约 1100 平方米，只有绳索攀（顶绳、先锋、自动保护、速度）；第一次来要提前约教练。",
+    "geo": {
+      "lat": 31.1604,
+      "lng": 121.46615,
+      "precision": "poi",
+      "via": "OSM：西岸梦中心, 龙华街道, 徐汇区"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Collection: Rock Climbing Gyms",
+        "url": "https://www.smartshanghai.com/articles/sports-and-recreation/the-collection-rock-climbing-gyms",
+        "date": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "id": "stonehaven-climbing",
+    "name": "Stonehaven 攀岩馆",
+    "kind": "business",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "area": "徐汇 · 龙华街 2778 号龙华汇 C5 幢 2 楼",
+    "status": "seen-active",
+    "lastSeen": "2026-08-31",
+    "note": "只有抱石，低难度线路也不算简单。",
+    "geo": {
+      "lat": 31.17363,
+      "lng": 121.45361,
+      "precision": "poi",
+      "via": "OSM：龙华会, 2778, 龙华"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Collection: Rock Climbing Gyms",
+        "url": "https://www.smartshanghai.com/articles/sports-and-recreation/the-collection-rock-climbing-gyms",
+        "date": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "id": "banana-plus-lightbox",
+    "name": "香蕉攀岩 BANANA+（Lightbox）",
+    "kind": "business",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "area": "静安 · 天目西路 218 号 The Lightbox B1",
+    "status": "seen-active",
+    "lastSeen": "2026-08-31",
+    "note": "只有抱石，有新手区和教练。",
+    "geo": {
+      "lat": 31.24603,
+      "lng": 121.4548,
+      "precision": "street",
+      "via": "OSM 街道：天目西路"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Collection: Rock Climbing Gyms",
+        "url": "https://www.smartshanghai.com/articles/sports-and-recreation/the-collection-rock-climbing-gyms",
+        "date": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "id": "banana-changning",
+    "name": "香蕉攀岩（长宁 C Park 海粟）",
+    "kind": "business",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "area": "长宁 · 昭化路 658 号 A 幢 104–105",
+    "status": "seen-active",
+    "lastSeen": "2025-07-21",
+    "note": "约 1000 平方米，有全市最大的抱石墙，120 多条线路每月换一次。",
+    "geo": {
+      "lat": 31.21158,
+      "lng": 121.42393,
+      "precision": "street",
+      "via": "OSM 街道：昭化路"
+    },
+    "sources": [
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网：Banana Climbing launches second Shanghai venue in Changning",
+        "url": "https://english.shanghai.gov.cn/en-Fitness/20250721/e484c72d3646431cb5a8201eb2ba0dfc.html",
+        "date": "2025-07-21"
+      }
+    ]
+  },
+  {
+    "id": "kl-climbing",
+    "name": "克莱攀岩公园",
+    "kind": "business",
+    "cultureIds": [
+      "action-sports"
+    ],
+    "area": "闵行 · 宜梅路 91 号丽波 1987 7 幢",
+    "status": "seen-active",
+    "lastSeen": "2026-08-31",
+    "note": "抱石、顶绳、先锋、自动保护和速度攀都有，自动保护线路对新手友好。",
+    "sources": [
+      {
+        "kind": "news",
+        "name": "SmartShanghai：The Collection: Rock Climbing Gyms",
+        "url": "https://www.smartshanghai.com/articles/sports-and-recreation/the-collection-rock-climbing-gyms",
+        "date": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "id": "grand-opera-house",
+    "name": "上海大歌剧院",
+    "kind": "institution",
+    "cultureIds": [
+      "theatre",
+      "music"
+    ],
+    "area": "浦东 · 世博文化公园",
+    "status": "seen-active",
+    "lastSeen": "2026-10-20",
+    "note": "2026 年 10 月 17 日开幕的大歌剧院，有红厅、申厅、镜厅，共 4200 座；开幕演出季到 2027 年 2 月 20 日，47 台 82 场。",
+    "placeId": "expo-culture-park",
+    "geo": {
+      "lat": 31.188,
+      "lng": 121.486,
+      "precision": "place",
+      "via": "精选库 expo-culture-park"
+    },
+    "sources": [
+      {
+        "kind": "news",
+        "name": "CGTN：Shanghai Grand Opera House opens to the public",
+        "url": "https://news.cgtn.com/news/2026-10-20/Shanghai-Grand-Opera-House-opens-to-the-public-1RotSukAeQg/share_amp.html",
+        "date": "2026-10-20"
+      },
+      {
+        "kind": "news",
+        "name": "第一财经：上海大歌剧院开幕演出季（葛怡婷）",
+        "url": "https://www.yicai.com/news/103263260.html",
+        "date": "2026-07-07"
+      },
+      {
+        "kind": "news",
+        "name": "澎湃新闻：上海大歌剧院开幕演出季发布",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33529286",
+        "date": "2026-07-06"
+      }
+    ]
+  }
+]

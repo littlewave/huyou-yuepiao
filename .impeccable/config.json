@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "design-system-font",
+        "value": "menlo",
+        "createdAt": "2026-10-28T03:50:15.637Z",
+        "reason": "model decision: monospace only in the Pass export/import textarea, which holds raw JSON data, not UI type"
+      }
+    ]
+  }
+}

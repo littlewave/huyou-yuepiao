@@ -1,0 +1,1881 @@
+[
+  {
+    "id": "pudong-museum-of-art",
+    "name": "浦东美术馆",
+    "area": "浦东 · 陆家嘴滨江",
+    "areaId": "lujiazui",
+    "themes": [
+      "art"
+    ],
+    "topics": [
+      "architecture/contemporary",
+      "culture/visual-art"
+    ],
+    "setting": "indoor",
+    "hours": 3,
+    "lat": 31.2405,
+    "lng": 121.493,
+    "localReason": "让·努维尔设计的江边白盒子，本地人冲着引进的国际大展来，看完在镜厅隔江看外滩。",
+    "kid9": "镜厅和超大挑高空间，光是走一圈就够新鲜。",
+    "kid16": "常有国际级特展，能看到课本里的原作。",
+    "december": "展期常换，出发前看当期展览。",
+    "booking": "required",
+    "hook": "在镜厅里，一边看展一边隔江看外滩",
+    "vibeTags": [
+      "开阔",
+      "出片"
+    ],
+    "bestVisitWindow": "工作日上午开馆时",
+    "avoidWindow": "周末下午",
+    "antiSignals": [
+      "需实名预约，热门大展要提前抢"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "duoyun-books-shanghai-tower",
+    "name": "朵云书院·旗舰店",
+    "area": "浦东 · 上海中心 52 层",
+    "areaId": "lujiazui",
+    "themes": [
+      "books"
+    ],
+    "topics": [
+      "culture/publishing",
+      "architecture/contemporary"
+    ],
+    "setting": "indoor",
+    "hours": 1.5,
+    "lat": 31.2335,
+    "lng": 121.5055,
+    "localReason": "开在云端的书店，不用买观光厅门票也能在 239 米高处看书、喝咖啡。",
+    "kid9": "坐超快电梯上去，从窗边找自己家的方向。",
+    "kid16": "选书、坐下写作业，比观光层安静得多。",
+    "booking": "unknown",
+    "hook": "不买观光票，也能在 239 米高处坐下来看书",
+    "vibeTags": [
+      "安静",
+      "适合独处"
+    ],
+    "bestVisitWindow": "工作日下午",
+    "avoidWindow": "晴天的周末",
+    "antiSignals": [
+      "电梯口可能排队"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "expo-culture-park",
+    "name": "世博文化公园",
+    "area": "浦东 · 世博片区",
+    "areaId": "expo-qiantan",
+    "themes": [
+      "nature",
+      "walk"
+    ],
+    "topics": [
+      "ecology/urban-green",
+      "fabric/renewal"
+    ],
+    "eras": [
+      "now"
+    ],
+    "setting": "mixed",
+    "hours": 4,
+    "lat": 31.188,
+    "lng": 121.486,
+    "localReason": "世博会旧址上新建的城市大公园，有人造的双子山和大温室，是浦东人周末的新去处。",
+    "kid9": "爬双子山、在大草坪上跑，温室里看热带植物。",
+    "kid16": "上山顶看黄浦江两岸，感受世博会之后这片地的变化。",
+    "december": "冬天户外偏冷，温室是主角；温室可能单独购票。",
+    "booking": "recommended",
+    "hook": "世博会旧址上堆出来的一座山，加一个冬天也暖的大温室",
+    "vibeTags": [
+      "开阔",
+      "遛娃"
+    ],
+    "bestVisitWindow": "晴天上午",
+    "avoidWindow": "阴冷的雨天",
+    "nextGlance": {
+      "name": "上海大歌剧院屋顶",
+      "note": "10 月 17 日开幕，据报道屋顶步道对公众开放"
+    },
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      },
+      {
+        "kind": "news",
+        "name": "CGTN（大歌剧院开幕）",
+        "url": "https://news.cgtn.com/news/2026-10-20/Shanghai-Grand-Opera-House-opens-to-the-public-1RotSukAeQg/share_amp.html",
+        "date": "2026-10-20"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shanghai-library-east",
+    "name": "上海图书馆东馆",
+    "area": "浦东 · 世纪公园旁",
+    "areaId": "century-avenue",
+    "themes": [
+      "books"
+    ],
+    "topics": [
+      "culture/publishing",
+      "architecture/contemporary"
+    ],
+    "eras": [
+      "now"
+    ],
+    "setting": "indoor",
+    "hours": 3,
+    "lat": 31.217,
+    "lng": 121.556,
+    "localReason": "2022 年开放的新馆，像一块悬浮的石头，周末满是来自习、看展的年轻人和家长。",
+    "kid9": "有专门的少儿区，可以坐在地上读一下午。",
+    "kid16": "大阅览空间适合自习，常有免费讲座和展览。",
+    "booking": "unknown",
+    "hook": "像一块悬浮的石头，周末满是来自习的上海人",
+    "vibeTags": [
+      "安静",
+      "本地人多",
+      "学习感"
+    ],
+    "bestVisitWindow": "工作日",
+    "avoidWindow": "周末下午（座位紧）",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shanghai-museum-east",
+    "name": "上海博物馆东馆",
+    "area": "浦东 · 世纪大道",
+    "areaId": "century-avenue",
+    "themes": [
+      "heritage",
+      "art"
+    ],
+    "topics": [
+      "layers/archives",
+      "culture/visual-art"
+    ],
+    "eras": [
+      "now"
+    ],
+    "setting": "indoor",
+    "hours": 4,
+    "lat": 31.219,
+    "lng": 121.547,
+    "localReason": "2024 年起陆续开放的上博新馆，展厅比人民广场老馆大得多，本地人重新排队看青铜器和书画。",
+    "kid9": "青铜器、古代玩具一类的展品，造型就很好玩。",
+    "kid16": "按朝代把中国艺术史串起来，比课本直观。",
+    "booking": "required",
+    "hook": "上博新馆，展厅大到可以慢慢逛一整天",
+    "vibeTags": [
+      "学习感",
+      "开阔"
+    ],
+    "bestVisitWindow": "工作日上午",
+    "avoidWindow": "节假日",
+    "antiSignals": [
+      "需实名预约"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "century-park",
+    "name": "世纪公园",
+    "area": "浦东 · 花木",
+    "areaId": "century-avenue",
+    "themes": [
+      "nature"
+    ],
+    "topics": [
+      "ecology/urban-green",
+      "architecture/landscape"
+    ],
+    "setting": "outdoor",
+    "hours": 2.5,
+    "lat": 31.22,
+    "lng": 121.551,
+    "localReason": "浦东本地家庭的“后花园”，租双人自行车绕湖一圈，可以和图书馆东馆、上博东馆连着去。",
+    "kid9": "骑协力车、喂鸽子、草坪上放风筝。",
+    "kid16": "自己骑车绕湖，顺路去图书馆。",
+    "december": "天气好的晴天再去，阴雨天不如换去室内。",
+    "booking": "none",
+    "hook": "浦东人的后花园，租一辆协力车绕湖一圈",
+    "vibeTags": [
+      "本地人多",
+      "遛娃",
+      "开阔"
+    ],
+    "bestVisitWindow": "晴天上午",
+    "avoidWindow": "雨天",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "east-bund-riverside",
+    "name": "东岸滨江步道",
+    "area": "浦东 · 陆家嘴 → 民生码头",
+    "areaId": "east-bund",
+    "themes": [
+      "walk",
+      "heritage"
+    ],
+    "topics": [
+      "fabric/renewal",
+      "infrastructure/port",
+      "ecology/rivers"
+    ],
+    "eras": [
+      "now"
+    ],
+    "setting": "outdoor",
+    "hours": 2.5,
+    "lat": 31.244,
+    "lng": 121.515,
+    "localReason": "浦东沿江 20 多公里贯通的步道，本地人跑步骑车的地方，一路是旧码头、仓库改造的建筑。",
+    "kid9": "沿江骑车、看江上的船，比外滩宽敞得多。",
+    "kid16": "看老工业码头怎么变成公共空间。",
+    "booking": "none",
+    "hook": "从陆家嘴走到民生码头，看老码头一个个变成公园",
+    "vibeTags": [
+      "开阔",
+      "适合观察街景"
+    ],
+    "bestVisitWindow": "傍晚",
+    "avoidWindow": "大风天",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shipyard-1862",
+    "name": "船厂 1862",
+    "area": "浦东 · 陆家嘴滨江",
+    "areaId": "lujiazui",
+    "themes": [
+      "heritage",
+      "art"
+    ],
+    "topics": [
+      "infrastructure/industrial-heritage",
+      "architecture/adaptive-reuse"
+    ],
+    "setting": "indoor",
+    "hours": 1.5,
+    "lat": 31.243,
+    "lng": 121.509,
+    "localReason": "百年老船厂厂房，隈研吾改成剧场和展览空间，红砖立面是白领拍照的去处。",
+    "kid9": "巨大的老厂房和船坞遗迹，可以想象以前造船的样子。",
+    "kid16": "看一栋工业建筑怎么被改造成剧场，有演出可以顺便看一场。",
+    "booking": "none",
+    "hook": "隈研吾把百年船厂改成了剧场",
+    "vibeTags": [
+      "出片",
+      "怀旧"
+    ],
+    "bestVisitWindow": "傍晚灯亮时",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "minsheng-wharf-silo",
+    "name": "民生码头 8 万吨筒仓",
+    "area": "浦东 · 民生路",
+    "areaId": "east-bund",
+    "themes": [
+      "heritage",
+      "art"
+    ],
+    "topics": [
+      "infrastructure/port",
+      "architecture/adaptive-reuse"
+    ],
+    "setting": "mixed",
+    "hours": 2,
+    "lat": 31.244,
+    "lng": 121.525,
+    "localReason": "曾是亚洲最大的粮仓，外墙挂着长长的自动扶梯，有展览时开放，是城市空间艺术季的场地。",
+    "kid9": "沿着挂在外墙上的扶梯往上走，很像探险。",
+    "kid16": "工业遗产改造的典型案例，适合拍照和写作业。",
+    "december": "只有办展期间开放，出发前一定要确认。",
+    "booking": "unknown",
+    "hook": "顺着挂在外墙上的扶梯，爬上亚洲最大的老粮仓",
+    "vibeTags": [
+      "出片",
+      "怀旧"
+    ],
+    "bestVisitWindow": "有展期间",
+    "avoidWindow": "没有展的时候（不开放）",
+    "antiSignals": [
+      "只有办展期间开放"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "huangpu-ferry",
+    "name": "黄浦江轮渡（东昌路—金陵东路）",
+    "area": "浦东 ↔ 黄浦",
+    "areaId": "lujiazui",
+    "themes": [
+      "walk"
+    ],
+    "topics": [
+      "infrastructure/transit",
+      "rhythm/commute",
+      "ecology/rivers"
+    ],
+    "setting": "mixed",
+    "hours": 0.5,
+    "lat": 31.237,
+    "lng": 121.501,
+    "localReason": "上海人的通勤渡轮，几元钱十分钟过江，比观光游船更像真正的上海生活。",
+    "kid9": "坐上真正的渡轮，船上还有骑电动车的人一起过江。",
+    "kid16": "从江面上同时看外滩和陆家嘴，正好讲讲爸爸小时候的浦东。",
+    "booking": "none",
+    "hook": "花几块钱、十分钟，和上班族一起坐渡轮过江",
+    "vibeTags": [
+      "本地人多",
+      "适合观察街景",
+      "怀旧"
+    ],
+    "bestVisitWindow": "早晚通勤时段，最有生活气",
+    "nextGlance": {
+      "name": "金陵东路骑楼",
+      "note": "一下船就是金陵东路，上海少见的骑楼街"
+    },
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      },
+      {
+        "kind": "reddit",
+        "name": "r/shanghai",
+        "url": "https://redlib.belloworld.it/r/shanghai/comments/1czh2y7/weekend_in_shanghai",
+        "date": "2024-05-24",
+        "note": "匿名帖子，通过镜像站访问"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "west-bund-museum",
+    "name": "西岸美术馆",
+    "area": "徐汇 · 西岸",
+    "areaId": "west-bund",
+    "themes": [
+      "art"
+    ],
+    "topics": [
+      "culture/visual-art",
+      "architecture/contemporary"
+    ],
+    "eras": [
+      "now"
+    ],
+    "setting": "indoor",
+    "hours": 2.5,
+    "lat": 31.168,
+    "lng": 121.464,
+    "localReason": "徐汇滨江的白领周末标配：大卫·奇普菲尔德设计的展馆，看完沿江骑车、喝咖啡。",
+    "kid9": "空间开阔，展厅外就是江边草坪。",
+    "kid16": "和蓬皮杜中心合作的常设展（2024 年起第二个五年合作），是看现当代艺术的好入门。",
+    "booking": "recommended",
+    "hook": "蓬皮杜中心在亚洲的合作馆，就在徐汇江边",
+    "vibeTags": [
+      "安静",
+      "开阔"
+    ],
+    "bestVisitWindow": "工作日下午",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网",
+        "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20240919/afab99e34a7749b1be1e5b0713b59cc3.html",
+        "date": "2024-09-19"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "long-museum-west-bund",
+    "name": "龙美术馆（西岸馆）",
+    "area": "徐汇 · 西岸",
+    "areaId": "west-bund",
+    "themes": [
+      "art"
+    ],
+    "topics": [
+      "culture/visual-art",
+      "architecture/adaptive-reuse"
+    ],
+    "eras": [
+      "now"
+    ],
+    "setting": "indoor",
+    "hours": 2,
+    "lat": 31.172,
+    "lng": 121.462,
+    "localReason": "清水混凝土伞拱下面保留着老煤运码头的漏斗桥，建筑本身就值得一去。",
+    "kid9": "看巨大的弧形混凝土“伞”和门口的老码头结构。",
+    "kid16": "私人美术馆的大型展览，常有当代艺术家个展。",
+    "booking": "recommended",
+    "hook": "混凝土伞拱下面，还留着运煤码头的漏斗桥",
+    "vibeTags": [
+      "出片",
+      "安静"
+    ],
+    "bestVisitWindow": "工作日",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "tank-shanghai",
+    "name": "油罐艺术中心",
+    "area": "徐汇 · 西岸",
+    "areaId": "west-bund",
+    "themes": [
+      "art",
+      "heritage"
+    ],
+    "topics": [
+      "architecture/adaptive-reuse",
+      "infrastructure/energy"
+    ],
+    "eras": [
+      "now"
+    ],
+    "setting": "mixed",
+    "hours": 2,
+    "lat": 31.16,
+    "lng": 121.463,
+    "localReason": "五个旧航油罐改成的展厅，罐子外面是起伏的草坡公园，年轻人和遛娃家庭都爱来。",
+    "kid9": "在草坡上跑上跑下，钻进油罐看展。",
+    "kid16": "在圆形油罐里看当代艺术，空间感很特别。",
+    "booking": "recommended",
+    "hook": "五个旧航油罐，外面是一片可以打滚的草坡",
+    "vibeTags": [
+      "遛娃",
+      "出片"
+    ],
+    "bestVisitWindow": "晴天下午",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "xuhui-riverside",
+    "name": "徐汇滨江骑行",
+    "area": "徐汇 · 龙华 → 西岸",
+    "areaId": "west-bund",
+    "themes": [
+      "walk"
+    ],
+    "topics": [
+      "fabric/renewal",
+      "infrastructure/industrial-heritage",
+      "ecology/rivers"
+    ],
+    "setting": "outdoor",
+    "hours": 2,
+    "lat": 31.174,
+    "lng": 121.465,
+    "localReason": "老码头和铁轨改造的滨江绿道，有滑板公园和塔吊，周末都是骑车跑步的本地人。",
+    "kid9": "看滑板公园里的高手，自己沿江骑车。",
+    "kid16": "可以把西岸几个美术馆串成一条线。",
+    "booking": "none",
+    "hook": "铁轨、塔吊和滑板公园组成的江边绿道",
+    "vibeTags": [
+      "开阔",
+      "本地人多"
+    ],
+    "bestVisitWindow": "周末上午",
+    "avoidWindow": "大风天",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shanghai-film-museum",
+    "name": "上海电影博物馆",
+    "area": "徐汇 · 漕溪北路",
+    "areaId": "xujiahui",
+    "themes": [
+      "heritage",
+      "science"
+    ],
+    "topics": [
+      "culture/film"
+    ],
+    "setting": "indoor",
+    "hours": 2.5,
+    "lat": 31.189,
+    "lng": 121.437,
+    "localReason": "在上影厂旧址上，讲上海作为中国电影发源地的故事，很多老上海人带孩子来怀旧。",
+    "kid9": "可以体验配音、拟音，看电影是怎么“做出来”的。",
+    "kid16": "看老电影海报和明星，理解上海和电影的关系。",
+    "booking": "recommended",
+    "hook": "在上影厂旧址，亲手试一次配音和拟音",
+    "vibeTags": [
+      "怀旧",
+      "学习感"
+    ],
+    "bestVisitWindow": "工作日",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "xujiahui-library",
+    "name": "徐家汇书院 · 藏书楼",
+    "area": "徐汇 · 徐家汇公园",
+    "areaId": "xujiahui",
+    "themes": [
+      "books",
+      "heritage"
+    ],
+    "topics": [
+      "culture/publishing",
+      "culture/exchange"
+    ],
+    "eras": [
+      "treaty-port"
+    ],
+    "setting": "indoor",
+    "hours": 2,
+    "lat": 31.196,
+    "lng": 121.437,
+    "localReason": "2023 年开放的公共书院，旁边是近 180 年历史的徐家汇藏书楼，本地人在这里感受“海派文化起点”。",
+    "kid9": "书院里有亲子阅读区。",
+    "kid16": "预约参观藏书楼，看西方传教士留下的古籍。",
+    "booking": "recommended",
+    "hook": "新书院对面，是快 180 年的徐家汇藏书楼",
+    "vibeTags": [
+      "安静",
+      "学习感",
+      "怀旧"
+    ],
+    "bestVisitWindow": "预约到藏书楼导览的时段",
+    "antiSignals": [
+      "藏书楼参观需预约"
+    ],
+    "nextGlance": {
+      "name": "徐家汇天主堂",
+      "note": "藏书楼旁边的双尖塔，在门口看一眼就好"
+    },
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "tushanwan-museum",
+    "name": "土山湾博物馆",
+    "area": "徐汇 · 蒲汇塘路",
+    "areaId": "xujiahui",
+    "themes": [
+      "heritage",
+      "science"
+    ],
+    "topics": [
+      "culture/exchange",
+      "countryside/crafts"
+    ],
+    "eras": [
+      "treaty-port"
+    ],
+    "setting": "indoor",
+    "hours": 1.5,
+    "lat": 31.183,
+    "lng": 121.442,
+    "localReason": "讲清末土山湾孤儿工艺院的故事，这里出过中国最早的西洋画、彩色玻璃和印刷，是海派手艺的源头之一。",
+    "kid9": "看木雕牌楼和手工艺作品，想想以前的孩子怎么学手艺。",
+    "kid16": "了解中西文化交流在上海是怎么发生的。",
+    "booking": "unknown",
+    "hook": "中国最早的西洋画和彩色玻璃，出自一座孤儿工艺院",
+    "vibeTags": [
+      "安静",
+      "怀旧"
+    ],
+    "bestVisitWindow": "任何时候，人少",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "columbia-circle",
+    "name": "上生·新所",
+    "area": "长宁 · 延安西路",
+    "areaId": "changning-west",
+    "themes": [
+      "heritage",
+      "walk"
+    ],
+    "topics": [
+      "architecture/adaptive-reuse",
+      "architecture/period-styles",
+      "fabric/renewal"
+    ],
+    "eras": [
+      "republic"
+    ],
+    "setting": "mixed",
+    "hours": 2.5,
+    "lat": 31.207,
+    "lng": 121.422,
+    "localReason": "原哥伦比亚乡村俱乐部，有孙科住宅和老泳池，修缮后成了白领最爱的老建筑园区。",
+    "kid9": "看漂亮的老泳池和花园，园区很适合走走。",
+    "kid16": "三栋历史建筑讲了一段民国上海的故事。",
+    "booking": "none",
+    "hook": "老俱乐部的泳池还在，旁边是孙科住宅",
+    "vibeTags": [
+      "出片",
+      "怀旧",
+      "适合观察街景"
+    ],
+    "bestVisitWindow": "工作日下午",
+    "avoidWindow": "周末下午",
+    "nextGlance": {
+      "name": "番禺路",
+      "note": "从园区出来，沿番禺路往南走一段，都是老洋房和小店"
+    },
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "yuyuan-road",
+    "name": "愚园路（长宁段）",
+    "area": "长宁 · 江苏路 → 定西路",
+    "areaId": "changning-west",
+    "themes": [
+      "walk",
+      "food"
+    ],
+    "topics": [
+      "fabric/street",
+      "everyday/street-economy",
+      "fabric/renewal"
+    ],
+    "setting": "outdoor",
+    "hours": 2,
+    "lat": 31.221,
+    "lng": 121.428,
+    "localReason": "比武康路安静得多的老马路，社区小店、老洋房和弄堂并存，是本地人自己的 city walk 路线。",
+    "kid9": "一路有小店和小吃，可以边吃边走。",
+    "kid16": "认老洋房的门牌和历史建筑铭牌。",
+    "booking": "none",
+    "hook": "比武康路安静，社区小店和老洋房混在一起",
+    "vibeTags": [
+      "本地人多",
+      "适合观察街景"
+    ],
+    "bestVisitWindow": "工作日上午",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "zhangyuan",
+    "name": "张园",
+    "area": "静安 · 威海路",
+    "areaId": "jingan-core",
+    "themes": [
+      "heritage",
+      "walk"
+    ],
+    "topics": [
+      "fabric/lilong",
+      "fabric/renewal"
+    ],
+    "setting": "mixed",
+    "hours": 1.5,
+    "lat": 31.229,
+    "lng": 121.46,
+    "localReason": "上海现存最大的石库门建筑群之一，修缮后重新开放，在这里能看到老石库门怎样被“活化”。",
+    "kid9": "钻弄堂、找门头上的雕花。",
+    "kid16": "对比修缮前后的石库门，听爸爸讲以前住弄堂的日子。",
+    "booking": "none",
+    "hook": "上海现存最大的石库门群之一，刚修好重新开门",
+    "vibeTags": [
+      "怀旧",
+      "出片"
+    ],
+    "bestVisitWindow": "工作日",
+    "avoidWindow": "周末下午",
+    "antiSignals": [
+      "部分区域商业化，周末人多"
+    ],
+    "nextGlance": {
+      "name": "吴江路",
+      "note": "张园北边的小吃街，顺路买点吃的"
+    },
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "suzhou-creek-walk",
+    "name": "苏州河步道",
+    "area": "静安 / 普陀 · 苏州河沿岸",
+    "areaId": "suzhou-creek",
+    "themes": [
+      "walk",
+      "heritage"
+    ],
+    "topics": [
+      "ecology/rivers",
+      "fabric/renewal",
+      "infrastructure/industrial-heritage"
+    ],
+    "setting": "outdoor",
+    "hours": 2.5,
+    "lat": 31.246,
+    "lng": 121.455,
+    "localReason": "苏州河两岸贯通后的步道，从老仓库、老桥一路走到天安千树，本地人周末散步的首选。",
+    "kid9": "数一数路过多少座桥。",
+    "kid16": "苏州河从臭水沟变成城市客厅，是上海这些年变化的缩影。",
+    "booking": "none",
+    "hook": "沿着苏州河，看一条臭水沟怎么变成城市客厅",
+    "vibeTags": [
+      "适合观察街景",
+      "开阔"
+    ],
+    "bestVisitWindow": "晴天下午",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "tianan-1000-trees",
+    "name": "天安千树 · M50",
+    "area": "普陀 · 莫干山路",
+    "areaId": "suzhou-creek",
+    "themes": [
+      "art",
+      "walk"
+    ],
+    "topics": [
+      "architecture/contemporary",
+      "culture/visual-art"
+    ],
+    "eras": [
+      "now"
+    ],
+    "setting": "mixed",
+    "hours": 2,
+    "lat": 31.249,
+    "lng": 121.45,
+    "localReason": "托马斯·赫斯维克设计的“千棵树”建筑，旁边就是老牌艺术园区 M50，可以一起逛。",
+    "kid9": "一栋楼上“长”了上千棵树，很像童话。",
+    "kid16": "M50 的画廊和涂鸦墙。",
+    "booking": "none",
+    "hook": "一栋楼上长了一千棵树，楼下就是 M50",
+    "vibeTags": [
+      "出片"
+    ],
+    "bestVisitWindow": "工作日",
+    "antiSignals": [
+      "商场属性较强"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shanghai-post-museum",
+    "name": "上海邮政博物馆",
+    "area": "虹口 · 北苏州路",
+    "areaId": "suzhou-creek",
+    "themes": [
+      "heritage"
+    ],
+    "topics": [
+      "infrastructure/communications",
+      "architecture/period-styles"
+    ],
+    "eras": [
+      "republic"
+    ],
+    "setting": "indoor",
+    "hours": 1.5,
+    "lat": 31.244,
+    "lng": 121.484,
+    "localReason": "百年邮政大楼里的博物馆，屋顶花园能看苏州河和陆家嘴，很多上海人自己也没去过。",
+    "kid9": "看老邮车、邮筒和各种邮票，还能寄一张明信片回家。",
+    "kid16": "屋顶花园的视角拍陆家嘴，比外滩人少很多。",
+    "booking": "unknown",
+    "hook": "百年邮政大楼的屋顶花园，隔着苏州河看陆家嘴",
+    "vibeTags": [
+      "安静",
+      "怀旧"
+    ],
+    "bestVisitWindow": "工作日",
+    "nextGlance": {
+      "name": "四川路桥",
+      "note": "邮政大楼正对着的老桥，站在桥上看苏州河两岸的老建筑"
+    },
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "sihang-warehouse",
+    "name": "四行仓库抗战纪念馆",
+    "area": "静安 · 光复路",
+    "areaId": "suzhou-creek",
+    "themes": [
+      "heritage"
+    ],
+    "topics": [
+      "layers/war-memory"
+    ],
+    "eras": [
+      "republic"
+    ],
+    "setting": "indoor",
+    "hours": 1.5,
+    "lat": 31.243,
+    "lng": 121.47,
+    "localReason": "八百壮士坚守四行仓库的原址，西墙保留着弹孔，是很多本地家庭带孩子来的地方。",
+    "kid9": "内容偏沉重，9 岁可以只看外墙和模型。",
+    "kid16": "看墙上的弹孔，读懂一段真实的上海历史。",
+    "booking": "required",
+    "hook": "西墙上的弹孔是原物，不是复制品",
+    "vibeTags": [
+      "学习感"
+    ],
+    "bestVisitWindow": "工作日",
+    "antiSignals": [
+      "需预约",
+      "内容对 9 岁偏沉重"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "power-station-of-art",
+    "name": "上海当代艺术博物馆（PSA）",
+    "area": "黄浦 · 南外滩世博片区",
+    "areaId": "south-bund",
+    "themes": [
+      "art",
+      "heritage"
+    ],
+    "topics": [
+      "culture/visual-art",
+      "architecture/adaptive-reuse",
+      "infrastructure/energy"
+    ],
+    "eras": [
+      "pudong"
+    ],
+    "setting": "indoor",
+    "hours": 2.5,
+    "lat": 31.208,
+    "lng": 121.492,
+    "localReason": "南市发电厂改成的美术馆，大烟囱还在，上海双年展在这里举办。",
+    "kid9": "巨大的厂房展厅，常有能互动的装置作品。",
+    "kid16": "国内第一家国有当代艺术馆，适合看大型当代展。",
+    "december": "第 15 届双年展已于 2026 年 3 月结束；出发前查当期展览。",
+    "booking": "recommended",
+    "hook": "老发电厂的大烟囱还在，里面在办当代艺术展",
+    "vibeTags": [
+      "开阔",
+      "出片"
+    ],
+    "bestVisitWindow": "有大展期间",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      },
+      {
+        "kind": "gov",
+        "name": "上海市政府英文网",
+        "url": "https://english.shanghai.gov.cn/en-CulturalandArtisticExperiences-Videos-WhatsNew/20260611/bfa5459d0f084b9fba7437c7bce833ed.html",
+        "date": "2026-06-11"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "expo-museum",
+    "name": "世博会博物馆",
+    "area": "黄浦 · 蒙自路",
+    "areaId": "south-bund",
+    "themes": [
+      "heritage",
+      "science"
+    ],
+    "topics": [
+      "layers/archives",
+      "economy/global"
+    ],
+    "setting": "indoor",
+    "hours": 2,
+    "lat": 31.201,
+    "lng": 121.488,
+    "localReason": "讲从 1851 年至今的世博会历史，2010 上海世博会的部分展品也在这里。",
+    "kid9": "看各国场馆模型和老世博的发明。",
+    "kid16": "了解 2010 世博会对上海城市的改变。",
+    "booking": "recommended",
+    "hook": "从 1851 年讲到 2010 年的世博会",
+    "vibeTags": [
+      "学习感",
+      "遛娃"
+    ],
+    "bestVisitWindow": "工作日",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "urban-planning-hall",
+    "name": "上海城市规划展示馆",
+    "area": "黄浦 · 人民广场",
+    "areaId": "peoples-square",
+    "themes": [
+      "heritage",
+      "science"
+    ],
+    "topics": [
+      "society/planning"
+    ],
+    "setting": "indoor",
+    "hours": 2,
+    "lat": 31.231,
+    "lng": 121.474,
+    "localReason": "有一整层的上海市中心巨型模型，最适合离开二十年的人一次补齐这座城市的变化。",
+    "kid9": "在大模型上找自己住的地方和去过的地方。",
+    "kid16": "看上海的规划，理解城市为什么长成现在这样。",
+    "december": "2019 年底至 2022 年 8 月闭馆改造，现已重新开放；出发前确认预约方式。",
+    "booking": "unknown",
+    "hook": "一整层的上海模型，二十年的变化一眼看完",
+    "vibeTags": [
+      "学习感",
+      "遛娃"
+    ],
+    "bestVisitWindow": "工作日上午",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      },
+      {
+        "kind": "news",
+        "name": "Shanghai Daily",
+        "url": "https://www.pressreader.com/china/shanghai-daily/20220810/281530819796450",
+        "date": "2022-08-10"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "yangpu-riverside",
+    "name": "杨浦滨江 · 杨树浦水厂栈桥",
+    "area": "杨浦 · 杨树浦路",
+    "areaId": "yangpu-riverside",
+    "themes": [
+      "walk",
+      "heritage"
+    ],
+    "topics": [
+      "infrastructure/industrial-heritage",
+      "infrastructure/water",
+      "fabric/renewal"
+    ],
+    "setting": "outdoor",
+    "hours": 2.5,
+    "lat": 31.256,
+    "lng": 121.525,
+    "localReason": "“工业锈带”变成的滨江，百年水厂、绿之丘、老码头一路串起来，是建筑迷和本地人的散步线。",
+    "kid9": "走水厂外的栈桥，看巨大的老吊车和管道。",
+    "kid16": "近代上海工业的起点就在这里，拍照也出片。",
+    "booking": "none",
+    "hook": "百年水厂外的栈桥，一路都是老工业遗存",
+    "vibeTags": [
+      "开阔",
+      "出片",
+      "适合观察街景"
+    ],
+    "bestVisitWindow": "晴天傍晚",
+    "avoidWindow": "大风天",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "1933-laochangfang",
+    "name": "1933 老场坊",
+    "area": "虹口 · 沙泾路",
+    "areaId": "north-bund",
+    "themes": [
+      "heritage"
+    ],
+    "topics": [
+      "architecture/period-styles",
+      "infrastructure/industrial-heritage"
+    ],
+    "eras": [
+      "republic"
+    ],
+    "setting": "indoor",
+    "hours": 1,
+    "lat": 31.259,
+    "lng": 121.491,
+    "localReason": "曾是远东最大的屠宰场，混凝土廊桥像迷宫一样，现在是创意园区。",
+    "kid9": "在迷宫一样的廊桥里上上下下。",
+    "kid16": "装饰艺术风格的工业建筑，光影很适合拍照。",
+    "booking": "none",
+    "hook": "原来的远东第一屠宰场，廊桥像一座迷宫",
+    "vibeTags": [
+      "出片"
+    ],
+    "bestVisitWindow": "晴天中午光线好",
+    "antiSignals": [
+      "商业空置较多"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shanghai-natural-history-museum",
+    "name": "上海自然博物馆",
+    "area": "静安 · 雕塑公园",
+    "areaId": "jingan-core",
+    "themes": [
+      "science"
+    ],
+    "topics": [
+      "ecology/biodiversity",
+      "culture/science"
+    ],
+    "setting": "indoor",
+    "hours": 3,
+    "lat": 31.235,
+    "lng": 121.461,
+    "localReason": "藏在静安雕塑公园里的螺旋形新馆，本地家长带娃的第一选择。",
+    "kid9": "恐龙骨架和动物标本墙，会看得停不下来。",
+    "kid16": "演化和生态的展区讲得很系统。",
+    "booking": "required",
+    "hook": "恐龙骨架和一整面墙的动物标本",
+    "vibeTags": [
+      "遛娃",
+      "学习感"
+    ],
+    "bestVisitWindow": "工作日",
+    "avoidWindow": "周末和寒假",
+    "antiSignals": [
+      "需预约，周末人多"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shanghai-tcm-museum",
+    "name": "上海中医药博物馆",
+    "area": "浦东 · 张江",
+    "areaId": "zhangjiang",
+    "themes": [
+      "science",
+      "heritage"
+    ],
+    "topics": [
+      "culture/science"
+    ],
+    "setting": "indoor",
+    "hours": 1.5,
+    "lat": 31.2,
+    "lng": 121.59,
+    "localReason": "在中医药大学校园里，小众而安静，有大量药材标本和古代医具。",
+    "kid9": "闻一闻、认一认各种中草药。",
+    "kid16": "了解中医的历史，和海外的生活经验对比一下。",
+    "booking": "unknown",
+    "hook": "大学校园里的中药标本馆，闻一闻、认一认",
+    "vibeTags": [
+      "安静",
+      "学习感"
+    ],
+    "bestVisitWindow": "工作日",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shanghai-astronomy-museum",
+    "name": "上海天文馆",
+    "area": "浦东 · 临港",
+    "areaId": "lingang",
+    "themes": [
+      "science"
+    ],
+    "topics": [
+      "culture/science"
+    ],
+    "eras": [
+      "now"
+    ],
+    "setting": "indoor",
+    "hours": 6,
+    "lat": 30.91,
+    "lng": 121.907,
+    "localReason": "世界最大的天文馆之一，离市区远，本地人会专门留出一整天开车或坐地铁过去。",
+    "kid9": "球幕影院和可以摸的陨石。",
+    "kid16": "展陈讲得很深，从宇宙起源讲到引力波。",
+    "december": "周末和假期票很紧，提前几天抢票。",
+    "booking": "required",
+    "hook": "世界最大的天文馆之一，值得专门花一整天",
+    "vibeTags": [
+      "学习感",
+      "开阔"
+    ],
+    "bestVisitWindow": "工作日",
+    "avoidWindow": "寒假周末",
+    "antiSignals": [
+      "只能用微信小程序预约，境外手机号可能注册不了"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      },
+      {
+        "kind": "gov",
+        "name": "临港新片区英文网",
+        "url": "https://en.lingang.gov.cn/html/website/lg/English/News1630758253379031042/Updates/c1810155225356505089.html",
+        "date": null
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shanghai-glass-museum",
+    "name": "上海玻璃博物馆",
+    "area": "宝山 · 长江西路",
+    "areaId": "wusong",
+    "themes": [
+      "science",
+      "art"
+    ],
+    "topics": [
+      "economy/manufacturing",
+      "architecture/adaptive-reuse"
+    ],
+    "setting": "indoor",
+    "hours": 3,
+    "lat": 31.35,
+    "lng": 121.433,
+    "localReason": "老玻璃厂改造的博物馆，有现场吹制表演和 DIY 工坊，是上海家长圈的口碑之选。",
+    "kid9": "看师傅现场吹玻璃，自己动手做一件小作品。",
+    "kid16": "玻璃艺术和设计展厅，很适合拍照。",
+    "booking": "recommended",
+    "hook": "看师傅现场吹玻璃，再自己动手做一件",
+    "vibeTags": [
+      "遛娃",
+      "出片"
+    ],
+    "bestVisitWindow": "有吹制表演的时段",
+    "antiSignals": [
+      "DIY 工坊可能需要预约"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "paotaiwan-wetland",
+    "name": "吴淞炮台湾湿地森林公园",
+    "area": "宝山 · 吴淞口",
+    "areaId": "wusong",
+    "themes": [
+      "nature",
+      "heritage"
+    ],
+    "topics": [
+      "ecology/wetland",
+      "layers/war-memory"
+    ],
+    "setting": "outdoor",
+    "hours": 3,
+    "lat": 31.398,
+    "lng": 121.505,
+    "localReason": "长江口的老炮台和湿地，旁边能看到邮轮码头，是宝山本地人的周末去处。",
+    "kid9": "木栈道走湿地，看大邮轮进出港。",
+    "kid16": "吴淞口炮台的近代史。",
+    "december": "江边风大，穿暖。",
+    "booking": "none",
+    "hook": "长江口的老炮台，看大邮轮进出港",
+    "vibeTags": [
+      "开阔",
+      "安静"
+    ],
+    "bestVisitWindow": "晴天",
+    "avoidWindow": "大风天",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "chongming-dongtan",
+    "name": "崇明东滩湿地",
+    "area": "崇明 · 东滩",
+    "areaId": "chongming",
+    "themes": [
+      "nature"
+    ],
+    "topics": [
+      "ecology/wetland",
+      "ecology/biodiversity"
+    ],
+    "setting": "outdoor",
+    "hours": 7,
+    "lat": 31.5,
+    "lng": 121.95,
+    "localReason": "长江入海口的候鸟栖息地，冬天是观鸟季，本地观鸟爱好者每年都会去。",
+    "kid9": "用望远镜找候鸟。",
+    "kid16": "看长江入海口，了解上海这块土地是怎么“长”出来的。",
+    "december": "12 月正是候鸟季；要带望远镜、穿得非常暖。",
+    "booking": "unknown",
+    "hook": "12 月正是候鸟季，长江入海口的观鸟地",
+    "vibeTags": [
+      "安静",
+      "开阔",
+      "适合独处"
+    ],
+    "bestVisitWindow": "晴天清晨",
+    "avoidWindow": "阴雨大风天",
+    "antiSignals": [
+      "路远，单程两小时左右"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "chenshan-botanical-garden",
+    "name": "辰山植物园",
+    "area": "松江 · 辰山",
+    "areaId": "songjiang",
+    "themes": [
+      "nature"
+    ],
+    "topics": [
+      "ecology/plants",
+      "architecture/landscape"
+    ],
+    "setting": "mixed",
+    "hours": 4,
+    "lat": 31.079,
+    "lng": 121.184,
+    "localReason": "上海最大的植物园，有亚洲最大的展览温室群和矿坑花园，本地人一年四季都去。",
+    "kid9": "温室里看仙人掌和热带雨林，矿坑花园走悬崖栈道。",
+    "kid16": "矿坑花园是废弃采石场改造的景观设计。",
+    "december": "冬天户外萧条，以温室为主。",
+    "booking": "recommended",
+    "hook": "亚洲最大的展览温室群，加一个废弃采石场改成的矿坑花园",
+    "vibeTags": [
+      "开阔",
+      "出片"
+    ],
+    "bestVisitWindow": "晴天",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "guangfulin",
+    "name": "广富林文化遗址",
+    "area": "松江 · 广富林",
+    "areaId": "songjiang",
+    "themes": [
+      "heritage",
+      "walk"
+    ],
+    "topics": [
+      "countryside/archaeology"
+    ],
+    "eras": [
+      "ancient"
+    ],
+    "setting": "mixed",
+    "hours": 3,
+    "lat": 31.095,
+    "lng": 121.2,
+    "localReason": "“上海之根”的考古遗址，展馆一半沉在水下，徽派老建筑沿湖而建，比古镇清净。",
+    "kid9": "去水下展馆看考古发现的陶器。",
+    "kid16": "了解上海在成为大城市以前有怎样的历史。",
+    "booking": "unknown",
+    "hook": "一半沉在水下的考古展馆，“上海之根”",
+    "vibeTags": [
+      "安静",
+      "学习感"
+    ],
+    "bestVisitWindow": "工作日",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "jiading-old-town",
+    "name": "嘉定老城 · 孔庙 · 州桥",
+    "area": "嘉定 · 州桥",
+    "areaId": "jiading",
+    "themes": [
+      "heritage",
+      "walk"
+    ],
+    "topics": [
+      "countryside/county-town",
+      "layers/palimpsest"
+    ],
+    "eras": [
+      "jiangnan"
+    ],
+    "setting": "mixed",
+    "hours": 3.5,
+    "lat": 31.383,
+    "lng": 121.25,
+    "localReason": "保存完好的江南县城格局，孔庙里有科举博物馆，比热门古镇有生活气。",
+    "kid9": "在科举博物馆看古代考生的“小抄”。",
+    "kid16": "了解科举制度，对照今天的高考。",
+    "booking": "none",
+    "hook": "孔庙里的科举博物馆，能看到古代考生的“小抄”",
+    "vibeTags": [
+      "怀旧",
+      "本地人多"
+    ],
+    "bestVisitWindow": "工作日",
+    "nextGlance": {
+      "name": "法华塔",
+      "note": "州桥边的宋代古塔，走过去五分钟"
+    },
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "poly-grand-theatre-jiading",
+    "name": "上海保利大剧院",
+    "area": "嘉定 · 远香湖",
+    "areaId": "jiading",
+    "themes": [
+      "art",
+      "walk"
+    ],
+    "topics": [
+      "architecture/contemporary",
+      "culture/stage"
+    ],
+    "setting": "mixed",
+    "hours": 2,
+    "lat": 31.336,
+    "lng": 121.244,
+    "localReason": "安藤忠雄设计的“万花筒”剧院，湖边散步再看一场演出，是嘉定本地人的周末。",
+    "kid9": "在圆形空洞的楼梯里穿来穿去。",
+    "kid16": "安藤忠雄的清水混凝土建筑，有演出可以顺便看。",
+    "booking": "none",
+    "hook": "安藤忠雄的“万花筒”，湖边散步再看一场演出",
+    "vibeTags": [
+      "出片",
+      "安静"
+    ],
+    "bestVisitWindow": "傍晚",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "shanghai-auto-museum",
+    "name": "上海汽车博物馆",
+    "area": "嘉定 · 安亭",
+    "areaId": "jiading",
+    "themes": [
+      "science",
+      "heritage"
+    ],
+    "topics": [
+      "economy/manufacturing"
+    ],
+    "setting": "indoor",
+    "hours": 2.5,
+    "lat": 31.289,
+    "lng": 121.168,
+    "localReason": "国内少有的专业汽车博物馆，有大量古董车，旁边就是上海国际赛车场。",
+    "kid9": "上百辆老爷车，跟着颜色和造型认车。",
+    "kid16": "看汽车工业的发展，安亭是上海汽车产业的大本营。",
+    "booking": "unknown",
+    "hook": "上百辆老爷车，旁边就是 F1 赛道",
+    "vibeTags": [
+      "遛娃"
+    ],
+    "bestVisitWindow": "工作日",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "xinchang-ancient-town",
+    "name": "新场古镇",
+    "area": "浦东 · 新场",
+    "areaId": "xinchang",
+    "themes": [
+      "heritage",
+      "walk",
+      "food"
+    ],
+    "topics": [
+      "countryside/water-town"
+    ],
+    "eras": [
+      "jiangnan"
+    ],
+    "setting": "outdoor",
+    "hours": 3,
+    "lat": 31.025,
+    "lng": 121.645,
+    "localReason": "浦东本地的老镇，游客远比朱家角少，很多居民还住在老街上。",
+    "kid9": "老街上的小吃和手工作坊。",
+    "kid16": "看浦东在陆家嘴之前的样子。",
+    "booking": "none",
+    "hook": "游客比朱家角少得多，居民还住在老街上",
+    "vibeTags": [
+      "本地人多",
+      "适合观察街景"
+    ],
+    "bestVisitWindow": "工作日",
+    "avoidWindow": "节假日",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "panlong-tiandi",
+    "name": "蟠龙天地",
+    "area": "青浦 · 徐泾",
+    "areaId": "qingpu",
+    "themes": [
+      "walk",
+      "food"
+    ],
+    "topics": [
+      "countryside/water-town",
+      "food/retail"
+    ],
+    "setting": "outdoor",
+    "hours": 3,
+    "lat": 31.18,
+    "lng": 121.295,
+    "localReason": "江南古村改造的新街区，近年是白领周末的热门去处，有水街、老宅和餐厅。",
+    "kid9": "水边小路和小桥，很适合边走边玩。",
+    "kid16": "看古镇改造的新做法，和老古镇对比。",
+    "booking": "none",
+    "hook": "江南古村改出来的新水街，白领周末的新去处",
+    "vibeTags": [
+      "出片",
+      "热闹"
+    ],
+    "bestVisitWindow": "工作日傍晚",
+    "avoidWindow": "周末下午",
+    "antiSignals": [
+      "新街区商业化明显"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "wuzhong-market",
+    "name": "乌中市集",
+    "area": "徐汇 · 乌鲁木齐中路",
+    "areaId": "hengfu",
+    "themes": [
+      "food"
+    ],
+    "topics": [
+      "food/markets",
+      "everyday/wet-market"
+    ],
+    "setting": "indoor",
+    "hours": 1,
+    "lat": 31.213,
+    "lng": 121.443,
+    "localReason": "改造过的社区菜场，既卖菜也有咖啡和小吃，是附近居民和白领的日常。",
+    "kid9": "认识上海冬天的菜：塌棵菜、冬笋、荠菜。",
+    "kid16": "看真实的上海菜场，和国外超市对比。",
+    "december": "早上去最热闹。",
+    "booking": "none",
+    "hook": "改造过的社区菜场，楼下买菜，楼上喝咖啡",
+    "vibeTags": [
+      "本地人多",
+      "适合观察街景",
+      "热闹"
+    ],
+    "bestVisitWindow": "早上",
+    "avoidWindow": "下午收摊后",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "hengshan-heji",
+    "name": "衡山·和集",
+    "area": "徐汇 · 衡山路",
+    "areaId": "hengfu",
+    "themes": [
+      "books"
+    ],
+    "topics": [
+      "culture/publishing"
+    ],
+    "setting": "indoor",
+    "hours": 1.5,
+    "lat": 31.205,
+    "lng": 121.44,
+    "localReason": "老洋房里的书店、杂志和咖啡，上海文艺青年的老据点。",
+    "kid9": "有绘本和文具。",
+    "kid16": "外文设计书和杂志很多，挑一本带回家。",
+    "booking": "none",
+    "hook": "老洋房里的书店，上海文艺青年的老据点",
+    "vibeTags": [
+      "安静",
+      "适合独处"
+    ],
+    "bestVisitWindow": "工作日下午",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "qiantan",
+    "name": "前滩休闲公园 · 前滩太古里",
+    "area": "浦东 · 前滩",
+    "areaId": "expo-qiantan",
+    "themes": [
+      "walk",
+      "food"
+    ],
+    "topics": [
+      "food/retail",
+      "society/planning"
+    ],
+    "setting": "mixed",
+    "hours": 3,
+    "lat": 31.157,
+    "lng": 121.475,
+    "localReason": "近几年浦东白领最爱的新区：滨江公园加开放式商业街，吃饭、散步、看江一次搞定。",
+    "kid9": "滨江公园和步道，适合放电。",
+    "kid16": "看看上海年轻人的周末是什么样子。",
+    "booking": "none",
+    "hook": "浦东白领最爱的新区，江边公园加开放式街区",
+    "vibeTags": [
+      "热闹",
+      "开阔"
+    ],
+    "bestVisitWindow": "傍晚",
+    "antiSignals": [
+      "商业气息浓"
+    ],
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "longhua-temple",
+    "name": "龙华寺 · 龙华塔",
+    "area": "徐汇 · 龙华",
+    "areaId": "west-bund",
+    "themes": [
+      "heritage"
+    ],
+    "topics": [
+      "culture/religion"
+    ],
+    "setting": "outdoor",
+    "hours": 1.5,
+    "lat": 31.176,
+    "lng": 121.45,
+    "localReason": "上海最古老的寺庙之一，香火是本地人的，不是旅游团的；可以和徐汇滨江连着走。",
+    "kid9": "数一数龙华塔有几层，听钟楼的故事。",
+    "kid16": "宋代砖塔和寺院建筑。",
+    "december": "冬至、年末本地人来上香较多。",
+    "booking": "none",
+    "hook": "上海最古老的寺庙之一，香火来自本地人，不是旅游团",
+    "vibeTags": [
+      "本地人多",
+      "安静"
+    ],
+    "bestVisitWindow": "工作日上午",
+    "avoidWindow": "冬至等节日前后",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  },
+  {
+    "id": "binjiang-forest-park",
+    "name": "滨江森林公园",
+    "area": "浦东 · 高桥",
+    "areaId": "gaoqiao",
+    "themes": [
+      "nature"
+    ],
+    "topics": [
+      "ecology/urban-green",
+      "ecology/rivers"
+    ],
+    "setting": "outdoor",
+    "hours": 3.5,
+    "lat": 31.387,
+    "lng": 121.565,
+    "localReason": "黄浦江和长江交汇的“三水交汇”处，浦东人的周末森林。",
+    "kid9": "森林里骑车、找松果。",
+    "kid16": "站在三江交汇处看大船进出。",
+    "december": "天晴才值得去。",
+    "booking": "none",
+    "hook": "黄浦江、长江和东海交汇的“三水交汇”处",
+    "vibeTags": [
+      "安静",
+      "开阔",
+      "适合独处"
+    ],
+    "bestVisitWindow": "晴天",
+    "avoidWindow": "雨天",
+    "sources": [
+      {
+        "kind": "model",
+        "name": "Claude 知识整理",
+        "date": "2026-06"
+      }
+    ],
+    "verifiedAt": null
+  }
+]
